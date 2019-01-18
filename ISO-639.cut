@@ -3,6 +3,13 @@
 # List one language code separated by tab,
 # at the end followed by Capitalized language name.
 # Language name can have spaces in it, for example: Manado Malay
+kur	Kurdish
+wuu	Wu Chinese
+vec	Venetian
+ist	Istriot
+wol	Wolof
+tzh	Tzeltal
+xho	Xhosa
 hak	Hakka Chinese
 qom	Toba Guaicuruan
 yuw	Yau

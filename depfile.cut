@@ -13,10 +13,10 @@
 		ShowHost Speaker Student Subject Teacher Teenager Text Therapist 
 		Toy Uncertain Uncle Unidentified Visitor LENA
 @Options:	heritage sign IPA CA CA-Unicode multi caps bullets
-@ID:	@d<yy;> @d<yy;mm.> @d<yy;mm.dd> @d<yy;mm.d>
+@ID:	@d<yy;> @d<yy;mm.> @d<yy;mm.dd>
 	@e<White> @e<Black> @e<Latino> @e<Asian> @e<Pacific>
 	@s<WC> @s<UC> @s<MC> @s<LI>
-@Media:	audio video missing unlinked
+@Media:	audio video missing unlinked notrans
 @Angles:	*
 @End
 
@@ -49,6 +49,7 @@
 @Date:	@d<dd-lll-yyyy> -
 @Eg
 @Eg:	* = $* -
+@EndTurn
 @G:	* = -* -
 @New Episode
 @New Language:	*
@@ -62,7 +63,7 @@
 	+" +^ +< +, ++ +≋ +≈
 	`_* *- :
 	[!] [!!] [=! _*] [= _*] [=? _*] [?] [: _*] [:: _*] [\*] [\* _*] [\% _*]
-	[# _*]
+	[# _*] [e]
 	[>*] [<*] [/] [//] [///] [/-] [/?] [^c] [^c _*]
 	&_* &{l=\% &}l=\% 0_* '_* /_* //_* ///_*
 	*@a *@b *@c *@d *@e *@f *@fp *@g *@i *@k *@l *@n *@nv *@o *@p
