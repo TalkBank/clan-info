@@ -12,7 +12,7 @@
 		OffScript Operator Partner Patient PlayRole Playmate ShowGuest 
 		ShowHost Speaker Student Subject Teacher Teenager Text Therapist 
 		Toy Uncertain Uncle Unidentified Visitor LENA
-@Options:	heritage sign IPA CA CA-Unicode multi caps bullets notarget
+@Options:	heritage sign IPA CA CA-Unicode multi bullets notarget
 @ID:	@d<yy;> @d<yy;mm.> @d<yy;mm.dd>
 	@e<White> @e<Black> @e<Latino> @e<Asian> @e<Pacific> @e<Native> @e<Multiple>  @e<Unknown>
 	@s<WC> @s<UC> @s<MC> @s<LI>
@@ -69,8 +69,6 @@
 	*@a *@b *@c *@d *@e *@f *@fp *@g *@i *@k *@l *@n *@nv *@o *@p
 	*@q *@s *@s:* *@s$* *@si *@sl *@sas *@t *@u *@wp *@x *@z:*
 	+@c +@f +@n +@s +@s:* +@si +@sl +@sas +@t +-_*
-	[UPREFS Mac] [UPREFS Mc] [UPREFS De] [UPREFS La] [UPREFS Las]
-	[UPREFS Los] [UPREFS San] [UPREFS St] [UPREFS O'] [UPREFS D']
 
 # Dependent Tiers
 %act:	* [_*] $=* "* '* /* ( ) : -*
