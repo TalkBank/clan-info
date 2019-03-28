@@ -3,15 +3,15 @@
 # Obligatory Headers
 @Begin
 @Languages:	*
-@Participants:	Target\_Child Target\_Adult Child Mother Father Brother
-		Sister Sibling Male Female Participant Adult Attorney 
-		Audience Aunt Babysitter Boy CallTaker Caller Camera\_Operator 
-		Caretaker Clinician Cousin Doctor Environment Family\_Friend Girl 
-		Grandfather Grandmother Group Housekeeper Informant Interviewer 
-		Investigator Judge Justice Media Narrator Non\_Human Nurse Observer 
-		OffScript Operator Partner Patient PlayRole Playmate ShowGuest 
-		ShowHost Speaker Student Subject Teacher Teenager Text Therapist 
-		Toy Uncertain Uncle Unidentified Visitor LENA
+@Participants:	Adult Attorney Audience Aunt Babysitter Boy Child Mother Father 
+		Brother CallTaker Caller Camera\_Operator 
+		Caretaker Clinician Cousin Doctor Environment Female Friend Girl 
+		Grandfather Grandmother Group Housekeeper Informant Interviewer Interviewee
+		Investigator Judge Juror Justice Leader LENA Male Media Member Narrator 
+		Non\_Human Nurse Observer OffScript Operator Other Partner Participant 
+		Patient PlayRole Playmate ShowGuest ShowHost Sister Sibling Speaker 
+		Student Subject Target\_Child Target\_Adult Teacher Teenager Text 
+		Therapist Toy Uncertain Uncle Unidentified Visitor 
 @Options:	heritage sign IPA CA CA-Unicode multi caps bullets notarget
 @ID:	@d<yy;> @d<yy;mm.> @d<yy;mm.dd>
 	@e<White> @e<Black> @e<Latino> @e<Asian> @e<Pacific>
