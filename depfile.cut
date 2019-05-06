@@ -26,7 +26,6 @@
 @L1 of #:	*
 
 # Optional File Description Headers
-@Exceptions:	\** * _*
 @Location:	*
 @Number:	1 2 3 4 5 more audience
 @Recording Quality:	1 2 3 4 5
@@ -49,7 +48,6 @@
 @Date:	@d<dd-lll-yyyy> -
 @Eg
 @Eg:	* = $* -
-@EndTurn
 @G:	* = -* -
 @New Episode
 @New Language:	*
@@ -58,7 +56,7 @@
 @T:	*
 
 # Main Line
-*:	* , ,, [x _*] [- _*] [+ _*] [^ *] *~_* *_*# *-_*
+*:	* ,  [x _*] [- _*] [+ _*] [^ *]  *-_*
 	+... +/. +!? +//. +/? +"/. +". +//? +..? +.
 	+" +^ +< +, ++ +≋ +≈
 	`_* *- :
