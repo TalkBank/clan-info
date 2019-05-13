@@ -51,14 +51,14 @@ classroom tutorial private family sports religious legal face_to_face
 @Eg
 @Eg:	* = $* -
 @G:	* = -* -
+@Interaction Type: *
 @New Episode
-@New Language:	*
-@Page
+@Page:	*
 @Situation:	* "* - ["] [?]
 @T:	*
 
 # Main Line
-*:	* ,  [x _*] [- _*] [+ _*] [^ *]  *-_*
+*:	* , [x _*] [- _*] [+ _*] [^ *] *_*# *-_*
 	+... +/. +!? +//. +/? +"/. +". +//? +..? +.
 	+" +^ +< +, ++ +≋ +≈
 	`_* *- :
@@ -84,7 +84,6 @@ classroom tutorial private family sports religious legal face_to_face
 %exp:	* [_*] "* '* = $=*
 %fac:	*
 %flo:	* '* /* [UTD] +... +/. +!? +//. +/? +"/. +". +//? +..? +.
-%ges:	* #* "*
 %gls:	* [_*] '* #
 %gpx:	* $* "* #*
 %gra:	*
