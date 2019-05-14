@@ -26,8 +26,6 @@
 @L1 of #:	*
 
 # Optional File Description Headers
-@Interaction Type: constructed computer phonecall telechat meeting work medical \
-classroom tutorial private family sports religious legal face_to_face
 @Location:	*
 @Number:	1 2 3 4 5 more audience
 @Recording Quality:	1 2 3 4 5
@@ -51,7 +49,6 @@ classroom tutorial private family sports religious legal face_to_face
 @Eg
 @Eg:	* = $* -
 @G:	* = -* -
-@Interaction Type: *
 @New Episode
 @Page:	*
 @Situation:	* "* - ["] [?]
