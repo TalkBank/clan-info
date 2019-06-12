@@ -1,9 +1,11 @@
+@Font:	Arial:18:0
 @UTF8
+@PID:	11312/t-00017837-1
 @Begin
 @Languages:	eng
 @Participants:	PAR adler11a Participant, INV Investigator
-@ID:	eng|Adler|PAR|80;11.|male|Broca||Participant||17.0|
-@ID:	eng|Adler|INV|||||Investigator|||
+@ID:	eng|Aphasia|PAR|80;11.|male|Broca||Participant||17.0|
+@ID:	eng|Aphasia|INV|||||Investigator|||
 @Media:	adler11a, video
 @G:	Important_Event
 *INV:	thinking back tell me <something that> [//] &impor something
@@ -15,7 +17,7 @@
 *PAR:	mhm . 18783_19591
 *INV:	or whatever you'd like to talk about . 19591_22019
 *PAR:	yeah . 22019_22855
-*PAR:	&uh one &=finger:one &uh +... 22855_27800
+*PAR:	&-uh one &=finger:one &-uh +... 22855_27800
 *PAR:	&=ges:write &ri . 27800_28867
 %com:	INV provides PAR with paper and marker
 *PAR:	&=draws:circle &=draws:arc &=draws:circle . 28867_37826
@@ -28,46 +30,46 @@
 *PAR:	yeah &=imit:fly &=ges:fly &=head:yes yeah . 63656_65539
 *INV:	and where is this place &=points:circle_1 and this place
 	&=points:circle_2 ? 65539_67822
-*PAR:	&uh (.) &=sighs &=draws:letter_h &=looks:INV . 67822_79443
+*PAR:	&-uh (.) &=sighs &=draws:letter_h &=looks:INV . 67822_79443
 *INV:	h@l . 79443_82167
-*PAR:	yeah (.) yeah . 82167_85722
+*PAR:	yeah [/] (.) yeah . 82167_85722
 *INV:	is this home &=points:letter_h ? 85722_87017
 *PAR:	+< no &=head:no &=draws:rectangle &=draws:circle &=draws:shapes
 	&=sings &=whistles &=traces:shapes . 86617_108516
 *PAR:	&=exhales &=draws:rectangles . 108516_122591
-*INV:	+< Jack you drawin(g) me the train now ? 121591_123556
+*INV:	+< Firstname ‡ you drawin(g) me the train now ? 121591_123556
 *PAR:	yeah &=points:drawing &=whistles &=traces:shapes &=imit:fly
 	&=ges:fly &=points:drawing . 123556_130528
 *INV:	a rollercoaster ? 130528_131514
 *PAR:	yeah &=points:INV . 131514_131960
-*INV:	oh ! 131960_132920
+*INV:	ahhah ! 131960_132920
 *PAR:	yeah &=points:drawing . 132920_134037
 *INV:	were you at an amusement park ? 134037_136032
 *PAR:	yeah &=points:drawing &=coughs . 136032_139273
-*INV:	+< so &=points:drawing this was in +//. 139073_140192
+*INV:	+< so ‡ &=points:drawing this was in +//. 139073_140192
 *INV:	&=points:drawing where was this ? 140192_141338
-*PAR:	no hm +... 141338_146532
+*PAR:	no ‡ &hm: +... 141338_146532
 *INV:	was it in New_Jersey ? 146532_148403
 *PAR:	&=head:no no . 148403_149325
 *INV:	no . 149325_149790
 *PAR:	&=ges:far &=whistles . 149790_150888
-*INV:	far [//] oh I bet I &=hand:no know where . 150888_152352
+*INV:	far [//] oh ‡ I bet I &=hand:no know where . 150888_152352
 *PAR:	yeah . 152352_152684
-*INV:	&=ges:wait how (a)bout this &=takes:marker ? 152684_155558
+*INV:	&=ges:wait how_(a)bout this &=takes:marker ? 152684_155558
 *INV:	&=writes:Disney [>] okay . 155558_162698
 *PAR:	<yeah &=points mhm> [<] yeah . 158558_162698
-*INV:	Disney_Land ? 162698_165091
+*INV:	Disneyland ? 162698_165091
 *INV:	World . 166280_167232
 *INV:	+< &=points:drawing &=writes:World mhm . 168218_175370
 *PAR:	+< &=head:no no &=grabs:marker . 174270_176636
 *INV:	+< France ? 175520_176291
-*PAR:	was it Disney_Land in France ? 176291_177788
+*PAR:	was it Disneyland in France ? 176291_177788
 *PAR:	&=head:no no &=draws:circle &=looks:INV . 177788_184748
 *INV:	&=points:circle . 184748_185440
 *PAR:	&=traces:circle &=drops:marker . 185440_187386
 *PAR:	&=grabs:marker &=drops:marker &=points:circle . 187386_190351
 *INV:	&=grabs:marker . 190351_190908
-*PAR:	hm &=grabs:marker . 190908_192824
+*PAR:	&hm: &=grabs:marker . 190908_192824
 *INV:	can you get me a little music that might help ? 192824_194797
 *PAR:	yeah . 194797_196071
 *PAR:	de_de@si +//. 196071_199275
@@ -80,21 +82,21 @@
 *PAR:	+< &=sings:Can_Can . 212193_215228
 %com:	PAR joins INV in singing, and continues on his own
 *INV:	what ? 215228_216000
-*INV:	+< so was &=grabs:marker it in France ? 216000_217124
-*PAR:	&=head:no no no &=hand:no . 217124_217748
-*INV:	no &=drops:marker not in France . 217748_219016
-*PAR:	&=grabs:marker yeah &um (.) &=clears:throat &=draws:circle mm
+*INV:	+< so ‡ was &=grabs:marker it in France ? 216000_217124
+*PAR:	&=head:no no [/] no &=hand:no . 217124_217748
+*INV:	no ‡ &=drops:marker not in France . 217748_219016
+*PAR:	&=grabs:marker yeah &-um (.) &=clears:throat &=draws:circle &mm
 	&=head:no . 219016_231740
 *INV:	in Florida ? 231740_233316
 *PAR:	&=head:yes yeah &=points:INV . 233316_234382
 *INV:	&=head:yes in Florida . 234382_235065
 *PAR:	yeah &=points:circle . 235065_235579
 *INV:	&=head:yes okay . 235579_236672
-*INV:	so it was +//. 236672_238117
+*INV:	so ‡ it was +//. 236672_238117
 *PAR:	+< &=points:circle . 236972_238117
 *INV:	&=points:circle that's Florida ? 238117_240522
-*PAR:	oh well &=points:circle hello [* s:uk] . [+ jar] 240522_241929
-*INV:	&=head:yes oh okay . 241929_242946
+*PAR:	oh ‡ well ‡ &=points:circle hello [* s:uk] . [+ jar] 240522_241929
+*INV:	&=head:yes oh ‡ okay . 241929_242946
 *PAR:	+< &=finger:circle . 242276_244110
 *INV:	did you get on a ferris+wheel &=finger:circles ? 244110_245739
 *PAR:	&=head:yes yeah &=points:drawing . 245739_247945
@@ -102,10 +104,10 @@
 	&=writes:pirates ? 247945_256379
 *PAR:	+< &=looks:word yeah &=head:yes . 251554_253348
 *PAR:	yeah &=head:yes . 253379_257359
-*INV:	who all went on this trip to Disney [//] Disney_World &=looks:paper
+*INV:	who all went on this trip to Disney [//] Disneyworld &=looks:paper
 	? 257359_260404
 %com:	provides clean sheet of paper
-*PAR:	well &um &=grabs:marker &=draws:people . 260404_291523
+*PAR:	well ‡ &-um &=grabs:marker &=draws:people . 260404_291523
 *INV:	+< &=points:people one two three four five six ? 288823_292467
 *PAR:	&=head:yes yeah . 292467_292921
 *INV:	six of you ? 292921_293802
@@ -114,15 +116,15 @@
 *PAR:	+< &=head:yes yeah &=ges:so_so . 306200_307256
 *INV:	long ago ? 310256_311799
 *PAR:	+< yeah &=points:writing &=head:yes yeah . 311480_312630
-*PAR:	one &uh &=grabs:marker &=writes:nineteen_eighty &uh +... 312630_323926
+*PAR:	one &-uh &=grabs:marker &=writes:nineteen_eighty &-uh +... 312630_323926
 *INV:	oh . 323926_324585
 *PAR:	+< no [//] &=head:no yeah . 323927_325315
-*INV:	no &tha &=head:yes that's a long time ago yeah . 325315_327756
+*INV:	no ‡ &tha &=head:yes that's a long time ago „ yeah . 325315_327756
 *PAR:	+< &=head:yes yeah [x 3] . 325555_327829
 *INV:	nineteen eighty ? 327829_328856
-*PAR:	one &uh &=points:drawing +... 328856_330919
+*PAR:	one &-uh &=points:drawing +... 328856_330919
 *PAR:	&=grabs:marker &=draws oh &=laughs &=head:no &=draws . 330919_366900
-*INV:	okay that's good . 366900_368861
+*INV:	okay ‡ that's good . 366900_368861
 *PAR:	+< yeah . 368400_369258
 @G:	Stroke
 *INV:	do you remember when you had your stroke ? 369258_372577
@@ -135,7 +137,7 @@
 *INV:	<can you> [//] &sh I know what that is but can you show me ? 392446_395604
 *PAR:	yeah &=drops:marker &=ges:baby . 395604_398076
 *INV:	+< uhhuh . 397464_398017
-*PAR:	yeah &=grabs:marker one &uh +... 398017_400209
+*PAR:	yeah &=grabs:marker one &-uh +... 398017_400209
 *INV:	&=points:baby you drew a picture of a baby . 400209_402568
 *PAR:	yeah &=head:yes . 402568_402895
 *INV:	a baby and it looks like the baby's in your arms . 402895_405779
@@ -164,9 +166,9 @@
 *INV:	<and you got> [//] what were you doing ? 451265_453891
 *INV:	what were you getting for the baby (be)cause he was crying ? 453891_455811
 *INV:	what did you get ? 455811_456650
-*PAR:	one &uh &=points:drawing &=ges:bottle &=ges:feed . [+ gram] 456650_462198
+*PAR:	one &-uh &=points:drawing &=ges:bottle &=ges:feed . [+ gram] 456650_462198
 *INV:	you were feedin(g) the baby . 462198_463762
-*PAR:	yeah &=head:yes &=ges one . [+ gram] 463762_465678
+*PAR:	yeah ‡ &=head:yes &=ges one . [+ gram] 463762_465678
 *PAR:	&=points:ground . 465678_467174
 *INV:	and +... 467174_468625
 *PAR:	+< &=ges:bottle &=ges:feed . 468325_470306
@@ -190,19 +192,19 @@
 *INV:	<and when they> [//] &ca when [//] did somebody find you there ? 504912_509760
 *PAR:	+< one &=head:yes yeah . [+ gram] 506060_508347
 *PAR:	no [/] &=head:no no &=head:yes . 509760_510754
-*PAR:	oh [/] oh xxx &=points:ground &=imit:stroke . 510754_515946
+*PAR:	oh [/] oh ‡ xxx &=points:ground &=imit:stroke . [+ jar] 510754_515946
 *INV:	+< then you had your stroke . 515730_517111
 *PAR:	+< &=head:yes yeah . 517011_517438
 *INV:	and you don't remember &=hands:no . 517438_518421
 *PAR:	&=head:no no . 518421_519130
 *INV:	but it all worked out . 519130_520779
 *INV:	how's the baby now ? 520779_522372
-*PAR:	oh yeah &=ges:fine &=imit:fine . 522372_524194
+*PAR:	oh ‡ yeah &=ges:fine &=imit:fine . 522372_524194
 *INV:	fine ? 524194_524876
 *PAR:	+< &=laughs yeah . 524545_525465
 *INV:	+< how big &=ges:size ? 525144_525984
 *INV:	little &=ges:small big &=ges:big . 525984_527689
-*PAR:	+< &uh (.) &=writes:eleven . 525984_529599
+*PAR:	+< &-uh (.) &=writes:eleven . 525984_529599
 *INV:	eleven ? 529599_530637
 *PAR:	+< &=laughs &=head:yes . 530500_531443
 *INV:	+< wow so that [//] &w that's when you had your stroke ? 531243_534031
@@ -211,12 +213,13 @@
 *PAR:	+< &=laughs . 534536_535420
 *INV:	what kind of things have &=ges:more you done since that to get
 	better ? 535310_542675
-*PAR:	oh one &=points:table . [+ gram] 542675_546500
+*PAR:	oh ‡ one &=points:table . [+ gram] 542675_546500
 *INV:	&=points:table comin(g) here ? 546500_547581
 *PAR:	+< yeah &=head:yes mhm . 547281_548646
 *INV:	+< &=head:yes &=points:table (o)kay . 548146_549018
-*PAR:	yeah one [/] &=shrugs one &=head:no &=ges:walk . [+ gram] 549018_553751
-*PAR:	&=draws &uh &=draws:box &=ges:walk &=ges:exercise &=touches:leg . 553751_568084
+*PAR:	yeah ‡ one [/] &=shrugs one &=head:no &=ges:walk . [+ gram] 549018_553751
+*PAR:	&=draws &-uh &=draws:box &=ges:walk &=ges:exercise &=touches:leg .
+	553751_568084
 *INV:	+< wheelchair ? 567004_567614
 *PAR:	yeah [//] no &=ges:exercise . 567614_572298
 *INV:	+< looks to me like you're ridin(g) . 571522_572932
@@ -224,17 +227,16 @@
 *INV:	+< okay . 573267_574207
 *PAR:	yeah &=ges:exercise . 574207_575860
 *INV:	+< (o)kay . 574633_575316
-*PAR:	&uh no &na +... 575860_577324
+*PAR:	&-uh no &na +... 575860_577324
 *INV:	bicycle ? 577324_578007
 *PAR:	yeah [/] &w yeah &=grabs:marker . 578007_580538
 *INV:	treadmill ? 580538_582149
-*PAR:	+< &uh &=draws &=drops:marker &=ges:walk . 582044_609992
+*PAR:	+< &-uh &=draws &=drops:marker &=ges:walk . 582044_609992
 *INV:	+< that looks like a rehab center ? 607810_609500
 *PAR:	&=points:drawing yeah . 609500_610458
-*INV:	yeah mkay . 610458_611420
+*INV:	yeah ‡ okay . 610458_611420
 @G:	Window
-*INV:	I'm gonna ask you to &sh I'm [//] look at some
-	pictures . 611420_616756
+*INV:	I'm gonna ask you to &sh I'm [//] look at some pictures . 611420_616756
 *PAR:	mhm . [+ exc] 616756_617226
 *INV:	+< and tell me some things about the pictures . 616756_618682
 *PAR:	+< mhm . [+ exc] 617600_618217
@@ -257,9 +259,10 @@
 *INV:	that's &f real good . 648513_649821
 *PAR:	yeah . [+ exc] 649821_650786
 @G:	Umbrella
-*INV:	how (a)bout what's goin(g) on here &=turns:page &=points:pictures ?
+*INV:	how_(a)bout what's goin(g) on here &=turns:page &=points:pictures ?
 	650786_658814
-*PAR:	mhm &=points:frame_1 one &=hand:no &=head:no no [x 7] . [+ gram] 658814_662971
+*PAR:	mhm ‡ &=points:frame_1 one &=hand:no &=head:no no [x 7] . [+ gram]
+	658814_662971
 *INV:	doesn't want it &=hand:no &=head:yes . 662971_664248
 *PAR:	&=hand:no no &=points:frame_2 . 664248_665115
 *PAR:	&=points:frame_3 uhoh . 665115_666980
@@ -269,8 +272,8 @@
 *INV:	+< what's happening there &=points:frame_4 ? 670900_672121
 *INV:	what's comin(g) down ? 672121_672783
 *PAR:	&=points:frame_4 yeah &=ges:rain &=whistles . 672783_675040
-*PAR:	oh &=touches:clothing wɛlo@u [: x@n] [* n:uk] &=ges:wet &=laughs .
-	[+ jar] 675040_679861
+*PAR:	oh ‡ &=touches:clothing wɛlo@u [: x@n] [* n:uk] &=ges:wet &=laughs
+	. [+ jar] 675040_679861
 *PAR:	&=points:frame_5 &=ges:sulk &=ges:umbrella yeah . 679861_685287
 *INV:	+< <now he's [/] &h he's> [//] now he went &=head:yes . 685287_687182
 *PAR:	+< &=head:yes yeah . [+ exc] 686182_687265
@@ -285,8 +288,8 @@
 *PAR:	hello &=waves . 696666_697393
 *INV:	+< and +... 696667_697713
 *PAR:	&he yeah &=points:frame_6 . [+ exc] 698401_700002
-*INV:	okay and there he's walking in the rain <with his> [>] what's [//]
-	what [//] what's this &=ges:umbrella ? 700002_703678
+*INV:	okay ‡ and there he's walking in the rain <with his> [>] what's
+	[//] what [//] what's this &=ges:umbrella ? 700002_703678
 *PAR:	yeah &=head:yes [<] . [+ exc] 702002_702327
 *PAR:	&=ges:umbrella . [+ exc] 703678_704254
 *INV:	+< yeah there you go . 703678_704670
@@ -294,12 +297,12 @@
 *INV:	an umbrella . 704941_705609
 @G:	Cat
 *INV:	&=turns:page what's goin(g) on here ? 705609_707508
-*PAR:	oh hoe [: no] [* p:w] . [+ exc] 707508_708672
-*PAR:	&=points:cat oh no &=imit:meow &=imit:meow . 708672_714191
-*INV:	+< &=laughs (.) so there's a cat . 713291_716085
-*PAR:	yeah &=raises:arms &=gasps oh . [+ exc] 716085_718494
-*PAR:	oh daddy &=points:man &=points:ladder &=ges:fall . 718494_723021
-*INV:	+< oh &uh so what happened here do you think ? 722421_724571
+*PAR:	ʌho@u [: uhoh] [* p:n] . [+ exc] 707508_708672
+*PAR:	&=points:cat oh_no &=imit:meow &=imit:meow . 708672_714191
+*INV:	+< &=laughs (.) so ‡ there's a cat . 713291_716085
+*PAR:	yeah ‡ &=raises:arms &=gasps oh . [+ exc] 716085_718494
+*PAR:	oh ‡ daddy &=points:man &=points:ladder &=ges:fall . 718494_723021
+*INV:	+< oh ‡ &-uh so ‡ what happened here do you think ? 722421_724571
 *PAR:	&=points:ladder &=ges:fall &=imit:fall . 724571_727031
 *INV:	the ladder fell over okay . 727031_729461
 *PAR:	+< yeah . [+ exc] 728200_729000
@@ -318,10 +321,11 @@
 *INV:	hurray for the fire company . 747577_749113
 *PAR:	yeah &=laughs . [+ exc] 749113_750734
 @G:	Flood
-*INV:	how (a)bout this one ? 750734_751858
+*INV:	how_(a)bout this one ? 750734_751858
 *INV:	what's going on there ? 751858_755043
 *PAR:	+< oh &=head:no hm . [+ exc] 753343_756233
-*PAR:	oh one &=points:man &=points:girl I don't know . [+ gram] [+ exc] 756233_763232
+*PAR:	oh ‡ one &=points:man &=points:girl I don't know . [+ gram] [+ exc]
+	756233_763232
 *PAR:	&=imit:scared &=ges:scared &=points:girl . 763232_765919
 *INV:	you think she's scared ? 765919_767241
 *PAR:	&=points:man one &=points:branch yeah &=head:no mhm . [+ gram]
@@ -346,7 +350,7 @@
 *PAR:	&=ges:open &=ges:dip . 821683_822995
 *INV:	+< open the jar . 822595_824066
 *PAR:	+< &=ges:spread . 824066_826022
-*INV:	put in on the bread . 825066_826522
+*INV:	put it on the bread . 825066_826522
 *PAR:	+< &=ges:close . 826200_827022
 *PAR:	&=ges:open &=ges:scoop &=ges:spread . 827022_833100
 *INV:	okay . 833100_834000
@@ -357,28 +361,26 @@
 *PAR:	+< yeah &=laughs . [+ exc] 840000_843265
 @G:	Cinderella_intro
 *INV:	do you remember (.) the story of Cinderella ? 843265_849449
-*PAR:	oh yeah &=head:yes . 849449_850269
+*PAR:	oh ‡ yeah &=head:yes . 849449_850269
 *INV:	okay . 850269_851420
 *PAR:	+< mhm . 850269_851420
-*INV:	<I'm gonna> [//] let's just look through this book a
-	little bit . 851420_856058
+*INV:	<I'm gonna> [//] let's just look through this book a little bit . 851420_856058
 *PAR:	mhm . 856058_856685
-*INV:	+< how's [//] &a I'm gonna ask you to show me the
-	story of Cinderella . 856485_861728
-*PAR:	oh &=points:book &=head:yes mhm . 861728_863760
+*INV:	+< how's [//] &a I'm gonna ask you to show me the story of
+	Cinderella . 856485_861728
+*PAR:	oh ‡ &=points:book &=head:yes mhm . 861728_863760
 *INV:	+< okay ? 862635_863760
 *INV:	this is just to remind you . 863760_866434
 *PAR:	&=head:yes mhm . 866434_867362
 *INV:	www . 867362_876208
 %exp:	INV shows PAR the pages
-*INV:	we're just gonna look through it and then I'll take it
-	away . 876208_878981
-*PAR:	+< oh mhm . 878208_879087
+*INV:	we're just gonna look through it and then I'll take it away . 876208_878981
+*PAR:	+< oh ‡ mhm . 878208_879087
 *PAR:	www . 878588_962419
 %exp:	PAR looks through book with INV's assistance
-*INV:	okay can you &=ges:you tell me that again ? 961819_963910
+*INV:	okay ‡ can you &=ges:you tell me that again ? 961819_963910
 *INV:	without the book in front of you . 963910_965617
-*PAR:	+< yeah well &=hand:unsure +... 965317_966228
+*PAR:	+< yeah ‡ well &=hand:unsure +... 965317_966228
 @G:	Cinderella
 *PAR:	+" hello &=shake:hand hello . 966228_968859
 *PAR:	&=ges:proud . 968859_970488
@@ -386,7 +388,7 @@
 *PAR:	&=sings &=fingers:play . 971303_974528
 *PAR:	&=ges:cleaning &=imit:cleaning . 974528_977694
 *PAR:	&=turns:page . [+ exc] 977694_978391
-*PAR:	oh no [/] no [/] &w no &=hand:out . [+ es] 978391_980835
+*PAR:	oh ‡ no [/] no [/] &w no &=hand:out . [+ es] 978391_980835
 *PAR:	xxx &=fingers:go ? [+ jar] 980835_982952
 *PAR:	&=hand:no xxx . [+ jar] 982952_984361
 *PAR:	&=ges:picks well &=imit:picking &=ges:dress &=gasps &=ges:clothing
@@ -417,9 +419,9 @@
 *PAR:	+< lɑn@u [: after] [* n:k] . 1028291_1029858
 *INV:	okay [/] okay . 1030011_1031788
 *PAR:	&=head:no yeah . 1030311_1031889
-*PAR:	&uh one &=finger:one &fa +//. 1031889_1035550
+*PAR:	&-uh one &=finger:one &fa +//. 1031889_1035550
 *PAR:	no &=head:hand . 1035550_1037688
-*PAR:	oh tʃɪt@u[: shit] [* p:n] shit &=laughs &=hand:no . 1037688_1043196
+*PAR:	oh ‡ tʃɪt@u [: shit] [* p:n] &=laughs &=hand:no . 1037688_1043196
 *INV:	www .
 %exp:	INV engages PAR in conversation apart from protocol and then
 	continues with testing (BNT, VNT, and repetition) . These sessions
