@@ -1,0 +1,88 @@
+@UTF8
+dss +l0
+ipsyn +l0
+% Lines preceded by % are comments
+
+% Each search string starts with '+' for including or '-' for excluding
+% Each label for the columns in the output is surrounded by either " or '
+% Rules can be specified in long form "+|n +|n:*" or short form "+|n,|n:*"
+% These markers specify the nature of the following string
+% # prefix marker
+% | part-of-speech marker
+% ; stem of the word marker
+% - suffix marker
+% & nonconcatenated morpheme marker
+% = English translation for the stem marker
+% @ replacement word preceding [: ...] code marker
+% * error code inside [* ...] code marker
+% and then optionally - or + and followed by one of these:
+%     *        find any match
+%     %        erase any match
+%     string   find "string"
+% o erase all other elements not specified by user
+%     o%    erase all other elements
+%     o~    erase postclitic element, if present
+%     o$    erase preclitic element, if present
+% ,		separates alternative elements
+% Postclitic AND Preclitic exception:
+%   Find postclitics with specific Morphosyntactic marker example:
+%       |*,~|*   OR   ;*,~;*
+%   Find preclitic with specific Morphosyntactic marker example:
+%       |*,$|*   OR   ;*,$;*
+%     *        find any match
+%     string   find "string"
+
++-PP +&PP	"PP"
++-PRES +&PRES	"PRES"
++-IMP +&IMP	"IMP"
++-IMPF +&IMPF	"IMPF"
++-FUT +&FUT	"FUT"
++-COND +&COND	"COND"
++-SUB +&SUB	"SUB"
++-INF	"INF"
++-PPRF	"PPRF"
++&1s	"irr-1s"
++&2s	"irr-2s"
++&3s	"irr-3s"
++&13s	"irr-13s"
++&12s	"irr-12s"
++&m	"irr-m"
++&f	"irr-f"
++&pl +-PL	"PL"
++&sg +-SG	"SG"
++&f,&pl	"irr-f_irr-p"
++&m,&pl	"irr-m_irr-pl"
++&f,&sg	"irr-f_irr-sg"
++&m,&sg	"irr-m_irr-sg"
++|pro	"pro"
++|adv	"adv"
++|adv:int	"adv:int"
++|adv:place	"adv:place"
++|co	"co"
++|adj	"adj"
++|n	"n"
++|n:prop	"n:prop"
++|num	"num"
++|v	"v"
++|v:mdllex	"v:mdllex"
++|det:art	"det:art"
++|det:dem	"det:dem"
++|det:int	"det:int"
++|det:gen	"det:gen"
++|det:poss	"det:poss"
++|prep	"prep"
++|pro:ind	"pro:ind"
++|pro:obj	"pro:obj"
++|pro:refl	"pro:refl"
++|pro:rel	"pro:rel"
++|pro:subj	"pro:subj"
++|pro:dem	"pro:dem"
++|pro:int	"pro:int"
++|pro:y	"pro:y"
++|v:aux	"v:aux"
++|v:mdl	"v:mdl"
++|v:exist	"v:exist"
++|v:poss	"v:poss"
++|conj	"conj"
++|adv:neg	"adv:neg"
+
