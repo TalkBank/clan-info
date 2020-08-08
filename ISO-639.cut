@@ -1,8 +1,10 @@
 @UTF8
+@Window:	253_886_984_1195_0_0_166_0_166_0
 # Format is as follows:
 # List one language code separated by tab,
 # at the end followed by Capitalized language name.
 # Language name can have spaces in it, for example: Manado Malay
+ltz	Luxembourgish
 jam	Jamaican Creole
 mar	Marathi
 dyo	Jola-Fonyi
