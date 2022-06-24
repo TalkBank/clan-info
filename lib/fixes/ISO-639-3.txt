@@ -70,8 +70,8 @@
 `acy	|	|	|Cypriot Arabic
 `acz	|	|	|Acheron
 `ada	|ada	|	|Adangme
-`adb	|	|	|Adabe
-`add	|	|	|Dzodinka
+`adb	|	|	|Atauran
+`add	|	|	|Lidzonka
 `ade	|	|	|Adele
 `adf	|	|	|Dhofari Arabic
 `adg	|	|	|Andegerebinha
@@ -178,17 +178,16 @@
 `aip	|	|	|Burumakok
 `aiq	|	|	|Aimaq
 `air	|	|	|Airoran
-`ais	|	|	|Nataoran Amis
 `ait	|	|	|Arikem
 `aiw	|	|	|Aari
 `aix	|	|	|Aighon
 `aiy	|	|	|Ali
-`aja	|	|	|Aja (Sudan)
+`aja	|	|	|Aja (South Sudan)
 `ajg	|	|	|Aja (Benin)
 `aji	|	|	|Ajië
 `ajn	|	|	|Andajin
 `ajp	|	|	|South Levantine Arabic
-`ajt	|	|	|Judeo-Tunisian Arabic
+`ajs	|	|	|Algerian Jewish Sign Language
 `aju	|	|	|Judeo-Moroccan Arabic
 `ajw	|	|	|Ajawa
 `ajz	|	|	|Amri Karbi
@@ -298,7 +297,6 @@
 `aoe	|	|	|Angal Enen
 `aof	|	|	|Bragat
 `aog	|	|	|Angoram
-`aoh	|	|	|Arma
 `aoi	|	|	|Anindilyakwa
 `aoj	|	|	|Mufian
 `aok	|	|	|Arhö
@@ -339,6 +337,7 @@
 `aqc	|	|	|Archi
 `aqd	|	|	|Ampari Dogon
 `aqg	|	|	|Arigidi
+`aqk	|	|	|Aninka
 `aqm	|	|	|Atohwaim
 `aqn	|	|	|Northern Alta
 `aqp	|	|	|Atakapa
@@ -371,9 +370,8 @@
 `asa	|	|	|Asu (Tanzania)
 `asb	|	|	|Assiniboine
 `asc	|	|	|Casuarina Coast Asmat
-`asd	|	|	|Asas
 `ase	|	|	|American Sign Language
-`asf	|	|	|Australian Sign Language
+`asf	|	|	|Auslan
 `asg	|	|	|Cishingini
 `ash	|	|	|Abishira
 `asi	|	|	|Buruwai
@@ -499,7 +497,6 @@
 `ays	|	|	|Sorsogon Ayta
 `ayt	|	|	|Magbukun Ayta
 `ayu	|	|	|Ayu
-`ayy	|	|	|Tayabas Ayta
 `ayz	|	|	|Mai Brat
 `aza	|	|	|Azha
 `azb	|	|	|South Azerbaijani
@@ -558,7 +555,6 @@
 `bbw	|	|	|Baba
 `bbx	|	|	|Bubia
 `bby	|	|	|Befang
-`bbz	|	|	|Babalia Creole Arabic
 `bca	|	|	|Central Bai
 `bcb	|	|	|Bainouk-Samik
 `bcc	|	|	|Southern Balochi
@@ -569,7 +565,7 @@
 `bch	|	|	|Bariai
 `bci	|	|	|Baoulé
 `bcj	|	|	|Bardi
-`bck	|	|	|Bunaba
+`bck	|	|	|Bunuba
 `bcl	|	|	|Central Bikol
 `bcm	|	|	|Bannoni
 `bcn	|	|	|Bali (Nigeria)
@@ -591,9 +587,9 @@
 `bde	|	|	|Bade
 `bdf	|	|	|Biage
 `bdg	|	|	|Bonggi
-`bdh	|	|	|Baka (Sudan)
+`bdh	|	|	|Baka (South Sudan)
 `bdi	|	|	|Burun
-`bdj	|	|	|Bai
+`bdj	|	|	|Bai (South Sudan)
 `bdk	|	|	|Budukh
 `bdl	|	|	|Indonesian Bajau
 `bdm	|	|	|Buduma
@@ -711,12 +707,10 @@
 `bhz	|	|	|Bada (Indonesia)
 `bia	|	|	|Badimaya
 `bib	|	|	|Bissa
-`bic	|	|	|Bikaru
 `bid	|	|	|Bidiyo
 `bie	|	|	|Bepour
 `bif	|	|	|Biafada
 `big	|	|	|Biangai
-`bij	|	|	|Vaghat-Ya-Bijim-Legeri
 `bik	|bik	|	|Bikol
 `bil	|	|	|Bile
 `bim	|	|	|Bimoba
@@ -787,13 +781,12 @@
 `bld	|	|	|Bolango
 `ble	|	|	|Balanta-Kentohe
 `blf	|	|	|Buol
-`blg	|	|	|Balau
 `blh	|	|	|Kuwaa
 `bli	|	|	|Bolia
 `blj	|	|	|Bolongan
 `blk	|	|	|Pa'o Karen
 `bll	|	|	|Biloxi
-`blm	|	|	|Beli (Sudan)
+`blm	|	|	|Beli (South Sudan)
 `bln	|	|	|Southern Catanduanes Bikol
 `blo	|	|	|Anii
 `blp	|	|	|Blablanga
@@ -801,7 +794,7 @@
 `blr	|	|	|Blang
 `bls	|	|	|Balaesang
 `blt	|	|	|Tai Dam
-`blv	|	|	|Bolo
+`blv	|	|	|Kibala
 `blw	|	|	|Balangao
 `blx	|	|	|Mag-Indi Ayta
 `bly	|	|	|Notre
@@ -811,7 +804,7 @@
 `bmc	|	|	|Biem
 `bmd	|	|	|Baga Manduri
 `bme	|	|	|Limassa
-`bmf	|	|	|Bom
+`bmf	|	|	|Bom-Kim
 `bmg	|	|	|Bamwe
 `bmh	|	|	|Kein
 `bmi	|	|	|Bagirmi
@@ -881,8 +874,9 @@
 `boy	|	|	|Bodo (Central African Republic)
 `boz	|	|	|Tiéyaxo Bozo
 `bpa	|	|	|Daakaka
-`bpb	|	|	|Barbacoas
+`bpc	|	|	|Mbuk
 `bpd	|	|	|Banda-Banda
+`bpe	|	|	|Bauni
 `bpg	|	|	|Bonggo
 `bph	|	|	|Botlikh
 `bpi	|	|	|Bagupi
@@ -929,11 +923,11 @@
 `bqy	|	|	|Bengkala Sign Language
 `bqz	|	|	|Bakaka
 `bra	|bra	|	|Braj
-`brb	|	|	|Lave
+`brb	|	|	|Brao
 `brc	|	|	|Berbice Creole Dutch
 `brd	|	|	|Baraamu
 `bre	|bre	|br	|Breton
-`brf	|	|	|Bera
+`brf	|	|	|Bira
 `brg	|	|	|Baure
 `brh	|	|	|Brahui
 `bri	|	|	|Mokpwe
@@ -1111,7 +1105,7 @@
 `byj	|	|	|Bina (Nigeria)
 `byk	|	|	|Biao
 `byl	|	|	|Bayono
-`bym	|	|	|Bidyara
+`bym	|	|	|Bidjara
 `byn	|byn	|	|Bilin
 `byo	|	|	|Biyo
 `byp	|	|	|Bumaji
@@ -1146,7 +1140,7 @@
 `bzu	|	|	|Burmeso
 `bzv	|	|	|Naami
 `bzw	|	|	|Basa (Nigeria)
-`bzx	|	|	|Kɛlɛngaxo Bozo
+`bzx	|	|	|K_l_ngaxo Bozo
 `bzy	|	|	|Obanliku
 `bzz	|	|	|Evant
 `caa	|	|	|Chortí
@@ -1191,7 +1185,6 @@
 `cbv	|	|	|Cacua
 `cbw	|	|	|Kinabalian
 `cby	|	|	|Carabayo
-`cca	|	|	|Cauca
 `ccc	|	|	|Chamicuro
 `ccd	|	|	|Cafundo Creole
 `cce	|	|	|Chopi
@@ -1206,7 +1199,6 @@
 `cda	|	|	|Choni
 `cde	|	|	|Chenchu
 `cdf	|	|	|Chiru
-`cdg	|	|	|Chamari
 `cdh	|	|	|Chambeali
 `cdi	|	|	|Chodri
 `cdj	|	|	|Churahi
@@ -1224,6 +1216,7 @@
 `cen	|	|	|Cen
 `ces	|ces/cze|cs	|Czech
 `cet	|	|	|Centúúm
+`cey	|	|	|Ekai Chin
 `cfa	|	|	|Dijim-Bwilim
 `cfd	|	|	|Cara
 `cfg	|	|	|Como Karim
@@ -1284,6 +1277,7 @@
 `ckb	|	|	|Central Kurdish
 `ckh	|	|	|Chak
 `ckl	|	|	|Cibak
+`ckm	|	|	|Chakavian
 `ckn	|	|	|Kaang Chin
 `cko	|	|	|Anufo
 `ckq	|	|	|Kajakse
@@ -1330,6 +1324,9 @@
 `cnk	|	|	|Khumi Chin
 `cnl	|	|	|Lalana Chinantec
 `cno	|	|	|Con
+`cnp	|	|	|Northern Ping Chinese
+`cnq	|	|	|Chung
+`cnr	|cnr	|	|Montenegrin
 `cns	|	|	|Central Asmat
 `cnt	|	|	|Tepetotutla Chinantec
 `cnu	|	|	|Chenoua
@@ -1410,12 +1407,14 @@
 `csm	|	|	|Central Sierra Miwok
 `csn	|	|	|Colombian Sign Language
 `cso	|	|	|Sochiapam Chinantec
+`csp	|	|	|Southern Ping Chinese
 `csq	|	|	|Croatia Sign Language
 `csr	|	|	|Costa Rican Sign Language
 `css	|	|	|Southern Ohlone
 `cst	|	|	|Northern Ohlone
 `csv	|	|	|Sumtu Chin
 `csw	|	|	|Swampy Cree
+`csx	|	|	|Cambodian Sign Language
 `csy	|	|	|Siyin Chin
 `csz	|	|	|Coos
 `cta	|	|	|Tataltepec Chatino
@@ -1432,11 +1431,11 @@
 `cts	|	|	|Northern Catanduanes Bikol
 `ctt	|	|	|Wayanad Chetti
 `ctu	|	|	|Chol
+`cty	|	|	|Moundadan Chetty
 `ctz	|	|	|Zacatepec Chatino
 `cua	|	|	|Cua
 `cub	|	|	|Cubeo
 `cuc	|	|	|Usila Chinantec
-`cug	|	|	|Cung
 `cuh	|	|	|Chuka
 `cui	|	|	|Cuiba
 `cuj	|	|	|Mashco Piro
@@ -1451,6 +1450,7 @@
 `cuv	|	|	|Cuvok
 `cuw	|	|	|Chukwa
 `cux	|	|	|Tepeuxila Cuicatec
+`cuy	|	|	|Cuitlatec
 `cvg	|	|	|Chug
 `cvn	|	|	|Valle Nacional Chinantec
 `cwa	|	|	|Kabwa
@@ -1555,7 +1555,6 @@
 `dgr	|dgr	|	|Dogrib
 `dgs	|	|	|Dogoso
 `dgt	|	|	|Ndra'ngith
-`dgu	|	|	|Degaru
 `dgw	|	|	|Daungwurrung
 `dgx	|	|	|Doghoro
 `dgz	|	|	|Daga
@@ -1590,7 +1589,6 @@
 `diq	|	|	|Dimli (individual language)
 `dir	|	|	|Dirim
 `dis	|	|	|Dimasa
-`dit	|	|	|Dirari
 `diu	|	|	|Diriku
 `div	|div	|dv	|Dhivehi
 `diw	|	|	|Northwestern Dinka
@@ -1607,12 +1605,13 @@
 `djj	|	|	|Djeebbana
 `djk	|	|	|Eastern Maroon Creole
 `djm	|	|	|Jamsay Dogon
-`djn	|	|	|Djauan
+`djn	|	|	|Jawoyn
 `djo	|	|	|Jangkang
 `djr	|	|	|Djambarrpuyngu
 `dju	|	|	|Kapriman
 `djw	|	|	|Djawi
 `dka	|	|	|Dakpakha
+`dkg	|	|	|Kadung
 `dkk	|	|	|Dakka
 `dkr	|	|	|Kuijau
 `dks	|	|	|Southeastern Dinka
@@ -1626,6 +1625,7 @@
 `dmc	|	|	|Gavak
 `dmd	|	|	|Madhi Madhi
 `dme	|	|	|Dugwor
+`dmf	|	|	|Medefaidrin
 `dmg	|	|	|Upper Kinabatangan
 `dmk	|	|	|Domaaki
 `dml	|	|	|Dameli
@@ -1646,6 +1646,7 @@
 `dnj	|	|	|Dan
 `dnk	|	|	|Dengka
 `dnn	|	|	|Dzùùngoo
+`dno	|	|	|Ndrulo
 `dnr	|	|	|Danaru
 `dnt	|	|	|Mid Grand Valley Dani
 `dnu	|	|	|Danau
@@ -1684,7 +1685,6 @@
 `drn	|	|	|West Damar
 `dro	|	|	|Daro-Matu Melanau
 `drq	|	|	|Dura
-`drr	|	|	|Dororo
 `drs	|	|	|Gedeo
 `drt	|	|	|Drents
 `dru	|	|	|Rukai
@@ -1697,6 +1697,7 @@
 `dsn	|	|	|Dusner
 `dso	|	|	|Desiya
 `dsq	|	|	|Tadaksahak
+`dsz	|	|	|Mardin Sign Language
 `dta	|	|	|Daur
 `dtb	|	|	|Labuk-Kinabatangan Kadazan
 `dtd	|	|	|Ditidaht
@@ -1704,7 +1705,7 @@
 `dti	|	|	|Ana Tinga Dogon
 `dtk	|	|	|Tene Kan Dogon
 `dtm	|	|	|Tomo Kan Dogon
-`dtn	|	|	|Daatsʼíin
+`dtn	|	|	|Daats_íinD
 `dto	|	|	|Tommo So Dogon
 `dtp	|	|	|Kadazan Dusun
 `dtr	|	|	|Lotud
@@ -1715,7 +1716,6 @@
 `dua	|dua	|	|Duala
 `dub	|	|	|Dubli
 `duc	|	|	|Duna
-`dud	|	|	|Hun-Saare
 `due	|	|	|Umiray Dumaget Agta
 `duf	|	|	|Dumbea
 `dug	|	|	|Duruma
@@ -1738,11 +1738,13 @@
 `duz	|	|	|Duli-Gey
 `dva	|	|	|Duau
 `dwa	|	|	|Diri
+`dwk	|	|	|Dawik Kui
 `dwr	|	|	|Dawro
 `dws	|	|	|Dutton World Speedwords
 `dwu	|	|	|Dhuwal
 `dww	|	|	|Dawawa
 `dwy	|	|	|Dhuwaya
+`dwz	|	|	|Dewas Rai
 `dya	|	|	|Dyan
 `dyb	|	|	|Dyaberdyaber
 `dyd	|	|	|Dyugun
@@ -1752,7 +1754,7 @@
 `dyn	|	|	|Dyangadi
 `dyo	|	|	|Jola-Fonyi
 `dyu	|dyu	|	|Dyula
-`dyy	|	|	|Dyaabugay
+`dyy	|	|	|Djabugay
 `dza	|	|	|Tunzu
 `dze	|	|	|Djiwarli
 `dzg	|	|	|Dazaga
@@ -1760,6 +1762,7 @@
 `dzn	|	|	|Dzando
 `dzo	|dzo	|dz	|Dzongkha
 `eaa	|	|	|Karenggapa
+`ebc	|	|	|Beginci
 `ebg	|	|	|Ebughu
 `ebk	|	|	|Eastern Bontok
 `ebo	|	|	|Teke-Ebo
@@ -1774,15 +1777,16 @@
 `efi	|efi	|	|Efik
 `ega	|	|	|Ega
 `egl	|	|	|Emilian
+`egm	|	|	|Benamanga
 `ego	|	|	|Eggon
 `egy	|egy	|	|Egyptian (Ancient)
+`ehs	|	|	|Miyakubo Sign Language
 `ehu	|	|	|Ehueun
 `eip	|	|	|Eipomek
 `eit	|	|	|Eitiep
 `eiv	|	|	|Askopan
 `eja	|	|	|Ejamat
 `eka	|eka	|	|Ekajuk
-`ekc	|	|	|Eastern Karnic
 `eke	|	|	|Ekit
 `ekg	|	|	|Ekari
 `eki	|	|	|Eki
@@ -1811,11 +1815,13 @@
 `emm	|	|	|Mamulique
 `emn	|	|	|Eman
 `emp	|	|	|Northern Emberá
+`emq	|	|	|Eastern Minyag
 `ems	|	|	|Pacific Gulf Yupik
 `emu	|	|	|Eastern Muria
 `emw	|	|	|Emplawas
 `emx	|	|	|Erromintxela
 `emy	|	|	|Epigraphic Mayan
+`emz	|	|	|Mbessa
 `ena	|	|	|Apali
 `enb	|	|	|Markweeta
 `enc	|	|	|En
@@ -1830,7 +1836,7 @@
 `enq	|	|	|Enga
 `enr	|	|	|Emumu
 `enu	|	|	|Enu
-`env	|	|	|Enwan (Edu State)
+`env	|	|	|Enwan (Edo State)
 `enw	|	|	|Enwan (Akwa Ibom State)
 `enx	|	|	|Enxet
 `eot	|	|	|Beti (Côte d'Ivoire)
@@ -1895,7 +1901,7 @@
 `fam	|	|	|Fam
 `fan	|fan	|	|Fang (Equatorial Guinea)
 `fao	|fao	|fo	|Faroese
-`fap	|	|	|Palor
+`fap	|	|	|Paloor
 `far	|	|	|Fataleka
 `fas	|fas/per|fa	|Persian
 `fat	|fat	|	|Fanti
@@ -1911,6 +1917,7 @@
 `fgr	|	|	|Fongoro
 `fia	|	|	|Nobiin
 `fie	|	|	|Fyer
+`fif	|	|	|Faifi
 `fij	|fij	|fj	|Fijian
 `fil	|fil	|	|Filipino
 `fin	|fin	|fi	|Finnish
@@ -1918,7 +1925,7 @@
 `fir	|	|	|Firan
 `fit	|	|	|Tornedalen Finnish
 `fiw	|	|	|Fiwaga
-`fkk	|	|	|Kirya-Konzəl
+`fkk	|	|	|Kirya-Konz_l
 `fkv	|	|	|Kven Finnish
 `fla	|	|	|Kalispel-Pend d'Oreille
 `flh	|	|	|Foau
@@ -2002,7 +2009,7 @@
 `gaz	|	|	|West Central Oromo
 `gba	|gba	|	|Gbaya (Central African Republic)
 `gbb	|	|	|Kaytetye
-`gbd	|	|	|Karadjeri
+`gbd	|	|	|Karajarri
 `gbe	|	|	|Niksek
 `gbf	|	|	|Gaikundi
 `gbg	|	|	|Gbanziri
@@ -2057,6 +2064,7 @@
 `geb	|	|	|Kire
 `gec	|	|	|Gboloo Grebo
 `ged	|	|	|Gade
+`gef	|	|	|Gerai
 `geg	|	|	|Gengle
 `geh	|	|	|Hutterite German
 `gei	|	|	|Gebe
@@ -2075,7 +2083,7 @@
 `gga	|	|	|Gao
 `ggb	|	|	|Gbii
 `ggd	|	|	|Gugadj
-`gge	|	|	|Guragone
+`gge	|	|	|Gurr-goni
 `ggg	|	|	|Gurgula
 `ggk	|	|	|Kungarakany
 `ggl	|	|	|Ganglau
@@ -2093,12 +2101,14 @@
 `ghr	|	|	|Ghera
 `ghs	|	|	|Guhu-Samane
 `ght	|	|	|Kuke
-`gia	|	|	|Kitja
+`gia	|	|	|Kija
 `gib	|	|	|Gibanawa
 `gic	|	|	|Gail
 `gid	|	|	|Gidar
+`gie	|	|	|Ga_ogbo
 `gig	|	|	|Goaria
 `gih	|	|	|Githabul
+`gii	|	|	|Girirra
 `gil	|gil	|	|Gilbertese
 `gim	|	|	|Gimi (Eastern Highlands)
 `gin	|	|	|Hinukh
@@ -2112,25 +2122,25 @@
 `gix	|	|	|Gilima
 `giy	|	|	|Giyug
 `giz	|	|	|South Giziga
-`gji	|	|	|Geji
 `gjk	|	|	|Kachi Koli
 `gjm	|	|	|Gunditjmara
 `gjn	|	|	|Gonja
 `gjr	|	|	|Gurindji Kriol
 `gju	|	|	|Gujari
 `gka	|	|	|Guya
+`gkd	|	|	|Mag_ (Madang Province)
 `gke	|	|	|Ndai
 `gkn	|	|	|Gokana
 `gko	|	|	|Kok-Nar
 `gkp	|	|	|Guinea Kpelle
-`gku	|	|	|ǂUngkue
+`gku	|	|	|_Ungkue
 `gla	|gla	|gd	|Scottish Gaelic
+`glb	|	|	|Belning
 `glc	|	|	|Bon Gula
 `gld	|	|	|Nanai
 `gle	|gle	|ga	|Irish
 `glg	|glg	|gl	|Galician
 `glh	|	|	|Northwest Pashai
-`gli	|	|	|Guliguli
 `glj	|	|	|Gula Iro
 `glk	|	|	|Gilaki
 `gll	|	|	|Garlali
@@ -2143,11 +2153,12 @@
 `gma	|	|	|Gambera
 `gmb	|	|	|Gula'alaa
 `gmd	|	|	|Mághdì
-`gmg	|	|	|Magɨyi
+`gmg	|	|	|Mag_yi
 `gmh	|gmh	|	|Middle High German (ca. 1050-1500)
 `gml	|	|	|Middle Low German
 `gmm	|	|	|Gbaya-Mbodomo
 `gmn	|	|	|Gimnime
+`gmr	|	|	|Mirning
 `gmu	|	|	|Gumalu
 `gmv	|	|	|Gamo
 `gmx	|	|	|Magoma
@@ -2161,7 +2172,8 @@
 `gng	|	|	|Ngangam
 `gnh	|	|	|Lere
 `gni	|	|	|Gooniyandi
-`gnk	|	|	|Gana
+`gnj	|	|	|Ngen
+`gnk	|	|	|_Gana
 `gnl	|	|	|Gangulu
 `gnm	|	|	|Ginuman
 `gnn	|	|	|Gumatj
@@ -2193,6 +2205,7 @@
 `gos	|	|	|Gronings
 `got	|got	|	|Gothic
 `gou	|	|	|Gavar
+`gov	|	|	|Goo
 `gow	|	|	|Gorowa
 `gox	|	|	|Gobu
 `goy	|	|	|Goundo
@@ -2241,7 +2254,7 @@
 `gub	|	|	|Guajajára
 `guc	|	|	|Wayuu
 `gud	|	|	|Yocoboué Dida
-`gue	|	|	|Gurinji
+`gue	|	|	|Gurindji
 `guf	|	|	|Gupapuyngu
 `gug	|	|	|Paraguayan Guaraní
 `guh	|	|	|Guahibo
@@ -2276,13 +2289,13 @@
 `gvy	|	|	|Guyani
 `gwa	|	|	|Mbato
 `gwb	|	|	|Gwa
-`gwc	|	|	|Kalami
+`gwc	|	|	|Gawri
 `gwd	|	|	|Gawwada
 `gwe	|	|	|Gweno
 `gwf	|	|	|Gowro
 `gwg	|	|	|Moo
-`gwi	|gwi	|	|Gwichʼin
-`gwj	|	|	|/Gwi
+`gwi	|gwi	|	|Gwich_in
+`gwj	|	|	|_Gwi
 `gwm	|	|	|Awngthim
 `gwn	|	|	|Gwandara
 `gwr	|	|	|Gwere
@@ -2301,8 +2314,10 @@
 `gyl	|	|	|Gayil
 `gym	|	|	|Ngäbere
 `gyn	|	|	|Guyanese Creole English
+`gyo	|	|	|Gyalsumdo
 `gyr	|	|	|Guarayu
 `gyy	|	|	|Gunya
+`gyz	|	|	|Geji
 `gza	|	|	|Ganza
 `gzi	|	|	|Gazi
 `gzn	|	|	|Gane
@@ -2336,7 +2351,7 @@
 `hbb	|	|	|Huba
 `hbn	|	|	|Heiban
 `hbo	|	|	|Ancient Hebrew
-`hbs	|	|sh (deprecated)	|Serbo-Croatian
+`hbs	|	|sh	|Serbo-Croatian
 `hbu	|	|	|Habu
 `hca	|	|	|Andaman Creole Hindi
 `hch	|	|	|Huichol
@@ -2351,7 +2366,7 @@
 `hei	|	|	|Heiltsuk
 `hem	|	|	|Hemba
 `her	|her	|hz	|Herero
-`hgm	|	|	|Hai//om
+`hgm	|	|	|Hai_om
 `hgw	|	|	|Haigwai
 `hhi	|	|	|Hoia Hoia
 `hhr	|	|	|Kerak
@@ -2375,7 +2390,9 @@
 `hji	|	|	|Haji
 `hka	|	|	|Kahe
 `hke	|	|	|Hunde
+`hkh	|	|	|Khah
 `hkk	|	|	|Hunjara-Kaina Ke
+`hkn	|	|	|Mel-Khaonh
 `hks	|	|	|Hong Kong Sign Language
 `hla	|	|	|Halia
 `hlb	|	|	|Halbi
@@ -2411,7 +2428,8 @@
 `hna	|	|	|Mina (Cameroon)
 `hnd	|	|	|Southern Hindko
 `hne	|	|	|Chhattisgarhi
-`hnh	|	|	|//Ani
+`hng	|	|	|Hungu
+`hnh	|	|	|_Ani
 `hni	|	|	|Hani
 `hnj	|	|	|Hmong Njua
 `hnn	|	|	|Hanunoo
@@ -2463,7 +2481,7 @@
 `htu	|	|	|Hitu
 `htx	|	|	|Middle Hittite
 `hub	|	|	|Huambisa
-`huc	|	|	|=/Hua
+`huc	|	|	|_Hua
 `hud	|	|	|Huaulu
 `hue	|	|	|San Francisco Del Mar Huave
 `huf	|	|	|Humene
@@ -2497,6 +2515,7 @@
 `hwo	|	|	|Hwana
 `hya	|	|	|Hya
 `hye	|hye/arm|hy	|Armenian
+`hyw	|	|	|Western Armenian
 `iai	|	|	|Iaai
 `ian	|	|	|Iatmul
 `iar	|	|	|Purari
@@ -2505,6 +2524,7 @@
 `ibd	|	|	|Iwaidja
 `ibe	|	|	|Akpes
 `ibg	|	|	|Ibanag
+`ibh	|	|	|Bih
 `ibl	|	|	|Ibaloi
 `ibm	|	|	|Agoi
 `ibn	|	|	|Ibino
@@ -2588,6 +2608,7 @@
 `imo	|	|	|Imbongu
 `imr	|	|	|Imroing
 `ims	|	|	|Marsian
+`imt	|	|	|Imotong
 `imy	|	|	|Milyan
 `ina	|ina	|ia	|Interlingua (International Auxiliary Language Association)
 `inb	|	|	|Inga
@@ -2613,7 +2634,7 @@
 `iqw	|	|	|Ikwo
 `ire	|	|	|Iresim
 `irh	|	|	|Irarutu
-`iri	|	|	|Irigwe
+`iri	|	|	|Rigwe
 `irk	|	|	|Iraqw
 `irn	|	|	|Irántxe
 `irr	|	|	|Ir
@@ -2692,6 +2713,7 @@
 `jbi	|	|	|Badjiri
 `jbj	|	|	|Arandai
 `jbk	|	|	|Barikewa
+`jbm	|	|	|Bijim
 `jbn	|	|	|Nafusi
 `jbo	|jbo	|	|Lojban
 `jbr	|	|	|Jofotek-Bromnya
@@ -2705,7 +2727,6 @@
 `jdt	|	|	|Judeo-Tat
 `jeb	|	|	|Jebero
 `jee	|	|	|Jerung
-`jeg	|	|	|Jeng
 `jeh	|	|	|Jeh
 `jei	|	|	|Yei
 `jek	|	|	|Jeri Kuo
@@ -2723,9 +2744,9 @@
 `jia	|	|	|Jina
 `jib	|	|	|Jibu
 `jic	|	|	|Tol
-`jid	|	|	|Bu
+`jid	|	|	|Bu (Kaduna State)
 `jie	|	|	|Jilbe
-`jig	|	|	|Djingili
+`jig	|	|	|Jingulu
 `jih	|	|	|sTodsde
 `jii	|	|	|Jiiddu
 `jil	|	|	|Jilim
@@ -2743,6 +2764,7 @@
 `jko	|	|	|Kubo
 `jkp	|	|	|Paku Karen
 `jkr	|	|	|Koro (India)
+`jks	|	|	|Amami Koniya Sign Language
 `jku	|	|	|Labir
 `jle	|	|	|Ngile
 `jls	|	|	|Jamaican Sign Language
@@ -2777,7 +2799,7 @@
 `jra	|	|	|Jarai
 `jrb	|jrb	|	|Judeo-Arabic
 `jrr	|	|	|Jiru
-`jrt	|	|	|Jorto
+`jrt	|	|	|Jakattoe
 `jru	|	|	|Japrería
 `jsl	|	|	|Japanese Sign Language
 `jua	|	|	|Júma
@@ -2956,7 +2978,6 @@
 `kfz	|	|	|Koromfé
 `kga	|	|	|Koyaga
 `kgb	|	|	|Kawe
-`kgd	|	|	|Kataang
 `kge	|	|	|Komering
 `kgf	|	|	|Kube
 `kgg	|	|	|Kusunda
@@ -2988,7 +3009,7 @@
 `khj	|	|	|Kuturmi
 `khk	|	|	|Halh Mongolian
 `khl	|	|	|Lusi
-`khm	|khm	|km	|Central Khmer
+`khm	|khm	|km	|Khmer
 `khn	|	|	|Khandesi
 `kho	|kho	|	|Khotanese
 `khp	|	|	|Kapori
@@ -3033,7 +3054,6 @@
 `kjc	|	|	|Coastal Konjo
 `kjd	|	|	|Southern Kiwai
 `kje	|	|	|Kisar
-`kjf	|	|	|Khalaj
 `kjg	|	|	|Khmu
 `kjh	|	|	|Khakas
 `kji	|	|	|Zabana
@@ -3069,7 +3089,7 @@
 `kkn	|	|	|Kon Keu
 `kko	|	|	|Karko
 `kkp	|	|	|Gugubera
-`kkq	|	|	|Kaiku
+`kkq	|	|	|Kaeku
 `kkr	|	|	|Kir-Balar
 `kks	|	|	|Giiwo
 `kkt	|	|	|Koi
@@ -3077,7 +3097,7 @@
 `kkv	|	|	|Kangean
 `kkw	|	|	|Teke-Kukuya
 `kkx	|	|	|Kohin
-`kky	|	|	|Guguyimidjir
+`kky	|	|	|Guugu Yimidhirr
 `kkz	|	|	|Kaska
 `kla	|	|	|Klamath-Modoc
 `klb	|	|	|Kiliwa
@@ -3088,7 +3108,7 @@
 `klg	|	|	|Tagakaulo
 `klh	|	|	|Weliki
 `kli	|	|	|Kalumpang
-`klj	|	|	|Turkic Khalaj
+`klj	|	|	|Khalaj
 `klk	|	|	|Kono (Nigeria)
 `kll	|	|	|Kagan Kalagan
 `klm	|	|	|Migum
@@ -3101,7 +3121,7 @@
 `klt	|	|	|Nukna
 `klu	|	|	|Klao
 `klv	|	|	|Maskelynes
-`klw	|	|	|Lindu
+`klw	|	|	|Tado
 `klx	|	|	|Koluwawa
 `kly	|	|	|Kalao
 `klz	|	|	|Kabola
@@ -3159,7 +3179,7 @@
 `koa	|	|	|Konomala
 `koc	|	|	|Kpati
 `kod	|	|	|Kodi
-`koe	|	|	|Kacipo-Balesi
+`koe	|	|	|Kacipo-Bale Suri
 `kof	|	|	|Kubi
 `kog	|	|	|Cogui
 `koh	|	|	|Koyo
@@ -3241,10 +3261,9 @@
 `krj	|	|	|Kinaray-A
 `krk	|	|	|Kerek
 `krl	|krl	|	|Karelian
-`krm	|	|	|Krim
 `krn	|	|	|Sapo
 `krp	|	|	|Korop
-`krr	|	|	|Kru'ng 2
+`krr	|	|	|Krung
 `krs	|	|	|Gbaya (Sudan)
 `krt	|	|	|Tumari Kanuri
 `kru	|kru	|	|Kurukh
@@ -3303,7 +3322,7 @@
 `ktw	|	|	|Kato
 `ktx	|	|	|Kaxararí
 `kty	|	|	|Kango (Bas-Uélé District)
-`ktz	|	|	|Ju/'hoan
+`ktz	|	|	|Ju__hoan
 `kua	|kua	|kj	|Kuanyama
 `kub	|	|	|Kutep
 `kuc	|	|	|Kwinsu
@@ -3389,7 +3408,6 @@
 `kxi	|	|	|Keningau Murut
 `kxj	|	|	|Kulfa
 `kxk	|	|	|Zayein Karen
-`kxl	|	|	|Nepali Kurux
 `kxm	|	|	|Northern Khmer
 `kxn	|	|	|Kanowit-Tanjong Melanau
 `kxo	|	|	|Kanoé
@@ -3398,7 +3416,6 @@
 `kxr	|	|	|Koro (Papua New Guinea)
 `kxs	|	|	|Kangjia
 `kxt	|	|	|Koiwat
-`kxu	|	|	|Kui (India)
 `kxv	|	|	|Kuvi
 `kxw	|	|	|Konai
 `kxx	|	|	|Likuba
@@ -3463,7 +3480,6 @@
 `lah	|lah	|	|Lahnda
 `lai	|	|	|Lambya
 `laj	|	|	|Lango (Uganda)
-`lak	|	|	|Laka (Nigeria)
 `lal	|	|	|Lalia
 `lam	|lam	|	|Lamba
 `lan	|	|	|Laru
@@ -3479,7 +3495,6 @@
 `lax	|	|	|Tiwa
 `lay	|	|	|Lama Bai
 `laz	|	|	|Aribwatsa
-`lba	|	|	|Lui
 `lbb	|	|	|Label
 `lbc	|	|	|Lakkia
 `lbe	|	|	|Lak
@@ -3490,7 +3505,7 @@
 `lbk	|	|	|Central Bontok
 `lbl	|	|	|Libon Bikol
 `lbm	|	|	|Lodhi
-`lbn	|	|	|Lamet
+`lbn	|	|	|Rmeet
 `lbo	|	|	|Laven
 `lbq	|	|	|Wampar
 `lbr	|	|	|Lohorung
@@ -3500,7 +3515,7 @@
 `lbv	|	|	|Lavatbura-Lamusong
 `lbw	|	|	|Tolaki
 `lbx	|	|	|Lawangan
-`lby	|	|	|Lamu-Lamu
+`lby	|	|	|Lamalama
 `lbz	|	|	|Lardil
 `lcc	|	|	|Legenyem
 `lcd	|	|	|Lola
@@ -3513,7 +3528,7 @@
 `lcq	|	|	|Luhu
 `lcs	|	|	|Lisabata-Nuniali
 `lda	|	|	|Kla-Dan
-`ldb	|	|	|Dũya
+`ldb	|	|	|Du_ya
 `ldd	|	|	|Luri
 `ldg	|	|	|Lenyima
 `ldh	|	|	|Lamja-Dengsa-Tola
@@ -3561,7 +3576,8 @@
 `lgk	|	|	|Lingarak
 `lgl	|	|	|Wala
 `lgm	|	|	|Lega-Mwenga
-`lgn	|	|	|Opuuo
+`lgn	|	|	|T'apo
+`lgo	|	|	|Lango (South Sudan)
 `lgq	|	|	|Logba
 `lgr	|	|	|Lengo
 `lgt	|	|	|Pahi
@@ -3640,7 +3656,6 @@
 `lll	|	|	|Lilau
 `llm	|	|	|Lasalimu
 `lln	|	|	|Lele (Chad)
-`llo	|	|	|Khlor
 `llp	|	|	|North Efate
 `llq	|	|	|Lolak
 `lls	|	|	|Lithuanian Sign Language
@@ -3668,7 +3683,6 @@
 `lmw	|	|	|Lake Miwok
 `lmx	|	|	|Laimbue
 `lmy	|	|	|Lamboya
-`lmz	|	|	|Lumbee
 `lna	|	|	|Langbashe
 `lnb	|	|	|Mbalanhu
 `lnd	|	|	|Lundayeh
@@ -3679,7 +3693,6 @@
 `lnl	|	|	|South Central Banda
 `lnm	|	|	|Langam
 `lnn	|	|	|Lorediakarkar
-`lno	|	|	|Lango (Sudan)
 `lns	|	|	|Lamnso'
 `lnu	|	|	|Longuda
 `lnw	|	|	|Lanima
@@ -3714,6 +3727,7 @@
 `lpn	|	|	|Long Phuri Naga
 `lpo	|	|	|Lipo
 `lpx	|	|	|Lopit
+`lqr	|	|	|Logir
 `lra	|	|	|Rara Bakati'
 `lrc	|	|	|Northern Luri
 `lre	|	|	|Laurentian
@@ -3729,21 +3743,26 @@
 `lrv	|	|	|Larevat
 `lrz	|	|	|Lemerig
 `lsa	|	|	|Lasgerdi
+`lsb	|	|	|Burundian Sign Language
+`lsc	|	|	|Albarradas Sign Language
 `lsd	|	|	|Lishana Deni
 `lse	|	|	|Lusengo
-`lsg	|	|	|Lyons Sign Language
 `lsh	|	|	|Lish
 `lsi	|	|	|Lashi
 `lsl	|	|	|Latvian Sign Language
 `lsm	|	|	|Saamia
+`lsn	|	|	|Tibetan Sign Language
 `lso	|	|	|Laos Sign Language
 `lsp	|	|	|Panamanian Sign Language
 `lsr	|	|	|Aruop
 `lss	|	|	|Lasi
 `lst	|	|	|Trinidad and Tobago Sign Language
+`lsv	|	|	|Sivia Sign Language
+`lsw	|	|	|Seychelles Sign Language
 `lsy	|	|	|Mauritian Sign Language
 `ltc	|	|	|Late Middle Chinese
 `ltg	|	|	|Latgalian
+`lth	|	|	|Thur
 `lti	|	|	|Leti (Indonesia)
 `ltn	|	|	|Latundê
 `lto	|	|	|Tsotso
@@ -3775,6 +3794,7 @@
 `luy	|	|	|Luyia
 `luz	|	|	|Southern Luri
 `lva	|	|	|Maku'a
+`lvi	|	|	|Lavi
 `lvk	|	|	|Lavukaleve
 `lvs	|	|	|Standard Latvian
 `lvu	|	|	|Levuka
@@ -3785,9 +3805,11 @@
 `lwl	|	|	|Eastern Lawa
 `lwm	|	|	|Laomian
 `lwo	|	|	|Luwo
+`lws	|	|	|Malawian Sign Language
 `lwt	|	|	|Lewotobi
 `lwu	|	|	|Lawu
 `lww	|	|	|Lewo
+`lxm	|	|	|Lakurumau
 `lya	|	|	|Layakha
 `lyg	|	|	|Lyngngam
 `lyn	|	|	|Luyana
@@ -3895,7 +3917,7 @@
 `mdz	|	|	|Suruí Do Pará
 `mea	|	|	|Menka
 `meb	|	|	|Ikobi
-`mec	|	|	|Mara
+`mec	|	|	|Marra
 `med	|	|	|Melpa
 `mee	|	|	|Mengen
 `mef	|	|	|Megam
@@ -3907,7 +3929,7 @@
 `mem	|	|	|Mangala
 `men	|men	|	|Mende (Sierra Leone)
 `meo	|	|	|Kedah Malay
-`mep	|	|	|Miriwung
+`mep	|	|	|Miriwoong
 `meq	|	|	|Merey
 `mer	|	|	|Meru
 `mes	|	|	|Masmaje
@@ -3934,7 +3956,7 @@
 `mfo	|	|	|Mbe
 `mfp	|	|	|Makassar Malay
 `mfq	|	|	|Moba
-`mfr	|	|	|Marithiel
+`mfr	|	|	|Marrithiyel
 `mfs	|	|	|Mexican Sign Language
 `mft	|	|	|Mokerang
 `mfu	|	|	|Mbwela
@@ -4142,7 +4164,7 @@
 `moa	|	|	|Mwan
 `moc	|	|	|Mocoví
 `mod	|	|	|Mobilian
-`moe	|	|	|Montagnais
+`moe	|	|	|Innu
 `mog	|	|	|Mongondow
 `moh	|moh	|	|Mohawk
 `moi	|	|	|Mboi
@@ -4163,8 +4185,8 @@
 `moy	|	|	|Shekkacho
 `moz	|	|	|Mukulu
 `mpa	|	|	|Mpoto
-`mpb	|	|	|Mullukmulluk
-`mpc	|	|	|Mangarayi
+`mpb	|	|	|Malak Malak
+`mpc	|	|	|Mangarrayi
 `mpd	|	|	|Machinere
 `mpe	|	|	|Majang
 `mpg	|	|	|Marba
@@ -4321,7 +4343,6 @@
 `mvi	|	|	|Miyako
 `mvk	|	|	|Mekmek
 `mvl	|	|	|Mbara (Australia)
-`mvm	|	|	|Muya
 `mvn	|	|	|Minaveha
 `mvo	|	|	|Marovo
 `mvp	|	|	|Duri
@@ -4356,8 +4377,6 @@
 `mwu	|	|	|Mittu
 `mwv	|	|	|Mentawai
 `mww	|	|	|Hmong Daw
-`mwx	|	|	|Mediak
-`mwy	|	|	|Mosiro
 `mwz	|	|	|Moingi
 `mxa	|	|	|Northwest Oaxaca Mixtec
 `mxb	|	|	|Tezoatlán Mixtec
@@ -4388,12 +4407,10 @@
 `mya	|mya/bur|my	|Burmese
 `myb	|	|	|Mbay
 `myc	|	|	|Mayeka
-`myd	|	|	|Maramba
 `mye	|	|	|Myene
 `myf	|	|	|Bambassi
 `myg	|	|	|Manta
 `myh	|	|	|Makah
-`myi	|	|	|Mina (India)
 `myj	|	|	|Mangayat
 `myk	|	|	|Mamara Senoufo
 `myl	|	|	|Moma
@@ -4449,12 +4466,12 @@
 `naq	|	|	|Khoekhoe
 `nar	|	|	|Iguta
 `nas	|	|	|Naasioi
-`nat	|	|	|Ca̱hungwa̱rya̱
+`nat	|	|	|Ca_hungwa_rya_
 `nau	|nau	|na	|Nauru
 `nav	|nav	|nv	|Navajo
 `naw	|	|	|Nawuri
 `nax	|	|	|Nakwi
-`nay	|	|	|Narrinyeri
+`nay	|	|	|Ngarrindjeri
 `naz	|	|	|Coatepec Nahuatl
 `nba	|	|	|Nyemba
 `nbb	|	|	|Ndoe
@@ -4464,7 +4481,7 @@
 `nbg	|	|	|Nagarchal
 `nbh	|	|	|Ngamo
 `nbi	|	|	|Mao Naga
-`nbj	|	|	|Ngarinman
+`nbj	|	|	|Ngarinyman
 `nbk	|	|	|Nake
 `nbl	|nbl	|nr	|South Ndebele
 `nbm	|	|	|Ngbaka Ma'bo
@@ -4472,7 +4489,7 @@
 `nbo	|	|	|Nkukoli
 `nbp	|	|	|Nnam
 `nbq	|	|	|Nggem
-`nbr	|	|	|Numana-Nunku-Gbantu-Numbu
+`nbr	|	|	|Numana
 `nbs	|	|	|Namibian Sign Language
 `nbt	|	|	|Na
 `nbu	|	|	|Rongmei Naga
@@ -4489,12 +4506,12 @@
 `nch	|	|	|Central Huasteca Nahuatl
 `nci	|	|	|Classical Nahuatl
 `ncj	|	|	|Northern Puebla Nahuatl
-`nck	|	|	|Nakara
+`nck	|	|	|Na-kara
 `ncl	|	|	|Michoacán Nahuatl
 `ncm	|	|	|Nambo
 `ncn	|	|	|Nauna
 `nco	|	|	|Sibe
-`ncp	|	|	|Ndaktup
+`ncq	|	|	|Northern Katang
 `ncr	|	|	|Ncane
 `ncs	|	|	|Nicaraguan Sign Language
 `nct	|	|	|Chothe Naga
@@ -4563,19 +4580,18 @@
 `ngd	|	|	|Ngando (Central African Republic)
 `nge	|	|	|Ngemba
 `ngg	|	|	|Ngbaka Manza
-`ngh	|	|	|N/u
+`ngh	|	|	|N_ng
 `ngi	|	|	|Ngizim
 `ngj	|	|	|Ngie
 `ngk	|	|	|Dalabon
 `ngl	|	|	|Lomwe
 `ngm	|	|	|Ngatik Men's Creole
 `ngn	|	|	|Ngwo
-`ngo	|	|	|Ngoni
 `ngp	|	|	|Ngulu
 `ngq	|	|	|Ngurimi
 `ngr	|	|	|Engdewu
 `ngs	|	|	|Gvoko
-`ngt	|	|	|Ngeq
+`ngt	|	|	|Kriang
 `ngu	|	|	|Guerrero Nahuatl
 `ngv	|	|	|Nagumi
 `ngw	|	|	|Ngwaba
@@ -4610,7 +4626,7 @@
 `nid	|	|	|Ngandi
 `nie	|	|	|Niellim
 `nif	|	|	|Nek
-`nig	|	|	|Ngalakan
+`nig	|	|	|Ngalakgan
 `nih	|	|	|Nyiha (Tanzania)
 `nii	|	|	|Nii
 `nij	|	|	|Ngaju
@@ -4679,6 +4695,7 @@
 `nlj	|	|	|Nyali
 `nlk	|	|	|Ninia Yali
 `nll	|	|	|Nihali
+`nlm	|	|	|Mankiyali
 `nlo	|	|	|Ngul
 `nlq	|	|	|Lao Naga
 `nlu	|	|	|Nchumbulu
@@ -4700,7 +4717,7 @@
 `nmk	|	|	|Namakura
 `nml	|	|	|Ndemli
 `nmm	|	|	|Manangba
-`nmn	|	|	|!Xóõ
+`nmn	|	|	|_Xóõ
 `nmo	|	|	|Moyon Naga
 `nmp	|	|	|Nimanbur
 `nmq	|	|	|Nambya
@@ -4731,7 +4748,6 @@
 `nnp	|	|	|Wancho Naga
 `nnq	|	|	|Ngindo
 `nnr	|	|	|Narungga
-`nns	|	|	|Ningye
 `nnt	|	|	|Nanticoke
 `nnu	|	|	|Dwang
 `nnv	|	|	|Nugunu (Australia)
@@ -4772,13 +4788,16 @@
 `npo	|	|	|Pochuri Naga
 `nps	|	|	|Nipsan
 `npu	|	|	|Puimei Naga
+`npx	|	|	|Noipx
 `npy	|	|	|Napu
 `nqg	|	|	|Southern Nago
 `nqk	|	|	|Kura Ede Nago
+`nql	|	|	|Ngendelengo
 `nqm	|	|	|Ndom
 `nqn	|	|	|Nen
 `nqo	|nqo	|	|N'Ko
 `nqq	|	|	|Kyan-Karyaw Naga
+`nqt	|	|	|Nteng
 `nqy	|	|	|Akyaung Ari Naga
 `nra	|	|	|Ngom
 `nrb	|	|	|Nara
@@ -4798,6 +4817,7 @@
 `nrx	|	|	|Ngurmbur
 `nrz	|	|	|Lala
 `nsa	|	|	|Sangtam Naga
+`nsb	|	|	|Lower Nossob
 `nsc	|	|	|Nshi
 `nsd	|	|	|Southern Nisu
 `nse	|	|	|Nsenga
@@ -4873,6 +4893,7 @@
 `nwm	|	|	|Nyamusa-Molo
 `nwo	|	|	|Nauo
 `nwr	|	|	|Nawaru
+`nww	|	|	|Ndwewe
 `nwx	|	|	|Middle Newar
 `nwy	|	|	|Nottoway-Meherrin
 `nxa	|	|	|Nauete
@@ -4887,7 +4908,6 @@
 `nxo	|	|	|Ndambomo
 `nxq	|	|	|Naxi
 `nxr	|	|	|Ninggerum
-`nxu	|	|	|Narau
 `nxx	|	|	|Nafri
 `nya	|nya	|ny	|Nyanja
 `nyb	|	|	|Nyangbo
@@ -4896,7 +4916,7 @@
 `nye	|	|	|Nyengo
 `nyf	|	|	|Giryama
 `nyg	|	|	|Nyindu
-`nyh	|	|	|Nyigina
+`nyh	|	|	|Nyikina
 `nyi	|	|	|Ama (Sudan)
 `nyj	|	|	|Nyanga
 `nyk	|	|	|Nyaneka
@@ -4907,7 +4927,7 @@
 `nyp	|	|	|Nyang'i
 `nyq	|	|	|Nayini
 `nyr	|	|	|Nyiha (Malawi)
-`nys	|	|	|Nyunga
+`nys	|	|	|Nyungar
 `nyt	|	|	|Nyawaygi
 `nyu	|	|	|Nyungwe
 `nyv	|	|	|Nyulnyul
@@ -4916,6 +4936,7 @@
 `nyy	|	|	|Nyakyusa-Ngonde
 `nza	|	|	|Tigon Mbembe
 `nzb	|	|	|Njebi
+`nzd	|	|	|Nzadi
 `nzi	|nzi	|	|Nzima
 `nzk	|	|	|Nzakara
 `nzm	|	|	|Zeme Naga
@@ -4938,6 +4959,7 @@
 `oca	|	|	|Ocaina
 `och	|	|	|Old Chinese
 `oci	|oci	|oc	|Occitan (post 1500)
+`ocm	|	|	|Old Cham
 `oco	|	|	|Old Cornish
 `ocu	|	|	|Atzingo Matlatzinca
 `oda	|	|	|Odut
@@ -4956,6 +4978,7 @@
 `oht	|	|	|Old Hittite
 `ohu	|	|	|Old Hungarian
 `oia	|	|	|Oirata
+`oie	|	|	|Okolie
 `oin	|	|	|Inebu One
 `ojb	|	|	|Northwestern Ojibwa
 `ojc	|	|	|Central Ojibwa
@@ -4967,6 +4990,7 @@
 `ojw	|	|	|Western Ojibwa
 `oka	|	|	|Okanagan
 `okb	|	|	|Okobo
+`okc	|	|	|Kobo
 `okd	|	|	|Okodia
 `oke	|	|	|Okpe (Southwestern Edo)
 `okg	|	|	|Koko Babangk
@@ -4983,6 +5007,7 @@
 `oku	|	|	|Oku
 `okv	|	|	|Orokaiva
 `okx	|	|	|Okpe (Northwestern Edo)
+`okz	|	|	|Old Khmer
 `ola	|	|	|Walungge
 `old	|	|	|Mochi
 `ole	|	|	|Olekha
@@ -5007,6 +5032,7 @@
 `omu	|	|	|Omurano
 `omw	|	|	|South Tairora
 `omx	|	|	|Old Mon
+`omy	|	|	|Old Malay
 `ona	|	|	|Ona
 `onb	|	|	|Lingao
 `one	|	|	|Oneida
@@ -5055,6 +5081,7 @@
 `osa	|osa	|	|Osage
 `osc	|	|	|Oscan
 `osi	|	|	|Osing
+`osn	|	|	|Old Sundanese
 `oso	|	|	|Ososo
 `osp	|	|	|Old Spanish
 `oss	|oss	|os	|Ossetian
@@ -5084,7 +5111,7 @@
 `oue	|	|	|Oune
 `oui	|	|	|Old Uighur
 `oum	|	|	|Ouma
-`ovd	|	|	|Övdalian
+`ovd	|	|	|Elfdalian
 `owi	|	|	|Owiniga
 `owl	|	|	|Old Welsh
 `oyb	|	|	|Oy
@@ -5109,7 +5136,6 @@
 `paq	|	|	|Parya
 `par	|	|	|Panamint
 `pas	|	|	|Papasena
-`pat	|	|	|Papitalai
 `pau	|pau	|	|Palauan
 `pav	|	|	|Pakaásnovos
 `paw	|	|	|Pawnee
@@ -5124,6 +5150,7 @@
 `pbh	|	|	|E'ñapa Woromaipu
 `pbi	|	|	|Parkwa
 `pbl	|	|	|Mak (Nigeria)
+`pbm	|	|	|Puebla Mazatec
 `pbn	|	|	|Kpasam
 `pbo	|	|	|Papel
 `pbp	|	|	|Badyara
@@ -5177,10 +5204,10 @@
 `pey	|	|	|Petjo
 `pez	|	|	|Eastern Penan
 `pfa	|	|	|Pááfang
-`pfe	|	|	|Peere
+`pfe	|	|	|Pere
 `pfl	|	|	|Pfaelzisch
 `pga	|	|	|Sudanese Creole Arabic
-`pgd	|	|	|Gāndhārī
+`pgd	|	|	|G_ndh_r_
 `pgg	|	|	|Pangwali
 `pgi	|	|	|Pagi
 `pgk	|	|	|Rerep
@@ -5193,6 +5220,7 @@
 `phd	|	|	|Phudagi
 `phg	|	|	|Phuong
 `phh	|	|	|Phukha
+`phj	|	|	|Pahari
 `phk	|	|	|Phake
 `phl	|	|	|Phalura
 `phm	|	|	|Phimbi
@@ -5212,7 +5240,6 @@
 `pif	|	|	|Pingelapese
 `pig	|	|	|Pisabo
 `pih	|	|	|Pitcairn-Norfolk
-`pii	|	|	|Pini
 `pij	|	|	|Pijao
 `pil	|	|	|Yom
 `pim	|	|	|Powhatan
@@ -5229,7 +5256,7 @@
 `piy	|	|	|Piya-Kwonci
 `piz	|	|	|Pije
 `pjt	|	|	|Pitjantjatjara
-`pka	|	|	|Ardhamāgadhī Prākrit
+`pka	|	|	|Ardham_gadh_ Pr_krit
 `pkb	|	|	|Pokomo
 `pkc	|	|	|Paekche
 `pkg	|	|	|Pak-Tong
@@ -5254,7 +5281,6 @@
 `pll	|	|	|Shwe Palaung
 `pln	|	|	|Palenquero
 `plo	|	|	|Oluta Popoluca
-`plp	|	|	|Palpa
 `plq	|	|	|Palaic
 `plr	|	|	|Palaka Senoufo
 `pls	|	|	|San Marcos Tlacoyalco Popoloca
@@ -5269,7 +5295,7 @@
 `pmd	|	|	|Pallanganmiddang
 `pme	|	|	|Pwaamei
 `pmf	|	|	|Pamona
-`pmh	|	|	|Māhārāṣṭri Prākrit
+`pmh	|	|	|M_h_r___ri Pr_krit
 `pmi	|	|	|Northern Pumi
 `pmj	|	|	|Southern Pumi
 `pmk	|	|	|Pamlico
@@ -5288,8 +5314,9 @@
 `pna	|	|	|Punan Bah-Biau
 `pnb	|	|	|Western Panjabi
 `pnc	|	|	|Pannei
+`pnd	|	|	|Mpinda
 `pne	|	|	|Western Penan
-`png	|	|	|Pongu
+`png	|	|	|Pangu
 `pnh	|	|	|Penrhyn
 `pni	|	|	|Aoheng
 `pnj	|	|	|Pinjarup
@@ -5305,7 +5332,7 @@
 `pnt	|	|	|Pontic
 `pnu	|	|	|Jiongnai Bunu
 `pnv	|	|	|Pinigura
-`pnw	|	|	|Panytyima
+`pnw	|	|	|Banyjima
 `pnx	|	|	|Phong-Kniang
 `pny	|	|	|Pinyin
 `pnz	|	|	|Pana (Central African Republic)
@@ -5343,7 +5370,6 @@
 `ppu	|	|	|Papora
 `pqa	|	|	|Pa'a
 `pqm	|	|	|Malecite-Passamaquoddy
-`prb	|	|	|Lua'
 `prc	|	|	|Parachi
 `prd	|	|	|Parsi-Dari
 `pre	|	|	|Principense
@@ -5366,7 +5392,7 @@
 `prx	|	|	|Purik
 `prz	|	|	|Providencia Sign Language
 `psa	|	|	|Asue Awyu
-`psc	|	|	|Persian Sign Language
+`psc	|	|	|Iranian Sign Language
 `psd	|	|	|Plains Indian Sign Language
 `pse	|	|	|Central Malay
 `psg	|	|	|Penang Sign Language
@@ -5381,12 +5407,12 @@
 `psr	|	|	|Portuguese Sign Language
 `pss	|	|	|Kaulong
 `pst	|	|	|Central Pashto
-`psu	|	|	|Sauraseni Prākrit
+`psu	|	|	|Sauraseni Pr_krit
 `psw	|	|	|Port Sandwich
 `psy	|	|	|Piscataway
 `pta	|	|	|Pai Tavytera
 `pth	|	|	|Pataxó Hã-Ha-Hãe
-`pti	|	|	|Pintiini
+`pti	|	|	|Pindiini
 `ptn	|	|	|Patani
 `pto	|	|	|Zo'é
 `ptp	|	|	|Patep
@@ -5406,7 +5432,6 @@
 `pug	|	|	|Phuie
 `pui	|	|	|Puinave
 `puj	|	|	|Punan Tubu
-`puk	|	|	|Pu Ko
 `pum	|	|	|Puma
 `puo	|	|	|Puoc
 `pup	|	|	|Pulabu
@@ -5435,527 +5460,8 @@
 `pyu	|	|	|Puyuma
 `pyx	|	|	|Pyu (Myanmar)
 `pyy	|	|	|Pyen
-`pzn	|	|	|Para Naga
-`qaa	|qaa	|	|Reserved for local use
-`qab	|qab	|	|Reserved for local use
-`qac	|qac	|	|Reserved for local use
-`qad	|qad	|	|Reserved for local use
-`qae	|qae	|	|Reserved for local use
-`qaf	|qaf	|	|Reserved for local use
-`qag	|qag	|	|Reserved for local use
-`qah	|qah	|	|Reserved for local use
-`qai	|qai	|	|Reserved for local use
-`qaj	|qaj	|	|Reserved for local use
-`qak	|qak	|	|Reserved for local use
-`qal	|qal	|	|Reserved for local use
-`qam	|qam	|	|Reserved for local use
-`qan	|qan	|	|Reserved for local use
-`qao	|qao	|	|Reserved for local use
-`qap	|qap	|	|Reserved for local use
-`qaq	|qaq	|	|Reserved for local use
-`qar	|qar	|	|Reserved for local use
-`qas	|qas	|	|Reserved for local use
-`qat	|qat	|	|Reserved for local use
-`qau	|qau	|	|Reserved for local use
-`qav	|qav	|	|Reserved for local use
-`qaw	|qaw	|	|Reserved for local use
-`qax	|qax	|	|Reserved for local use
-`qay	|qay	|	|Reserved for local use
-`qaz	|qaz	|	|Reserved for local use
-`qba	|qba	|	|Reserved for local use
-`qbb	|qbb	|	|Reserved for local use
-`qbc	|qbc	|	|Reserved for local use
-`qbd	|qbd	|	|Reserved for local use
-`qbe	|qbe	|	|Reserved for local use
-`qbf	|qbf	|	|Reserved for local use
-`qbg	|qbg	|	|Reserved for local use
-`qbh	|qbh	|	|Reserved for local use
-`qbi	|qbi	|	|Reserved for local use
-`qbj	|qbj	|	|Reserved for local use
-`qbk	|qbk	|	|Reserved for local use
-`qbl	|qbl	|	|Reserved for local use
-`qbm	|qbm	|	|Reserved for local use
-`qbn	|qbn	|	|Reserved for local use
-`qbo	|qbo	|	|Reserved for local use
-`qbp	|qbp	|	|Reserved for local use
-`qbq	|qbq	|	|Reserved for local use
-`qbr	|qbr	|	|Reserved for local use
-`qbs	|qbs	|	|Reserved for local use
-`qbt	|qbt	|	|Reserved for local use
-`qbu	|qbu	|	|Reserved for local use
-`qbv	|qbv	|	|Reserved for local use
-`qbw	|qbw	|	|Reserved for local use
-`qbx	|qbx	|	|Reserved for local use
-`qby	|qby	|	|Reserved for local use
-`qbz	|qbz	|	|Reserved for local use
-`qca	|qca	|	|Reserved for local use
-`qcb	|qcb	|	|Reserved for local use
-`qcc	|qcc	|	|Reserved for local use
-`qcd	|qcd	|	|Reserved for local use
-`qce	|qce	|	|Reserved for local use
-`qcf	|qcf	|	|Reserved for local use
-`qcg	|qcg	|	|Reserved for local use
-`qch	|qch	|	|Reserved for local use
-`qci	|qci	|	|Reserved for local use
-`qcj	|qcj	|	|Reserved for local use
-`qck	|qck	|	|Reserved for local use
-`qcl	|qcl	|	|Reserved for local use
-`qcm	|qcm	|	|Reserved for local use
-`qcn	|qcn	|	|Reserved for local use
-`qco	|qco	|	|Reserved for local use
-`qcp	|qcp	|	|Reserved for local use
-`qcq	|qcq	|	|Reserved for local use
-`qcr	|qcr	|	|Reserved for local use
-`qcs	|qcs	|	|Reserved for local use
-`qct	|qct	|	|Reserved for local use
-`qcu	|qcu	|	|Reserved for local use
-`qcv	|qcv	|	|Reserved for local use
-`qcw	|qcw	|	|Reserved for local use
-`qcx	|qcx	|	|Reserved for local use
-`qcy	|qcy	|	|Reserved for local use
-`qcz	|qcz	|	|Reserved for local use
-`qda	|qda	|	|Reserved for local use
-`qdb	|qdb	|	|Reserved for local use
-`qdc	|qdc	|	|Reserved for local use
-`qdd	|qdd	|	|Reserved for local use
-`qde	|qde	|	|Reserved for local use
-`qdf	|qdf	|	|Reserved for local use
-`qdg	|qdg	|	|Reserved for local use
-`qdh	|qdh	|	|Reserved for local use
-`qdi	|qdi	|	|Reserved for local use
-`qdj	|qdj	|	|Reserved for local use
-`qdk	|qdk	|	|Reserved for local use
-`qdl	|qdl	|	|Reserved for local use
-`qdm	|qdm	|	|Reserved for local use
-`qdn	|qdn	|	|Reserved for local use
-`qdo	|qdo	|	|Reserved for local use
-`qdp	|qdp	|	|Reserved for local use
-`qdq	|qdq	|	|Reserved for local use
-`qdr	|qdr	|	|Reserved for local use
-`qds	|qds	|	|Reserved for local use
-`qdt	|qdt	|	|Reserved for local use
-`qdu	|qdu	|	|Reserved for local use
-`qdv	|qdv	|	|Reserved for local use
-`qdw	|qdw	|	|Reserved for local use
-`qdx	|qdx	|	|Reserved for local use
-`qdy	|qdy	|	|Reserved for local use
-`qdz	|qdz	|	|Reserved for local use
-`qea	|qea	|	|Reserved for local use
-`qeb	|qeb	|	|Reserved for local use
-`qec	|qec	|	|Reserved for local use
-`qed	|qed	|	|Reserved for local use
-`qee	|qee	|	|Reserved for local use
-`qef	|qef	|	|Reserved for local use
-`qeg	|qeg	|	|Reserved for local use
-`qeh	|qeh	|	|Reserved for local use
-`qei	|qei	|	|Reserved for local use
-`qej	|qej	|	|Reserved for local use
-`qek	|qek	|	|Reserved for local use
-`qel	|qel	|	|Reserved for local use
-`qem	|qem	|	|Reserved for local use
-`qen	|qen	|	|Reserved for local use
-`qeo	|qeo	|	|Reserved for local use
-`qep	|qep	|	|Reserved for local use
-`qeq	|qeq	|	|Reserved for local use
-`qer	|qer	|	|Reserved for local use
-`qes	|qes	|	|Reserved for local use
-`qet	|qet	|	|Reserved for local use
-`qeu	|qeu	|	|Reserved for local use
-`qev	|qev	|	|Reserved for local use
-`qew	|qew	|	|Reserved for local use
-`qex	|qex	|	|Reserved for local use
-`qey	|qey	|	|Reserved for local use
-`qez	|qez	|	|Reserved for local use
-`qfa	|qfa	|	|Reserved for local use
-`qfb	|qfb	|	|Reserved for local use
-`qfc	|qfc	|	|Reserved for local use
-`qfd	|qfd	|	|Reserved for local use
-`qfe	|qfe	|	|Reserved for local use
-`qff	|qff	|	|Reserved for local use
-`qfg	|qfg	|	|Reserved for local use
-`qfh	|qfh	|	|Reserved for local use
-`qfi	|qfi	|	|Reserved for local use
-`qfj	|qfj	|	|Reserved for local use
-`qfk	|qfk	|	|Reserved for local use
-`qfl	|qfl	|	|Reserved for local use
-`qfm	|qfm	|	|Reserved for local use
-`qfn	|qfn	|	|Reserved for local use
-`qfo	|qfo	|	|Reserved for local use
-`qfp	|qfp	|	|Reserved for local use
-`qfq	|qfq	|	|Reserved for local use
-`qfr	|qfr	|	|Reserved for local use
-`qfs	|qfs	|	|Reserved for local use
-`qft	|qft	|	|Reserved for local use
-`qfu	|qfu	|	|Reserved for local use
-`qfv	|qfv	|	|Reserved for local use
-`qfw	|qfw	|	|Reserved for local use
-`qfx	|qfx	|	|Reserved for local use
-`qfy	|qfy	|	|Reserved for local use
-`qfz	|qfz	|	|Reserved for local use
-`qga	|qga	|	|Reserved for local use
-`qgb	|qgb	|	|Reserved for local use
-`qgc	|qgc	|	|Reserved for local use
-`qgd	|qgd	|	|Reserved for local use
-`qge	|qge	|	|Reserved for local use
-`qgf	|qgf	|	|Reserved for local use
-`qgg	|qgg	|	|Reserved for local use
-`qgh	|qgh	|	|Reserved for local use
-`qgi	|qgi	|	|Reserved for local use
-`qgj	|qgj	|	|Reserved for local use
-`qgk	|qgk	|	|Reserved for local use
-`qgl	|qgl	|	|Reserved for local use
-`qgm	|qgm	|	|Reserved for local use
-`qgn	|qgn	|	|Reserved for local use
-`qgo	|qgo	|	|Reserved for local use
-`qgp	|qgp	|	|Reserved for local use
-`qgq	|qgq	|	|Reserved for local use
-`qgr	|qgr	|	|Reserved for local use
-`qgs	|qgs	|	|Reserved for local use
-`qgt	|qgt	|	|Reserved for local use
-`qgu	|qgu	|	|Reserved for local use
-`qgv	|qgv	|	|Reserved for local use
-`qgw	|qgw	|	|Reserved for local use
-`qgx	|qgx	|	|Reserved for local use
-`qgy	|qgy	|	|Reserved for local use
-`qgz	|qgz	|	|Reserved for local use
-`qha	|qha	|	|Reserved for local use
-`qhb	|qhb	|	|Reserved for local use
-`qhc	|qhc	|	|Reserved for local use
-`qhd	|qhd	|	|Reserved for local use
-`qhe	|qhe	|	|Reserved for local use
-`qhf	|qhf	|	|Reserved for local use
-`qhg	|qhg	|	|Reserved for local use
-`qhh	|qhh	|	|Reserved for local use
-`qhi	|qhi	|	|Reserved for local use
-`qhj	|qhj	|	|Reserved for local use
-`qhk	|qhk	|	|Reserved for local use
-`qhl	|qhl	|	|Reserved for local use
-`qhm	|qhm	|	|Reserved for local use
-`qhn	|qhn	|	|Reserved for local use
-`qho	|qho	|	|Reserved for local use
-`qhp	|qhp	|	|Reserved for local use
-`qhq	|qhq	|	|Reserved for local use
-`qhr	|qhr	|	|Reserved for local use
-`qhs	|qhs	|	|Reserved for local use
-`qht	|qht	|	|Reserved for local use
-`qhu	|qhu	|	|Reserved for local use
-`qhv	|qhv	|	|Reserved for local use
-`qhw	|qhw	|	|Reserved for local use
-`qhx	|qhx	|	|Reserved for local use
-`qhy	|qhy	|	|Reserved for local use
-`qhz	|qhz	|	|Reserved for local use
-`qia	|qia	|	|Reserved for local use
-`qib	|qib	|	|Reserved for local use
-`qic	|qic	|	|Reserved for local use
-`qid	|qid	|	|Reserved for local use
-`qie	|qie	|	|Reserved for local use
-`qif	|qif	|	|Reserved for local use
-`qig	|qig	|	|Reserved for local use
-`qih	|qih	|	|Reserved for local use
-`qii	|qii	|	|Reserved for local use
-`qij	|qij	|	|Reserved for local use
-`qik	|qik	|	|Reserved for local use
-`qil	|qil	|	|Reserved for local use
-`qim	|qim	|	|Reserved for local use
-`qin	|qin	|	|Reserved for local use
-`qio	|qio	|	|Reserved for local use
-`qip	|qip	|	|Reserved for local use
-`qiq	|qiq	|	|Reserved for local use
-`qir	|qir	|	|Reserved for local use
-`qis	|qis	|	|Reserved for local use
-`qit	|qit	|	|Reserved for local use
-`qiu	|qiu	|	|Reserved for local use
-`qiv	|qiv	|	|Reserved for local use
-`qiw	|qiw	|	|Reserved for local use
-`qix	|qix	|	|Reserved for local use
-`qiy	|qiy	|	|Reserved for local use
-`qiz	|qiz	|	|Reserved for local use
-`qja	|qja	|	|Reserved for local use
-`qjb	|qjb	|	|Reserved for local use
-`qjc	|qjc	|	|Reserved for local use
-`qjd	|qjd	|	|Reserved for local use
-`qje	|qje	|	|Reserved for local use
-`qjf	|qjf	|	|Reserved for local use
-`qjg	|qjg	|	|Reserved for local use
-`qjh	|qjh	|	|Reserved for local use
-`qji	|qji	|	|Reserved for local use
-`qjj	|qjj	|	|Reserved for local use
-`qjk	|qjk	|	|Reserved for local use
-`qjl	|qjl	|	|Reserved for local use
-`qjm	|qjm	|	|Reserved for local use
-`qjn	|qjn	|	|Reserved for local use
-`qjo	|qjo	|	|Reserved for local use
-`qjp	|qjp	|	|Reserved for local use
-`qjq	|qjq	|	|Reserved for local use
-`qjr	|qjr	|	|Reserved for local use
-`qjs	|qjs	|	|Reserved for local use
-`qjt	|qjt	|	|Reserved for local use
-`qju	|qju	|	|Reserved for local use
-`qjv	|qjv	|	|Reserved for local use
-`qjw	|qjw	|	|Reserved for local use
-`qjx	|qjx	|	|Reserved for local use
-`qjy	|qjy	|	|Reserved for local use
-`qjz	|qjz	|	|Reserved for local use
-`qka	|qka	|	|Reserved for local use
-`qkb	|qkb	|	|Reserved for local use
-`qkc	|qkc	|	|Reserved for local use
-`qkd	|qkd	|	|Reserved for local use
-`qke	|qke	|	|Reserved for local use
-`qkf	|qkf	|	|Reserved for local use
-`qkg	|qkg	|	|Reserved for local use
-`qkh	|qkh	|	|Reserved for local use
-`qki	|qki	|	|Reserved for local use
-`qkj	|qkj	|	|Reserved for local use
-`qkk	|qkk	|	|Reserved for local use
-`qkl	|qkl	|	|Reserved for local use
-`qkm	|qkm	|	|Reserved for local use
-`qkn	|qkn	|	|Reserved for local use
-`qko	|qko	|	|Reserved for local use
-`qkp	|qkp	|	|Reserved for local use
-`qkq	|qkq	|	|Reserved for local use
-`qkr	|qkr	|	|Reserved for local use
-`qks	|qks	|	|Reserved for local use
-`qkt	|qkt	|	|Reserved for local use
-`qku	|qku	|	|Reserved for local use
-`qkv	|qkv	|	|Reserved for local use
-`qkw	|qkw	|	|Reserved for local use
-`qkx	|qkx	|	|Reserved for local use
-`qky	|qky	|	|Reserved for local use
-`qkz	|qkz	|	|Reserved for local use
-`qla	|qla	|	|Reserved for local use
-`qlb	|qlb	|	|Reserved for local use
-`qlc	|qlc	|	|Reserved for local use
-`qld	|qld	|	|Reserved for local use
-`qle	|qle	|	|Reserved for local use
-`qlf	|qlf	|	|Reserved for local use
-`qlg	|qlg	|	|Reserved for local use
-`qlh	|qlh	|	|Reserved for local use
-`qli	|qli	|	|Reserved for local use
-`qlj	|qlj	|	|Reserved for local use
-`qlk	|qlk	|	|Reserved for local use
-`qll	|qll	|	|Reserved for local use
-`qlm	|qlm	|	|Reserved for local use
-`qln	|qln	|	|Reserved for local use
-`qlo	|qlo	|	|Reserved for local use
-`qlp	|qlp	|	|Reserved for local use
-`qlq	|qlq	|	|Reserved for local use
-`qlr	|qlr	|	|Reserved for local use
-`qls	|qls	|	|Reserved for local use
-`qlt	|qlt	|	|Reserved for local use
-`qlu	|qlu	|	|Reserved for local use
-`qlv	|qlv	|	|Reserved for local use
-`qlw	|qlw	|	|Reserved for local use
-`qlx	|qlx	|	|Reserved for local use
-`qly	|qly	|	|Reserved for local use
-`qlz	|qlz	|	|Reserved for local use
-`qma	|qma	|	|Reserved for local use
-`qmb	|qmb	|	|Reserved for local use
-`qmc	|qmc	|	|Reserved for local use
-`qmd	|qmd	|	|Reserved for local use
-`qme	|qme	|	|Reserved for local use
-`qmf	|qmf	|	|Reserved for local use
-`qmg	|qmg	|	|Reserved for local use
-`qmh	|qmh	|	|Reserved for local use
-`qmi	|qmi	|	|Reserved for local use
-`qmj	|qmj	|	|Reserved for local use
-`qmk	|qmk	|	|Reserved for local use
-`qml	|qml	|	|Reserved for local use
-`qmm	|qmm	|	|Reserved for local use
-`qmn	|qmn	|	|Reserved for local use
-`qmo	|qmo	|	|Reserved for local use
-`qmp	|qmp	|	|Reserved for local use
-`qmq	|qmq	|	|Reserved for local use
-`qmr	|qmr	|	|Reserved for local use
-`qms	|qms	|	|Reserved for local use
-`qmt	|qmt	|	|Reserved for local use
-`qmu	|qmu	|	|Reserved for local use
-`qmv	|qmv	|	|Reserved for local use
-`qmw	|qmw	|	|Reserved for local use
-`qmx	|qmx	|	|Reserved for local use
-`qmy	|qmy	|	|Reserved for local use
-`qmz	|qmz	|	|Reserved for local use
-`qna	|qna	|	|Reserved for local use
-`qnb	|qnb	|	|Reserved for local use
-`qnc	|qnc	|	|Reserved for local use
-`qnd	|qnd	|	|Reserved for local use
-`qne	|qne	|	|Reserved for local use
-`qnf	|qnf	|	|Reserved for local use
-`qng	|qng	|	|Reserved for local use
-`qnh	|qnh	|	|Reserved for local use
-`qni	|qni	|	|Reserved for local use
-`qnj	|qnj	|	|Reserved for local use
-`qnk	|qnk	|	|Reserved for local use
-`qnl	|qnl	|	|Reserved for local use
-`qnm	|qnm	|	|Reserved for local use
-`qnn	|qnn	|	|Reserved for local use
-`qno	|qno	|	|Reserved for local use
-`qnp	|qnp	|	|Reserved for local use
-`qnq	|qnq	|	|Reserved for local use
-`qnr	|qnr	|	|Reserved for local use
-`qns	|qns	|	|Reserved for local use
-`qnt	|qnt	|	|Reserved for local use
-`qnu	|qnu	|	|Reserved for local use
-`qnv	|qnv	|	|Reserved for local use
-`qnw	|qnw	|	|Reserved for local use
-`qnx	|qnx	|	|Reserved for local use
-`qny	|qny	|	|Reserved for local use
-`qnz	|qnz	|	|Reserved for local use
-`qoa	|qoa	|	|Reserved for local use
-`qob	|qob	|	|Reserved for local use
-`qoc	|qoc	|	|Reserved for local use
-`qod	|qod	|	|Reserved for local use
-`qoe	|qoe	|	|Reserved for local use
-`qof	|qof	|	|Reserved for local use
-`qog	|qog	|	|Reserved for local use
-`qoh	|qoh	|	|Reserved for local use
-`qoi	|qoi	|	|Reserved for local use
-`qoj	|qoj	|	|Reserved for local use
-`qok	|qok	|	|Reserved for local use
-`qol	|qol	|	|Reserved for local use
-`qom	|qom	|	|Reserved for local use
-`qon	|qon	|	|Reserved for local use
-`qoo	|qoo	|	|Reserved for local use
-`qop	|qop	|	|Reserved for local use
-`qoq	|qoq	|	|Reserved for local use
-`qor	|qor	|	|Reserved for local use
-`qos	|qos	|	|Reserved for local use
-`qot	|qot	|	|Reserved for local use
-`qou	|qou	|	|Reserved for local use
-`qov	|qov	|	|Reserved for local use
-`qow	|qow	|	|Reserved for local use
-`qox	|qox	|	|Reserved for local use
-`qoy	|qoy	|	|Reserved for local use
-`qoz	|qoz	|	|Reserved for local use
-`qpa	|qpa	|	|Reserved for local use
-`qpb	|qpb	|	|Reserved for local use
-`qpc	|qpc	|	|Reserved for local use
-`qpd	|qpd	|	|Reserved for local use
-`qpe	|qpe	|	|Reserved for local use
-`qpf	|qpf	|	|Reserved for local use
-`qpg	|qpg	|	|Reserved for local use
-`qph	|qph	|	|Reserved for local use
-`qpi	|qpi	|	|Reserved for local use
-`qpj	|qpj	|	|Reserved for local use
-`qpk	|qpk	|	|Reserved for local use
-`qpl	|qpl	|	|Reserved for local use
-`qpm	|qpm	|	|Reserved for local use
-`qpn	|qpn	|	|Reserved for local use
-`qpo	|qpo	|	|Reserved for local use
-`qpp	|qpp	|	|Reserved for local use
-`qpq	|qpq	|	|Reserved for local use
-`qpr	|qpr	|	|Reserved for local use
-`qps	|qps	|	|Reserved for local use
-`qpt	|qpt	|	|Reserved for local use
-`qpu	|qpu	|	|Reserved for local use
-`qpv	|qpv	|	|Reserved for local use
-`qpw	|qpw	|	|Reserved for local use
-`qpx	|qpx	|	|Reserved for local use
-`qpy	|qpy	|	|Reserved for local use
-`qpz	|qpz	|	|Reserved for local use
-`qqa	|qqa	|	|Reserved for local use
-`qqb	|qqb	|	|Reserved for local use
-`qqc	|qqc	|	|Reserved for local use
-`qqd	|qqd	|	|Reserved for local use
-`qqe	|qqe	|	|Reserved for local use
-`qqf	|qqf	|	|Reserved for local use
-`qqg	|qqg	|	|Reserved for local use
-`qqh	|qqh	|	|Reserved for local use
-`qqi	|qqi	|	|Reserved for local use
-`qqj	|qqj	|	|Reserved for local use
-`qqk	|qqk	|	|Reserved for local use
-`qql	|qql	|	|Reserved for local use
-`qqm	|qqm	|	|Reserved for local use
-`qqn	|qqn	|	|Reserved for local use
-`qqo	|qqo	|	|Reserved for local use
-`qqp	|qqp	|	|Reserved for local use
-`qqq	|qqq	|	|Reserved for local use
-`qqr	|qqr	|	|Reserved for local use
-`qqs	|qqs	|	|Reserved for local use
-`qqt	|qqt	|	|Reserved for local use
-`qqu	|qqu	|	|Reserved for local use
-`qqv	|qqv	|	|Reserved for local use
-`qqw	|qqw	|	|Reserved for local use
-`qqx	|qqx	|	|Reserved for local use
-`qqy	|qqy	|	|Reserved for local use
-`qqz	|qqz	|	|Reserved for local use
-`qra	|qra	|	|Reserved for local use
-`qrb	|qrb	|	|Reserved for local use
-`qrc	|qrc	|	|Reserved for local use
-`qrd	|qrd	|	|Reserved for local use
-`qre	|qre	|	|Reserved for local use
-`qrf	|qrf	|	|Reserved for local use
-`qrg	|qrg	|	|Reserved for local use
-`qrh	|qrh	|	|Reserved for local use
-`qri	|qri	|	|Reserved for local use
-`qrj	|qrj	|	|Reserved for local use
-`qrk	|qrk	|	|Reserved for local use
-`qrl	|qrl	|	|Reserved for local use
-`qrm	|qrm	|	|Reserved for local use
-`qrn	|qrn	|	|Reserved for local use
-`qro	|qro	|	|Reserved for local use
-`qrp	|qrp	|	|Reserved for local use
-`qrq	|qrq	|	|Reserved for local use
-`qrr	|qrr	|	|Reserved for local use
-`qrs	|qrs	|	|Reserved for local use
-`qrt	|qrt	|	|Reserved for local use
-`qru	|qru	|	|Reserved for local use
-`qrv	|qrv	|	|Reserved for local use
-`qrw	|qrw	|	|Reserved for local use
-`qrx	|qrx	|	|Reserved for local use
-`qry	|qry	|	|Reserved for local use
-`qrz	|qrz	|	|Reserved for local use
-`qsa	|qsa	|	|Reserved for local use
-`qsb	|qsb	|	|Reserved for local use
-`qsc	|qsc	|	|Reserved for local use
-`qsd	|qsd	|	|Reserved for local use
-`qse	|qse	|	|Reserved for local use
-`qsf	|qsf	|	|Reserved for local use
-`qsg	|qsg	|	|Reserved for local use
-`qsh	|qsh	|	|Reserved for local use
-`qsi	|qsi	|	|Reserved for local use
-`qsj	|qsj	|	|Reserved for local use
-`qsk	|qsk	|	|Reserved for local use
-`qsl	|qsl	|	|Reserved for local use
-`qsm	|qsm	|	|Reserved for local use
-`qsn	|qsn	|	|Reserved for local use
-`qso	|qso	|	|Reserved for local use
-`qsp	|qsp	|	|Reserved for local use
-`qsq	|qsq	|	|Reserved for local use
-`qsr	|qsr	|	|Reserved for local use
-`qss	|qss	|	|Reserved for local use
-`qst	|qst	|	|Reserved for local use
-`qsu	|qsu	|	|Reserved for local use
-`qsv	|qsv	|	|Reserved for local use
-`qsw	|qsw	|	|Reserved for local use
-`qsx	|qsx	|	|Reserved for local use
-`qsy	|qsy	|	|Reserved for local use
-`qsz	|qsz	|	|Reserved for local use
-`qta	|qta	|	|Reserved for local use
-`qtb	|qtb	|	|Reserved for local use
-`qtc	|qtc	|	|Reserved for local use
-`qtd	|qtd	|	|Reserved for local use
-`qte	|qte	|	|Reserved for local use
-`qtf	|qtf	|	|Reserved for local use
-`qtg	|qtg	|	|Reserved for local use
-`qth	|qth	|	|Reserved for local use
-`qti	|qti	|	|Reserved for local use
-`qtj	|qtj	|	|Reserved for local use
-`qtk	|qtk	|	|Reserved for local use
-`qtl	|qtl	|	|Reserved for local use
-`qtm	|qtm	|	|Reserved for local use
-`qtn	|qtn	|	|Reserved for local use
-`qto	|qto	|	|Reserved for local use
-`qtp	|qtp	|	|Reserved for local use
-`qtq	|qtq	|	|Reserved for local use
-`qtr	|qtr	|	|Reserved for local use
-`qts	|qts	|	|Reserved for local use
-`qtt	|qtt	|	|Reserved for local use
-`qtu	|qtu	|	|Reserved for local use
-`qtv	|qtv	|	|Reserved for local use
-`qtw	|qtw	|	|Reserved for local use
-`qtx	|qtx	|	|Reserved for local use
-`qty	|qty	|	|Reserved for local use
-`qtz	|qtz	|	|Reserved for local use
+`pzh	|	|	|Pazeh
+`pzn	|	|	|Jejara Naga
 `qua	|	|	|Quapaw
 `qub	|	|	|Huallaga Huánuco Quechua
 `quc	|	|	|K'iche'
@@ -6068,13 +5574,13 @@
 `rhg	|	|	|Rohingya
 `rhp	|	|	|Yahang
 `ria	|	|	|Riang (India)
-`rie	|	|	|Rien
+`rib	|	|	|Bribri Sign Language
 `rif	|	|	|Tarifit
-`ril	|	|	|Riang (Myanmar)
+`ril	|	|	|Riang Lang
 `rim	|	|	|Nyaturu
 `rin	|	|	|Nungu
 `rir	|	|	|Ribun
-`rit	|	|	|Ritarungo
+`rit	|	|	|Ritharrngu
 `riu	|	|	|Riung
 `rjg	|	|	|Rajong
 `rji	|	|	|Raji
@@ -6087,7 +5593,7 @@
 `rkt	|	|	|Rangpuri
 `rkw	|	|	|Arakwal
 `rma	|	|	|Rama
-`rmb	|	|	|Rembarunga
+`rmb	|	|	|Rembarrnga
 `rmc	|	|	|Carpathian Romani
 `rmd	|	|	|Traveller Danish
 `rme	|	|	|Angloromani
@@ -6110,6 +5616,7 @@
 `rmx	|	|	|Romam
 `rmy	|	|	|Vlax Romani
 `rmz	|	|	|Marma
+`rnb	|	|	|Brunca Sign Language
 `rnd	|	|	|Ruund
 `rng	|	|	|Ronga
 `rnl	|	|	|Ranglong
@@ -6138,9 +5645,10 @@
 `rro	|	|	|Waima
 `rrt	|	|	|Arritinngithigh
 `rsb	|	|	|Romano-Serbian
-`rsi	|	|	|Rennellese Sign Language
+`rsk	|	|	|Ruthenian
 `rsl	|	|	|Russian Sign Language
 `rsm	|	|	|Miriwoong Sign Language
+`rsn	|	|	|Rwandan Sign Language
 `rtc	|	|	|Rungtu Chin
 `rth	|	|	|Ratahan
 `rtm	|	|	|Rotuman
@@ -6165,6 +5673,7 @@
 `ruz	|	|	|Ruma
 `rwa	|	|	|Rawo
 `rwk	|	|	|Rwa
+`rwl	|	|	|Ruwila
 `rwm	|	|	|Amba (Uganda)
 `rwo	|	|	|Rawa
 `rwr	|	|	|Marwari (India)
@@ -6173,7 +5682,7 @@
 `ryn	|	|	|Northern Amami-Oshima
 `rys	|	|	|Yaeyama
 `ryu	|	|	|Central Okinawan
-`rzh	|	|	|Rāziḥī
+`rzh	|	|	|R_zi__
 `saa	|	|	|Saba
 `sab	|	|	|Buglere
 `sac	|	|	|Meskwaki
@@ -6233,9 +5742,10 @@
 `scl	|	|	|Shina
 `scn	|scn	|	|Sicilian
 `sco	|sco	|	|Scots
-`scp	|	|	|Helambu Sherpa
+`scp	|	|	|Hyolmo
 `scq	|	|	|Sa'och
 `scs	|	|	|North Slavey
+`sct	|	|	|Southern Katang
 `scu	|	|	|Shumcho
 `scv	|	|	|Sheni
 `scw	|	|	|Sha
@@ -6250,10 +5760,10 @@
 `sdj	|	|	|Suundi
 `sdk	|	|	|Sos Kundi
 `sdl	|	|	|Saudi Arabian Sign Language
-`sdm	|	|	|Semandang
 `sdn	|	|	|Gallurese Sardinian
 `sdo	|	|	|Bukar-Sadung Bidayuh
 `sdp	|	|	|Sherdukpen
+`sdq	|	|	|Semandang
 `sdr	|	|	|Oraon Sadri
 `sds	|	|	|Sened
 `sdt	|	|	|Shuadit
@@ -6383,7 +5893,6 @@
 `skh	|	|	|Sikule
 `ski	|	|	|Sika
 `skj	|	|	|Seke (Nepal)
-`skk	|	|	|Sok
 `skm	|	|	|Kutong
 `skn	|	|	|Kolibugan Subanon
 `sko	|	|	|Seko Tengah
@@ -6424,7 +5933,6 @@
 `sma	|sma	|	|Southern Sami
 `smb	|	|	|Simbari
 `smc	|	|	|Som
-`smd	|	|	|Sama
 `sme	|sme	|se	|Northern Sami
 `smf	|	|	|Auwe
 `smg	|	|	|Simbali
@@ -6447,13 +5955,11 @@
 `smy	|	|	|Semnani
 `smz	|	|	|Simeku
 `sna	|sna	|sn	|Shona
-`snb	|	|	|Sebuyau
 `snc	|	|	|Sinaugoro
 `snd	|snd	|sd	|Sindhi
 `sne	|	|	|Bau Bidayuh
 `snf	|	|	|Noon
 `sng	|	|	|Sanga (Democratic Republic of Congo)
-`snh	|	|	|Shinabo
 `sni	|	|	|Sensi
 `snj	|	|	|Riverain Sango
 `snk	|snk	|	|Soninke
@@ -6470,7 +5976,7 @@
 `snw	|	|	|Selee
 `snx	|	|	|Sam
 `sny	|	|	|Saniyo-Hiyewe
-`snz	|	|	|Sinsauru
+`snz	|	|	|Kou
 `soa	|	|	|Thai Song
 `sob	|	|	|Sobei
 `soc	|	|	|So (Democratic Republic of Congo)
@@ -6528,6 +6034,7 @@
 `sqs	|	|	|Sri Lankan Sign Language
 `sqt	|	|	|Soqotri
 `squ	|	|	|Squamish
+`sqx	|	|	|Kufr Qassem Sign Language (KQSL)
 `sra	|	|	|Saruga
 `srb	|	|	|Sora
 `src	|	|	|Logudorese Sardinian
@@ -6610,7 +6117,8 @@
 `suj	|	|	|Shubi
 `suk	|suk	|	|Sukuma
 `sun	|sun	|su	|Sundanese
-`suq	|	|	|Suri
+`suo	|	|	|Bouni
+`suq	|	|	|Tirmaga-Chai Suri
 `sur	|	|	|Mwaghavul
 `sus	|sus	|	|Susu
 `sut	|	|	|Subtiaba
@@ -6654,7 +6162,7 @@
 `sxb	|	|	|Suba
 `sxc	|	|	|Sicanian
 `sxe	|	|	|Sighu
-`sxg	|	|	|Shixing
+`sxg	|	|	|Shuhi
 `sxk	|	|	|Southern Kalapuya
 `sxl	|	|	|Selian
 `sxm	|	|	|Samre
@@ -6687,8 +6195,10 @@
 `szl	|	|	|Silesian
 `szn	|	|	|Sula
 `szp	|	|	|Suabo
+`szs	|	|	|Solomon Islands Sign Language
 `szv	|	|	|Isu (Fako Division)
 `szw	|	|	|Sawai
+`szy	|	|	|Sakizaya
 `taa	|	|	|Lower Tanana
 `tab	|	|	|Tabassaran
 `tac	|	|	|Lowland Tarahumara
@@ -6715,13 +6225,12 @@
 `tay	|	|	|Atayal
 `taz	|	|	|Tocho
 `tba	|	|	|Aikanã
-`tbb	|	|	|Tapeba
 `tbc	|	|	|Takia
 `tbd	|	|	|Kaki Ae
 `tbe	|	|	|Tanimbili
 `tbf	|	|	|Mandara
 `tbg	|	|	|North Tairora
-`tbh	|	|	|Thurawal
+`tbh	|	|	|Dharawal
 `tbi	|	|	|Gaam
 `tbj	|	|	|Tiang
 `tbk	|	|	|Calamian Tagbanwa
@@ -6808,6 +6317,7 @@
 `tew	|	|	|Tewa (USA)
 `tex	|	|	|Tennet
 `tey	|	|	|Tulishi
+`tez	|	|	|Tetserret
 `tfi	|	|	|Tofin Gbe
 `tfn	|	|	|Tanaina
 `tfo	|	|	|Tefaro
@@ -6838,7 +6348,7 @@
 `tgy	|	|	|Togoyo
 `tgz	|	|	|Tagalaka
 `tha	|tha	|th	|Thai
-`thd	|	|	|Thayore
+`thd	|	|	|Kuuk Thaayorre
 `the	|	|	|Chitwania Tharu
 `thf	|	|	|Thangmi
 `thh	|	|	|Northern Tarahumara
@@ -6854,7 +6364,6 @@
 `tht	|	|	|Tahltan
 `thu	|	|	|Thuri
 `thv	|	|	|Tahaggart Tamahaq
-`thw	|	|	|Thudam
 `thy	|	|	|Tha
 `thz	|	|	|Tayart Tamajeq
 `tia	|	|	|Tidikelt Tamazight
@@ -6883,10 +6392,12 @@
 `tja	|	|	|Tajuasohn
 `tjg	|	|	|Tunjung
 `tji	|	|	|Northern Tujia
+`tjj	|	|	|Tjungundji
 `tjl	|	|	|Tai Laing
 `tjm	|	|	|Timucua
 `tjn	|	|	|Tonjon
 `tjo	|	|	|Temacine Tamazight
+`tjp	|	|	|Tjupany
 `tjs	|	|	|Southern Tujia
 `tju	|	|	|Tjurruru
 `tjw	|	|	|Djabwurrung
@@ -6987,6 +6498,7 @@
 `toh	|	|	|Gitonga
 `toi	|	|	|Tonga (Zambia)
 `toj	|	|	|Tojolabal
+`tok	|	|	|Toki Pona
 `tol	|	|	|Tolowa
 `tom	|	|	|Tombulu
 `ton	|ton	|to	|Tonga (Tonga Islands)
@@ -7054,7 +6566,7 @@
 `trs	|	|	|Chicahuaxtla Triqui
 `trt	|	|	|Tunggare
 `tru	|	|	|Turoyo
-`trv	|	|	|Taroko
+`trv	|	|	|Sediq
 `trw	|	|	|Torwali
 `trx	|	|	|Tringgus-Sembaan Bidayuh
 `try	|	|	|Turung
@@ -7144,6 +6656,7 @@
 `tvt	|	|	|Tutsa Naga
 `tvu	|	|	|Tunen
 `tvw	|	|	|Sedoa
+`tvx	|	|	|Taivoan
 `tvy	|	|	|Timor Pidgin
 `twa	|	|	|Twana
 `twb	|	|	|Western Tawbuid
@@ -7198,6 +6711,7 @@
 `tyu	|	|	|Kua
 `tyv	|tyv	|	|Tuvinian
 `tyx	|	|	|Teke-Tyee
+`tyy	|	|	|Tiyaa
 `tyz	|	|	|Tày
 `tza	|	|	|Tanzanian Sign Language
 `tzh	|	|	|Tzeltal
@@ -7229,6 +6743,7 @@
 `uga	|uga	|	|Ugaritic
 `ugb	|	|	|Kuku-Ugbanh
 `uge	|	|	|Ughele
+`ugh	|	|	|Kubachi
 `ugn	|	|	|Ugandan Sign Language
 `ugo	|	|	|Ugong
 `ugy	|	|	|Uruguayan Sign Language
@@ -7241,12 +6756,15 @@
 `uka	|	|	|Kaburi
 `ukg	|	|	|Ukuriguma
 `ukh	|	|	|Ukhwejo
+`uki	|	|	|Kui (India)
+`ukk	|	|	|Muak Sa-aak
 `ukl	|	|	|Ukrainian Sign Language
 `ukp	|	|	|Ukpe-Bayobiri
 `ukq	|	|	|Ukwa
 `ukr	|ukr	|uk	|Ukrainian
 `uks	|	|	|Urubú-Kaapor Sign Language
 `uku	|	|	|Ukue
+`ukv	|	|	|Kuku
 `ukw	|	|	|Ukwuani-Aboh-Ndoni
 `uky	|	|	|Kuuk-Yak
 `ula	|	|	|Fungwa
@@ -7255,7 +6773,7 @@
 `ule	|	|	|Lule
 `ulf	|	|	|Usku
 `uli	|	|	|Ulithian
-`ulk	|	|	|Meriam
+`ulk	|	|	|Meriam Mir
 `ull	|	|	|Ullatan
 `ulm	|	|	|Ulumanda'
 `uln	|	|	|Unserdeutsch
@@ -7265,7 +6783,7 @@
 `umb	|umb	|	|Umbundu
 `umc	|	|	|Marrucinian
 `umd	|	|	|Umbindhamu
-`umg	|	|	|Umbuygamu
+`umg	|	|	|Morrobalama
 `umi	|	|	|Ukit
 `umm	|	|	|Umon
 `umn	|	|	|Makyan Naga
@@ -7278,6 +6796,7 @@
 `und	|und	|	|Undetermined
 `une	|	|	|Uneme
 `ung	|	|	|Ngarinyin
+`uni	|	|	|Uni
 `unk	|	|	|Enawené-Nawé
 `unm	|	|	|Unami
 `unn	|	|	|Kurnai
@@ -7285,6 +6804,7 @@
 `unu	|	|	|Unubahe
 `unx	|	|	|Munda
 `unz	|	|	|Unde Kaili
+`uon	|	|	|Kulon
 `upi	|	|	|Umeda
 `upv	|	|	|Uripiv-Wala-Rano-Atchin
 `ura	|	|	|Urarina
@@ -7315,14 +6835,15 @@
 `usi	|	|	|Usui
 `usk	|	|	|Usaghade
 `usp	|	|	|Uspanteco
+`uss	|	|	|us-Saare
 `usu	|	|	|Uya
 `uta	|	|	|Otank
 `ute	|	|	|Ute-Southern Paiute
+`uth	|	|	|ut-Hun
 `utp	|	|	|Amba (Solomon Islands)
 `utr	|	|	|Etulo
 `utu	|	|	|Utu
 `uum	|	|	|Urum
-`uun	|	|	|Kulon-Pazeh
 `uur	|	|	|Ura (Vanuatu)
 `uuu	|	|	|U
 `uve	|	|	|West Uvean
@@ -7373,15 +6894,16 @@
 `vit	|	|	|Viti
 `viv	|	|	|Iduna
 `vka	|	|	|Kariyarra
-`vki	|	|	|Ija-Zuba
 `vkj	|	|	|Kujarge
 `vkk	|	|	|Kaur
 `vkl	|	|	|Kulisusu
 `vkm	|	|	|Kamakan
+`vkn	|	|	|Koro Nulu
 `vko	|	|	|Kodeoha
 `vkp	|	|	|Korlai Creole Portuguese
 `vkt	|	|	|Tenggarong Kutai Malay
 `vku	|	|	|Kurrama
+`vkz	|	|	|Koro Zuba
 `vlp	|	|	|Valpei
 `vls	|	|	|Vlaams
 `vma	|	|	|Martuyhunira
@@ -7428,7 +6950,7 @@
 `waa	|	|	|Walla Walla
 `wab	|	|	|Wab
 `wac	|	|	|Wasco-Wishram
-`wad	|	|	|Wandamen
+`wad	|	|	|Wamesa
 `wae	|	|	|Walser
 `waf	|	|	|Wakoná
 `wag	|	|	|Wa'ema
@@ -7440,7 +6962,7 @@
 `wan	|	|	|Wan
 `wao	|	|	|Wappo
 `wap	|	|	|Wapishana
-`waq	|	|	|Wageman
+`waq	|	|	|Wagiman
 `war	|war	|	|Waray (Philippines)
 `was	|was	|	|Washo
 `wat	|	|	|Kaninuwa
@@ -7463,7 +6985,8 @@
 `wbp	|	|	|Warlpiri
 `wbq	|	|	|Waddar
 `wbr	|	|	|Wagdi
-`wbt	|	|	|Wanman
+`wbs	|	|	|West Bengal Sign Language
+`wbt	|	|	|Warnman
 `wbv	|	|	|Wajarri
 `wbw	|	|	|Woi
 `wca	|	|	|Yanomámi
@@ -7472,6 +6995,7 @@
 `wdg	|	|	|Wadaginam
 `wdj	|	|	|Wadjiginy
 `wdk	|	|	|Wadikali
+`wdt	|	|	|Wendat
 `wdu	|	|	|Wadjigu
 `wdy	|	|	|Wadjabangayi
 `wea	|	|	|Wewaw
@@ -7491,7 +7015,7 @@
 `wfg	|	|	|Yafi
 `wga	|	|	|Wagaya
 `wgb	|	|	|Wagawaga
-`wgg	|	|	|Wangganguru
+`wgg	|	|	|Wangkangurru
 `wgi	|	|	|Wahgi
 `wgo	|	|	|Waigeo
 `wgu	|	|	|Wirangu
@@ -7504,7 +7028,7 @@
 `wic	|	|	|Wichita
 `wie	|	|	|Wik-Epa
 `wif	|	|	|Wik-Keyangan
-`wig	|	|	|Wik-Ngathana
+`wig	|	|	|Wik Ngathan
 `wih	|	|	|Wik-Me'anha
 `wii	|	|	|Minidien
 `wij	|	|	|Wik-Iiyanh
@@ -7522,6 +7046,7 @@
 `wkb	|	|	|Kumbaran
 `wkd	|	|	|Wakde
 `wkl	|	|	|Kalanadi
+`wkr	|	|	|Keerray-Woorroong
 `wku	|	|	|Kunduvadi
 `wkw	|	|	|Wakawaka
 `wky	|	|	|Wangkayutyuru
@@ -7529,6 +7054,7 @@
 `wlc	|	|	|Mwali Comorian
 `wle	|	|	|Wolane
 `wlg	|	|	|Kunbarlang
+`wlh	|	|	|Welaun
 `wli	|	|	|Waioli
 `wlk	|	|	|Wailaki
 `wll	|	|	|Wali (Sudan)
@@ -7547,6 +7073,7 @@
 `wmc	|	|	|Wamas
 `wmd	|	|	|Mamaindé
 `wme	|	|	|Wambule
+`wmg	|	|	|Western Minyag
 `wmh	|	|	|Waima'a
 `wmi	|	|	|Wamin
 `wmm	|	|	|Maiwa (Indonesia)
@@ -7570,7 +7097,7 @@
 `wnu	|	|	|Usan
 `wnw	|	|	|Wintu
 `wny	|	|	|Wanyi
-`woa	|	|	|Tyaraity
+`woa	|	|	|Kuwema
 `wob	|	|	|Wè Northern
 `woc	|	|	|Wogeo
 `wod	|	|	|Wolani
@@ -7588,11 +7115,9 @@
 `wow	|	|	|Wawonii
 `woy	|	|	|Weyto
 `wpc	|	|	|Maco
-`wra	|	|	|Warapu
-`wrb	|	|	|Warluwara
-`wrd	|	|	|Warduji
+`wrb	|	|	|Waluwarra
 `wrg	|	|	|Warungu
-`wrh	|	|	|Wiradhuri
+`wrh	|	|	|Wiradjuri
 `wri	|	|	|Wariyangga
 `wrk	|	|	|Garrwa
 `wrl	|	|	|Warlmanpa
@@ -7642,10 +7167,10 @@
 `www	|	|	|Wawa
 `wxa	|	|	|Waxianghua
 `wxw	|	|	|Wardandi
-`wya	|	|	|Wyandot
 `wyb	|	|	|Wangaaybuwan-Ngiyambaa
 `wyi	|	|	|Woiwurrung
 `wym	|	|	|Wymysorys
+`wyn	|	|	|Wyandot
 `wyr	|	|	|Wayoró
 `wyy	|	|	|Western Fijian
 `xaa	|	|	|Andalusian Arabic
@@ -7658,7 +7183,7 @@
 `xaj	|	|	|Ararandewára
 `xak	|	|	|Máku
 `xal	|xal	|	|Kalmyk
-`xam	|	|	|/Xam
+`xam	|	|	|_Xam
 `xan	|	|	|Xamtanga
 `xao	|	|	|Khao
 `xap	|	|	|Apalachee
@@ -7683,7 +7208,7 @@
 `xbp	|	|	|Bibbulman
 `xbr	|	|	|Kambera
 `xbw	|	|	|Kambiwá
-`xby	|	|	|Batyala
+`xby	|	|	|Batjala
 `xcb	|	|	|Cumbric
 `xcc	|	|	|Camunic
 `xce	|	|	|Celtiberian
@@ -7703,10 +7228,12 @@
 `xdc	|	|	|Dacian
 `xdk	|	|	|Dharuk
 `xdm	|	|	|Edomite
+`xdo	|	|	|Kwandu
+`xdq	|	|	|Kaitag
 `xdy	|	|	|Malayic Dayak
 `xeb	|	|	|Eblan
 `xed	|	|	|Hdi
-`xeg	|	|	|//Xegwi
+`xeg	|	|	|_Xegwi
 `xel	|	|	|Kelo
 `xem	|	|	|Kembayan
 `xep	|	|	|Epi-Olmec
@@ -7730,6 +7257,7 @@
 `xhc	|	|	|Hunnic
 `xhd	|	|	|Hadrami
 `xhe	|	|	|Khetrani
+`xhm	|	|	|Middle Khmer (1400 to 1850 CE)
 `xho	|xho	|xh	|Xhosa
 `xhr	|	|	|Hernican
 `xht	|	|	|Hattic
@@ -7754,7 +7282,7 @@
 `xkg	|	|	|Kagoro
 `xki	|	|	|Kenyan Sign Language
 `xkj	|	|	|Kajali
-`xkk	|	|	|Kaco'
+`xkk	|	|	|Kachok
 `xkl	|	|	|Mainstream Kenyah
 `xkn	|	|	|Kayan River Kayan
 `xko	|	|	|Kiorr
@@ -7789,7 +7317,7 @@
 `xme	|	|	|Median
 `xmf	|	|	|Mingrelian
 `xmg	|	|	|Mengaka
-`xmh	|	|	|Kuku-Muminh
+`xmh	|	|	|Kugu-Muminh
 `xmj	|	|	|Majera
 `xmk	|	|	|Ancient Macedonian
 `xml	|	|	|Malaysian Sign Language
@@ -7804,7 +7332,7 @@
 `xmu	|	|	|Kamu
 `xmv	|	|	|Antankarana Malagasy
 `xmw	|	|	|Tsimihety Malagasy
-`xmx	|	|	|Maden
+`xmx	|	|	|Salawati
 `xmy	|	|	|Mayaguduna
 `xmz	|	|	|Mori Bawah
 `xna	|	|	|Ancient North Arabian
@@ -7812,9 +7340,12 @@
 `xng	|	|	|Middle Mongolian
 `xnh	|	|	|Kuanhua
 `xni	|	|	|Ngarigu
+`xnj	|	|	|Ngoni (Tanzania)
 `xnk	|	|	|Nganakarti
+`xnm	|	|	|Ngumbarl
 `xnn	|	|	|Northern Kankanay
 `xno	|	|	|Anglo-Norman
+`xnq	|	|	|Ngoni (Mozambique)
 `xnr	|	|	|Kangri
 `xns	|	|	|Kanashi
 `xnt	|	|	|Narragansett
@@ -7833,12 +7364,17 @@
 `xor	|	|	|Korubo
 `xow	|	|	|Kowaki
 `xpa	|	|	|Pirriya
+`xpb	|	|	|Northeastern Tasmanian
 `xpc	|	|	|Pecheneg
+`xpd	|	|	|Oyster Bay Tasmanian
 `xpe	|	|	|Liberia Kpelle
+`xpf	|	|	|Southeast Tasmanian
 `xpg	|	|	|Phrygian
+`xph	|	|	|North Midlands Tasmanian
 `xpi	|	|	|Pictish
 `xpj	|	|	|Mpalitjanh
 `xpk	|	|	|Kulina Pano
+`xpl	|	|	|Port Sorell Tasmanian
 `xpm	|	|	|Pumpokol
 `xpn	|	|	|Kapinawá
 `xpo	|	|	|Pochutec
@@ -7848,7 +7384,11 @@
 `xps	|	|	|Pisidian
 `xpt	|	|	|Punthamara
 `xpu	|	|	|Punic
+`xpv	|	|	|Northern Tasmanian
+`xpw	|	|	|Northwestern Tasmanian
+`xpx	|	|	|Southwestern Tasmanian
 `xpy	|	|	|Puyo
+`xpz	|	|	|Bruny Island Tasmanian
 `xqa	|	|	|Karakhanid
 `xqt	|	|	|Qatabanian
 `xra	|	|	|Krahô
@@ -7859,7 +7399,6 @@
 `xri	|	|	|Krikati-Timbira
 `xrm	|	|	|Armazic
 `xrn	|	|	|Arin
-`xrq	|	|	|Karranga
 `xrr	|	|	|Raetic
 `xrt	|	|	|Aranama-Tamique
 `xru	|	|	|Marriammu
@@ -7871,6 +7410,7 @@
 `xse	|	|	|Sempan
 `xsh	|	|	|Shamang
 `xsi	|	|	|Sio
+`xsj	|	|	|Subi
 `xsl	|	|	|South Slavey
 `xsm	|	|	|Kasem
 `xsn	|	|	|Sanga (Nigeria)
@@ -7904,7 +7444,6 @@
 `xtv	|	|	|Thawa
 `xtw	|	|	|Tawandê
 `xty	|	|	|Yoloxochitl Mixtec
-`xtz	|	|	|Tasmanian
 `xua	|	|	|Alu Kurumba
 `xub	|	|	|Betta Kurumba
 `xud	|	|	|Umiida
@@ -8016,13 +7555,13 @@
 `ygm	|	|	|Yagomi
 `ygp	|	|	|Gepo
 `ygr	|	|	|Yagaria
-`ygs	|	|	|Yolŋu Sign Language
+`ygs	|	|	|Yol_u Sign Language
 `ygu	|	|	|Yugul
 `ygw	|	|	|Yagwoia
 `yha	|	|	|Baha Buyang
 `yhd	|	|	|Judeo-Iraqi Arabic
 `yhl	|	|	|Hlepho Phowa
-`yhs	|	|	|Yan-nhaŋu Sign Language
+`yhs	|	|	|Yan-nha_u Sign Language
 `yia	|	|	|Yinggarda
 `yid	|yid	|yi	|Yiddish
 `yif	|	|	|Ache
@@ -8033,7 +7572,7 @@
 `yik	|	|	|Dongshanba Lalo
 `yil	|	|	|Yindjilandji
 `yim	|	|	|Yimchungru Naga
-`yin	|	|	|Yinchia
+`yin	|	|	|Riang Lai
 `yip	|	|	|Pholo
 `yiq	|	|	|Miqie
 `yir	|	|	|North Awyu
@@ -8131,6 +7670,7 @@
 `ysd	|	|	|Samatao
 `ysg	|	|	|Sonaga
 `ysl	|	|	|Yugoslavian Sign Language
+`ysm	|	|	|Myanmar Sign Language
 `ysn	|	|	|Sani
 `yso	|	|	|Nisi (China)
 `ysp	|	|	|Southern Lolopo
@@ -8210,12 +7750,15 @@
 `zax	|	|	|Xadani Zapotec
 `zay	|	|	|Zayse-Zergulla
 `zaz	|	|	|Zari
+`zba	|	|	|Balaibalan
 `zbc	|	|	|Central Berawan
 `zbe	|	|	|East Berawan
 `zbl	|zbl	|	|Blissymbols
 `zbt	|	|	|Batui
+`zbu	|	|	|Bu (Bauchi State)
 `zbw	|	|	|West Berawan
 `zca	|	|	|Coatecas Altas Zapotec
+`zcd	|zcd	|	|Las Delicias Zapotec
 `zch	|	|	|Central Hongshuihe Zhuang
 `zdj	|	|	|Ngazidja Comorian
 `zea	|	|	|Zeeuws
@@ -8241,7 +7784,6 @@
 `zil	|	|	|Zialo
 `zim	|	|	|Mesme
 `zin	|	|	|Zinza
-`zir	|	|	|Ziriya
 `ziw	|	|	|Zigula
 `ziz	|	|	|Zizilivakan
 `zka	|	|	|Kaimbulawa
@@ -8258,6 +7800,7 @@
 `zku	|	|	|Kaurna
 `zkv	|	|	|Krevinian
 `zkz	|	|	|Khazar
+`zla	|	|	|Zula
 `zlj	|	|	|Liujiang Zhuang
 `zlm	|	|	|Malay (individual language)
 `zln	|	|	|Lianshan Zhuang
@@ -8273,7 +7816,7 @@
 `zmi	|	|	|Negeri Sembilan Malay
 `zmj	|	|	|Maridjabin
 `zmk	|	|	|Mandandanyi
-`zml	|	|	|Madngele
+`zml	|	|	|Matngala
 `zmm	|	|	|Marimanindji
 `zmn	|	|	|Mbangwe
 `zmo	|	|	|Molo
