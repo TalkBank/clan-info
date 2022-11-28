@@ -1,4 +1,5 @@
 @UTF8
+@Window:	398_1426_762_732_-1_-1_39635_0_39635_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Nathan Target_Child , MOT Mother , INV Investigator
@@ -103,14 +104,14 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$NIA:MK
 *MOT:	<I am a> [//] what is this guy do you think ?
-%mor:	pro:int|what cop|be&3S det:dem|this n|guy v|do pro:per|you v|think
-	?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|JCT 5|2|CPRED 6|7|SUBJ 7|5|COMP 8|2|PUNCT
+%mor:	pro:int|what cop|be&3S det:dem|this n|guy mod|do pro:per|you
+	v|think ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|AUX 6|7|SUBJ 7|4|CMOD 8|2|PUNCT
 %spa:	$DHA:QN
 %gpx:	MOT points to picture in book
 *MOT:	what do you think he [= picture in book] is ?
 %mor:	pro:int|what mod|do pro:per|you v|think pro:sub|he cop|be&3S ?
-%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|6|PRED 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
 %spa:	$DJF:QN
 *MOT:	<do you> [?] think he's [= picture in book] an elephant ?
 %mor:	mod|do pro:per|you v|think pro:sub|he~cop|be&3S det:art|a
@@ -138,8 +139,8 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
 %spa:	$DJF:ST
 *MOT:	do you see some things you know ?
-%mor:	mod|do pro:per|you co|see qn|some n|thing-PL pro:per|you v|know ?
-%gra:	1|3|AUX 2|3|SUBJ 3|7|COM 4|5|QUANT 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%mor:	mod|do pro:per|you v|see qn|some n|thing-PL pro:per|you v|know ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|7|SUBJ 7|5|CMOD 8|3|PUNCT
 %spa:	$DJF:YQ
 *CHI:	baby's crib .
 %mor:	adj|baby&dn-POSS n|crib .
@@ -206,7 +207,7 @@
 %gpx:	MOT points to picture of rabbit
 *CHI:	brushin(g) his teeth .
 %mor:	part|brush-PRESP det:poss|his n|tooth&PL .
-%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
 %spa:	$DJF:SA
 %par:	CHI smiles
 *MOT:	that's right .
@@ -237,7 +238,7 @@
 	9|11|SUBJ 10|11|AUX 11|8|COMP 12|11|JCT 13|4|PUNCT
 %spa:	$DJF:EC
 *MOT:	what's he [= picture in book] gonna do ?
-%mor:	pro:int|what~cop|be&3S pro:sub|he part|go-PRESP~inf|to v|do ?
+%mor:	pro:int|what~cop|be&3S pro:sub|he part|go&PRESP~inf|to v|do ?
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|COMP 7|2|PUNCT
 %spa:	$DJF:QN
 %tim:	00:02:00
@@ -252,9 +253,8 @@
 %gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
 %spa:	$DJF:DW
 *MOT:	what's he [= rabbit in book] doin(g) right there 0 [= in book] ?
-%mor:	pro:int|what~cop|be&3S pro:sub|he part|do-PRESP adv|right adv|there
-	?
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|JCT 6|4|JCT 7|2|PUNCT
+%mor:	pro:int|what~cop|be&3S pro:sub|he part|do-PRESP adv|right n|there ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|JCT 6|4|JCT 7|2|PUNCT
 %spa:	$DHA:QN
 %gpx:	MOT points to picture in book
 *CHI:	I don't know .
@@ -296,7 +296,7 @@
 %gpx:	<$=1> MOT looks down at CHI
 *MOT:	is he [= picture in book] making cookies ?
 %mor:	cop|be&3S pro:sub|he part|make-PRESP n|cookie-PL ?
-%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|OBJ 5|1|PUNCT
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|1|PUNCT
 %spa:	$DJF:YQ
 *CHI:	0 . [+ trn]
 %spa:	$DJF:AN:IN
@@ -344,7 +344,7 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DJF:SA
 *MOT:	overalls really .
-%mor:	n:pt|overalls adv|really .
+%mor:	n:adj|overall-PL adv|real&dadj-LY .
 %gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
 %spa:	$DJF:CT
 *MOT:	and a sweater .
@@ -378,18 +378,18 @@
 %act:	MOT turns page of book
 *MOT:	+^ and he [= picture in book] gets all dressed and look what'sgonna
 	[: going to] happen .
-%mor:	coord|and pro:sub|he v|get-3S adv|all part|dress-PASTP coord|and
+%mor:	coord|and pro:sub|he v|get-3S qn|all part|dress-PASTP coord|and
 	v|look part|go-PRESP inf|to v|happen .
-%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|COMP 6|5|CONJ 7|6|COORD 8|7|COMP
-	9|10|INF 10|8|COMP 11|3|PUNCT
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|COMP 6|5|CONJ 7|6|COORD
+	8|7|COMP 9|10|INF 10|8|COMP 11|3|PUNCT
 %spa:	$DJF:ST $NIA:RP
 *MOT:	Mommy's gonna make him +...
-%mor:	adj|Mommy&dn-POSS part|go-PRESP~inf|to v|make pro:obj|him +...
-%gra:	1|0|INCROOT 2|1|XMOD 3|4|INF 4|2|COMP 5|4|OBJ 6|1|PUNCT
+%mor:	n:prop|Mommy~aux|be&3S part|go&PRESP~inf|to v|make pro:obj|him +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
 %spa:	$DJF:EC
 *MOT:	what do you think she's gonna make him for breakfast ?
 %mor:	pro:int|what mod|do pro:per|you v|think pro:sub|she~aux|be&3S
-	part|go-PRESP~inf|to v|make pro:obj|him prep|for n|breakfast ?
+	part|go&PRESP~inf|to v|make pro:obj|him prep|for n|breakfast ?
 %gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|9|INF
 	9|7|COMP 10|9|OBJ 11|9|JCT 12|11|POBJ 13|4|PUNCT
 %spa:	$DJF:QN
@@ -423,9 +423,9 @@
 %gpx:	CHI looks at the book
 *MOT:	yeah and <he's got > [//] oh looks like he's gonna have toast .
 %mor:	co|yeah coord|and co|oh v|look-3S conj|like pro:sub|he~aux|be&3S
-	part|go-PRESP~inf|to v|have n|toast .
-%gra:	1|4|COM 2|1|CONJ 3|2|COORD 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
-	9|10|INF 10|8|COMP 11|10|OBJ 12|4|PUNCT
+	part|go&PRESP~inf|to v|have n|toast .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|COM 4|2|COORD 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|COMP 9|10|INF 10|8|COMP 11|10|OBJ 12|1|PUNCT
 %spa:	$DJF:ST
 %gpx:	MOT is pointing to pictures in book
 *MOT:	and what's he [= rabbit in book] have on his toast ?
@@ -481,7 +481,7 @@
 %spa:	$DJF:QN
 *MOT:	what's he [= picture in book] like to play with ?
 %mor:	pro:int|what~cop|be&3S pro:sub|he v|like inf|to v|play prep|with ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|6|INF 6|4|COMP 7|6|JCT 8|2|PUNCT
+%gra:	1|2|SUBJ 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
 %spa:	$DHA:QN
 %gpx:	MOT points to picture
 *CHI:	ball .
@@ -512,11 +512,11 @@
 *MOT:	what's happening in this picture ?
 %mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:dem|this
 	n|picture ?
-%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
 %spa:	$DHA:QN
 %gpx:	MOT points toward picture
 *MOT:	daddy's gonna read him (.) what ?
-%mor:	n|daddy~aux|be&3S part|go-PRESP~inf|to v|read&ZERO pro:obj|him
+%mor:	n|daddy~aux|be&3S part|go&PRESP~inf|to v|read&ZERO pro:obj|him
 	pro:int|what ?
 %gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|COMP 8|3|PUNCT
 %spa:	$DJF:QN
@@ -611,7 +611,7 @@
 %spa:	$NIA:MK
 *MOT:	you know what Nathan ?
 %mor:	pro:per|you v|know pro:int|what n:prop|Nathan ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|COMP 5|2|PUNCT
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
 %spa:	$NMA:QN
 %act:	MOT brings the box over to the floor
 *CHI:	&mm ?
@@ -622,9 +622,9 @@
 	really +...
 %mor:	pro:sub|I v|think pro:per|you mod|should v|put&ZERO det:poss|your
 	n|bahbah adv|down coord|and adv:tem|then pro:sub|we mod|can
-	adv|really +...
-%gra:	1|2|SUBJ 2|5|SUBJ 3|2|OBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
-	9|5|CONJ 10|13|JCT 11|13|SUBJ 12|13|AUX 13|9|COORD 14|5|PUNCT
+	adv|real&dadj-LY +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|CONJ 10|13|JCT 11|13|SUBJ 12|13|AUX 13|9|COORD 14|2|PUNCT
 %spa:	$NIA:RP
 %tim:	00:04:24
 %act:	MOT removes cover of PCI box
@@ -639,7 +639,7 @@
 %gpx:	<aft> CHI picks up one of the puppets and closely examines it
 *MOT:	what do you think they [= puppets] are ?
 %mor:	pro:int|what mod|do pro:per|you v|think pro:sub|they cop|be&PRES ?
-%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|6|PRED 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
 %spa:	$DJF:QN
 *CHI:	what's this [= puppet] ?
 %mor:	pro:int|what~cop|be&3S pro:dem|this ?
@@ -649,12 +649,12 @@
 %act:	CHI takes the second puppet from box and puts it on the floor
 *MOT:	who is this guy [= puppet] ?
 %mor:	pro:int|who cop|be&3S det:dem|this n|guy ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
 %spa:	$DJF:QN
 %gpx:	MOT picks up one of the puppets and puts it on her hand
 *MOT:	who's he [= puppet] look like ?
 %mor:	pro:int|who~cop|be&3S pro:sub|he v|look conj|like ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|OM 6|2|PUNCT
+%gra:	1|2|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
 %spa:	$DJF:QN
 %gpx:	MOT moves puppet toward CHI
 *MOT:	I want +...
@@ -682,18 +682,18 @@
 %act:	CHI sucks on his bottle
 %gpx:	CHI watches MOT
 *MOT:	do you wanna play puppet with me ?
-%mor:	mod|do pro:per|you v|want~prep|to n|play n|puppet prep|with
+%mor:	mod|do pro:per|you v|want~inf|to v|play n|puppet prep|with
 	pro:obj|me ?
-%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|JCT 8|7|POBJ
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|7|POBJ
 	9|3|PUNCT
 %spa:	$NIA:RQ
 %gpx:	MOT starts to put her other hand in second puppet
 *CHI:	0 .
 %gpx:	CHI moves to take second puppet
 *MOT:	<which one you gonna take> [>] ?
-%mor:	pro:rel|which pro:indef|one pro:per|you part|go-PRESP~inf|to v|take
+%mor:	pro:int|which pro:indef|one pro:per|you part|go&PRESP~inf|to v|take
 	?
-%gra:	1|2|LINK 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|6|INF 6|4|COMP 7|2|PUNCT
+%gra:	1|2|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
 %spa:	$NIA:QN
 *CHI:	0 [<] .
 %gpx:	CHI picks up second puppet
@@ -731,16 +731,16 @@
 *MOT:	&=laughs .
 %gpx:	<$=1> MOT looks at CHI
 *MOT:	you've got a pretty wild bird there !
-%mor:	pro:per|you~aux|have part|get&PASTP det:art|a adj|pretty adj|wild
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a adv|pretty adv|wild
 	n|bird adv|there !
-%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|3|JCT
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|DET 5|6|JCT 6|7|JCT 7|3|OBJ 8|7|NJCT
 	9|3|PUNCT
 %spa:	$DJF:ST
 *CHI:	0 .
 %gpx:	CHI holds puppet toward himself and looks at it
 *MOT:	what does [?] your bird like to eat ?
-%mor:	pro:int|what mod|do&3S det:poss|your n|bird co|like inf|to v|eat ?
-%gra:	1|4|OBJ 2|4|AUX 3|4|DET 4|7|SUBJ 5|4|COM 6|7|INF 7|0|ROOT 8|7|PUNCT
+%mor:	pro:int|what mod|do&3S det:poss|your n|bird v|like inf|to v|eat ?
+%gra:	1|5|SUBJ 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
 %spa:	$DJF:QN:FAN
 *CHI:	Cookie_Monster .
 %mor:	n:prop|Cookie_Monster .
@@ -815,8 +815,8 @@
 %xpho:	a si
 %gpx:	CHI puts his puppet in the box and then grabs MOT's
 *MOT:	you want that guy too ?
-%mor:	pro:per|you v|want comp|that n|guy post|too ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|PQ 6|2|PUNCT
+%mor:	pro:per|you v|want det:dem|that n|guy post|too ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|2|PUNCT
 %spa:	$DCC:YQ
 *CHI:	0 .
 %tim:	00:05:56
@@ -924,17 +924,17 @@
 %act:	CHI puts the cover on the box
 *MOT:	I see enough paper so_that Nathan can draw a picture and Mommy can
 	draw a picture .
-%mor:	pro:sub|I v|see adj|enough n|paper conj|so_that n:prop|Nathan
+%mor:	pro:sub|I v|see qn|enough n|paper conj|so_that n:prop|Nathan
 	mod|can v|draw det:art|a n|picture coord|and n:prop|Mommy mod|can
 	v|draw det:art|a n|picture .
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT
 	9|10|DET 10|8|OBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|8|CJCT 15|16|DET
 	16|14|OBJ 17|2|PUNCT
 %spa:	$NMA:ST
 %act:	MOT puts the paper and crayons in front of her
 *MOT:	can you put that [= PCI box] together ?
-%mor:	mod|can pro:per|you v|put&ZERO pro:dem|that adv|together ?
-%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%mor:	mod|can pro:per|you part|put&PASTP comp|that adv|together ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
 %spa:	$NIA:RP
 %gpx:	MOT rests her head on her hand and watches CHI
 *CHI:	okay <you can take> [?] the paper .
@@ -979,7 +979,7 @@
 %spa:	$NIA:ST
 %gpx:	MOT watches CHI
 *CHI:	I'm <gonna> [?] tree .
-%mor:	pro:sub|I~aux|be&1S part|go-PRESP~prep|to n|tree .
+%mor:	pro:sub|I~aux|be&1S part|go&PRESP~prep|to n|tree .
 %gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
 %spa:	$NIA:SI
 %act:	CHI draws
@@ -994,7 +994,7 @@
 %act:	CHI stops drawing
 %gpx:	CHI moves back from paper and looks down at the crayon
 *MOT:	I'm gonna make a saw and you know while I make a saw +...
-%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make det:art|a n|saw
+%mor:	pro:sub|I~aux|be&1S part|go&PRESP~inf|to v|make det:art|a n|saw
 	coord|and pro:per|you v|know conj|while pro:sub|I v|make det:art|a
 	n|saw +...
 %gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|10|LINK
@@ -1027,8 +1027,8 @@
 %xpho:	dat
 %gpx:	CHI leans over the paper watching MOT
 *MOT:	mhm (.) power [?] saw .
-%mor:	co|mhm=yes n|power n|saw .
-%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%mor:	co|mhm=yes n|power v|see&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
 %spa:	$DJF:AA $DJF:ST
 *CHI:	xxx +/.
 %spa:	$OOO:OO
@@ -1061,16 +1061,16 @@
 %spa:	$DCC:SA
 %gpx:	CHI sits up and looks at MOT
 *MOT:	what kind of a push ?
-%mor:	pro:int|what n|kind prep|of det:art|a n|push ?
-%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%mor:	det:int|what n|kind prep|of det:art|a n|push ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
 %spa:	$DCC:QN
 *CHI:	push the saw .
 %mor:	v|push det:art|the n|saw .
 %gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
 %spa:	$DCC:SA
 *CHI:	push saw .
-%mor:	n|push n|saw .
-%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%mor:	n|push v|see&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
 %spa:	$DCC:SA
 *MOT:	you mean well you want me to give it [= saw] to you and you push it
 	0 [= saw] ?
@@ -1104,7 +1104,7 @@
 %gpx:	CHI watches MOT
 *MOT:	make it [= saw] go back and forth ?
 %mor:	v|make pro:per|it v|go adv|back coord|and adv|forth ?
-%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|3|PUNCT
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|3|CONJ 6|5|COORD 7|1|PUNCT
 %spa:	$DCC:YQ
 %gpx:	MOT makes a back and forth movement with her hand on the paper
 *CHI:	yeah .
@@ -1149,8 +1149,8 @@
 %spa:	$DCC:AA
 %gpx:	CHI leans forward and points to picture
 *CHI:	man hasta push .
-%mor:	n|man mod|have&3S~prep|to n|push .
-%gra:	1|0|INCROOT 2|1|INCROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%mor:	n|man mod|have&3S~inf|to v|push .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|PUNCT
 %spa:	$NIA:RP
 %gpx:	CHI looks at MOT
 *MOT:	a bush ?
@@ -1202,9 +1202,9 @@
 %gra:	1|2|INF 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
 %spa:	$YYY:YY
 *MOT:	lemme [: let me] see if I have this right .
-%mor:	v|let&ZERO pro:obj|me v|see conj|if pro:sub|I v|have pro:dem|this
+%mor:	v|let&ZERO pro:obj|me v|see conj|if pro:sub|I v|have det:dem|this
 	co|right .
-%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|LINK 5|6|SUBJ 6|1|CJCT 7|6|OBJ 8|6|COM
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|LINK 5|6|SUBJ 6|1|CJCT 7|8|DET 8|6|OBJ
 	9|1|PUNCT
 %spa:	$NIA:MK
 %par:	<bef> MOT sighs deeply
@@ -1219,22 +1219,22 @@
 %spa:	$NIA:RP
 %gpx:	CHI leans over picture
 *CHI:	a push right xxx a push man saw !
-%mor:	det:art|a n|push adv|right det:art|a n|push n|man n|saw !
-%gra:	1|2|DET 2|7|SUBJ 3|7|JCT 4|7|DET 5|6|MOD 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+%mor:	det:art|a n|push n|right det:art|a n|push n|man v|see&PAST !
+%gra:	1|3|DET 2|3|MOD 3|7|JCT 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
 %spa:	$NIA:RP
 %gpx:	CHI points excitedly at picture and moves MOT's hand from picture
 *MOT:	well you know what pushes the saw ?
-%mor:	co|well pro:per|you v|know pro:int|what n|push-PL det:art|the n|saw
+%mor:	co|well pro:per|you v|know det:int|what n|push-PL det:art|the n|saw
 	?
-%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|COMP 6|7|DET 7|5|APP 8|3|PUNCT
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|DET 7|5|APP 8|3|PUNCT
 %spa:	$DJF:QN
 *CHI:	yeah .
 %mor:	co|yeah .
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DJF:SA
 *MOT:	the man d(o)es .
-%mor:	det:art|the n|man v|do&3S .
-%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%mor:	det:art|the n|man mod|do&3S .
+%gra:	1|2|DET 2|0|INCROOT 3|2|INCROOT 4|3|PUNCT
 %spa:	$DJF:ST
 *MOT:	there's his arm .
 %mor:	pro:exist|there~cop|be&3S det:poss|his n|arm .
@@ -1259,13 +1259,13 @@
 %gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
 %spa:	$NIA:AD
 *CHI:	no they [?] push saw .
-%mor:	co|no pro:sub|they v|push n|saw .
-%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%mor:	co|no pro:sub|they n|push n|saw .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
 %spa:	$NIA:CS
 %gpx:	<3-4> CHI looks up at MOT
 *MOT:	<push saw> [=! whispered] .
-%mor:	n|push n|saw .
-%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%mor:	n|push v|see&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
 %spa:	$NIA:RT
 *MOT:	&a:h !
 %spa:	$NIA:EM
@@ -1273,8 +1273,8 @@
 *CHI:	0 .
 %gpx:	CHI looks at MOT
 *MOT:	you mean like this kind ?
-%mor:	pro:per|you v|mean co|like det:dem|this n|kind ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|5|DET 5|2|JCT 6|2|PUNCT
+%mor:	pro:per|you v|mean v|like det:dem|this adj|kind ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|JCT 6|2|PUNCT
 %spa:	$DCC:YQ
 %gpx:	<3-5> makes pushing motion
 *CHI:	yeah .
@@ -1307,9 +1307,9 @@
 *CHI:	0 [<] .
 %gpx:	CHI looks at the box beside him
 *MOT:	can you help me make a push saw ?
-%mor:	mod|can pro:per|you v|help pro:obj|me v|make det:art|a n|push n|saw
-	?
-%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+%mor:	mod|can pro:per|you v|help pro:obj|me v|make det:art|a n|push
+	v|see&PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|8|SUBJ 8|5|COMP
 	9|3|PUNCT
 %spa:	$NIA:RP
 %act:	MOT moves a crayon closer to CHI
@@ -1323,16 +1323,16 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
 %spa:	$NIA:RP
 *CHI:	yyy saw .
-%mor:	n|saw .
-%gra:	1|0|INCROOT 2|1|PUNCT
+%mor:	v|see&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
 %spa:	$YYY:YY
 %xpho:	rai ən de:n
 %gpx:	CHI points to picture then sits back and looks at MOT
 *MOT:	okay so this is a power saw and you want a push saw ?
-%mor:	co|okay co|so pro:dem|this cop|be&3S det:art|a n|power n|saw
-	coord|and pro:per|you v|want det:art|a n|push n|saw ?
-%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
-	9|10|SUBJ 10|7|CMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|4|PUNCT
+%mor:	co|okay adv|so pro:dem|this cop|be&3S det:art|a n|power n|saw
+	coord|and pro:per|you v|want det:art|a n|push v|see&PAST ?
+%gra:	1|3|COM 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|DET 12|13|SUBJ 13|10|COMP 14|4|PUNCT
 %spa:	$DJF:ST $NIA:YQ
 %gpx:	<7> MOT points to drawing
 *CHI:	yeah .
@@ -1356,37 +1356,37 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$NIA:AA
 *CHI:	the push saw .
-%mor:	det:art|the n|push n|saw .
-%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%mor:	det:art|the n|push v|see&PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
 %spa:	$NIA:ST
 %gpx:	<$=3> CHI leans over drawing
 *CHI:	the push saw .
-%mor:	det:art|the n|push n|saw .
-%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%mor:	det:art|the n|push v|see&PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
 %spa:	$NIA:ST
 *MOT:	0 .
 %act:	MOT stops drawing
 *CHI:	the push saw !
-%mor:	det:art|the n|push n|saw !
-%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%mor:	det:art|the n|push v|see&PAST !
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
 %spa:	$NIA:CS
 *MOT:	that's a push saw .
-%mor:	pro:dem|that~cop|be&3S det:art|a n|push n|saw .
-%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%mor:	pro:dem|that~cop|be&3S det:art|a n|push v|see&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|CPRED 6|2|PUNCT
 %spa:	$NIA:ST
 *CHI:	no the big push saw .
-%mor:	qn|no det:art|the adj|big n|push n|saw .
-%gra:	1|5|QUANT 2|5|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%mor:	qn|no det:art|the adj|big n|push v|see&PAST .
+%gra:	1|4|QUANT 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
 %spa:	$NIA:CS
 %gpx:	CHI sits up and looks at MOT
 *MOT:	what's that [= push saw] look like ?
 %mor:	pro:int|what~cop|be&3S pro:dem|that v|look conj|like ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|OM 6|2|PUNCT
+%gra:	1|2|SUBJ 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
 %spa:	$NIA:QN
 %tim:	00:09:00
 *CHI:	a big push saw !
-%mor:	det:art|a adj|big n|push n|saw !
-%gra:	1|4|DET 2|3|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%mor:	det:art|a adj|big n|push v|see&PAST !
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
 %spa:	$NIA:SA
 %gpx:	CHI gestures upward with his hand
 *CHI:	<I have it in> [//] <push saw in my> [//] I have one in at home .
@@ -1399,7 +1399,7 @@
 %spa:	$DRP:YQ
 *MOT:	tell me what it [= saw] looks like .
 %mor:	v|tell pro:obj|me pro:int|what pro:per|it v|look-3S conj|like .
-%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|5|JCT 7|1|PUNCT
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|5|COMP 7|1|PUNCT
 %spa:	$DRP:RP
 *CHI:	0 .
 %par:	exhalation of breath
@@ -1418,8 +1418,8 @@
 %spa:	$DRP:ST
 %act:	CHI pretends he is whispering in MOT's ear
 *MOT:	<I know you said big push saw> [>] !
-%mor:	pro:sub|I v|know pro:per|you v|say&PAST adj|big n|push n|saw !
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|MOD 6|7|MOD 7|4|OBJ 8|2|PUNCT
+%mor:	pro:sub|I v|know pro:per|you v|say&PAST adj|big n|push v|see&PAST !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|7|SUBJ 7|4|COMP 8|2|PUNCT
 %spa:	$DRP:AC
 %par:	<1-2> laughs
 *CHI:	0 [<] .
@@ -1431,7 +1431,7 @@
 %spa:	$NIA:RP
 *MOT:	<how big is it [= saw]> [>] ?
 %mor:	pro:int|how adj|big aux|be&3S pro:per|it ?
-%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
 %spa:	$DRP:QN
 *CHI:	0 [<] .
 %gpx:	CHI lays down on floor holding crayon
@@ -1450,12 +1450,12 @@
 %spa:	$DCC:AA
 %gpx:	CHI looks at MOT
 *CHI:	push saw I have .
-%mor:	n|push n|saw pro:sub|I v|have .
-%gra:	1|2|MOD 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|2|PUNCT
+%mor:	n|push v|see&PAST pro:sub|I v|have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
 %spa:	$DRP:ST
 *MOT:	+^ looks like that [= drawing] right ?
 %mor:	v|look-3S prep|like pro:dem|that co|right ?
-%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|COM 5|1|PUNCT
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|5|COM 5|1|PUNCT
 %spa:	$DRP:YQ
 %gpx:	<3> MOT points to drawing
 *CHI:	yeah .
@@ -1467,13 +1467,13 @@
 %gra:	1|3|COM 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
 %spa:	$NIA:ST
 *CHI:	no this not push saw .
-%mor:	qn|no det:dem|this neg|not v|push n|saw .
-%gra:	1|4|QUANT 2|4|DET 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%mor:	co|no det:dem|this neg|not n|push n|saw .
+%gra:	1|5|COM 2|5|DET 3|2|NEG 4|5|MOD 5|0|INCROOT 6|5|PUNCT
 %spa:	$DJF:ST
 %gpx:	CHI points to drawing
 *CHI:	push saw yyy .
-%mor:	n|push n|saw .
-%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%mor:	n|push v|see&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
 %spa:	$YYY:YY
 %xpho:	de sə
 %gpx:	CHI gets up on his knees and gestures with both hands
@@ -1518,7 +1518,7 @@
 %spa:	$DCC:AA
 *MOT:	what's it [= saw] look like ?
 %mor:	pro:int|what~cop|be&3S pro:per|it v|look conj|like ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|OM 6|2|PUNCT
+%gra:	1|2|SUBJ 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
 %spa:	$DRP:QN
 %gpx:	MOT puts crayon down
 *MOT:	+^ you tell me .
@@ -1536,27 +1536,27 @@
 %gpx:	CHI stares blankly at the paper
 *MOT:	how big is it [= saw] ?
 %mor:	pro:int|how adj|big aux|be&3S pro:per|it ?
-%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
 %spa:	$DRP:QN
 *CHI:	xxx the saw has a xxx has a push saw .
 %mor:	det:art|the n|saw v|have&3S det:art|a v|have&3S det:art|a n|push
-	n|saw .
-%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	v|see&PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|COMP 6|7|DET 7|8|SUBJ 8|5|COMP
 	9|3|PUNCT
 %spa:	$YYY:YY
 %gpx:	CHI gets up on his knees and moves to MOT and holds her face in his hands
 *CHI:	a push saw !
-%mor:	det:art|a n|push n|saw !
-%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%mor:	det:art|a n|push v|see&PAST !
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
 %spa:	$DRP:ST
 %tim:	00:10:00
 *CHI:	a push saw !
-%mor:	det:art|a n|push n|saw !
-%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%mor:	det:art|a n|push v|see&PAST !
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
 %spa:	$DRP:ST
 *MOT:	a push saw .
-%mor:	det:art|a n|push n|saw .
-%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%mor:	det:art|a n|push v|see&PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
 %spa:	$DRP:RT
 %gpx:	MOT brushes CHI's face with her hand
 *CHI:	yeah .
@@ -1565,8 +1565,8 @@
 %spa:	$DRP:AP
 %gpx:	CHI looks at drawing
 *MOT:	it's not a power saw ?
-%mor:	pro:per|it~cop|be&3S neg|not det:art|a n|power n|saw ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+%mor:	pro:per|it~aux|be&3S neg|not det:art|a n|power part|see&PASTP ?
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
 %spa:	$DRP:YQ
 *CHI:	no .
 %mor:	co|no .
@@ -1638,15 +1638,15 @@
 %spa:	$DRP:AN
 %gpx:	CHI leans back against MOT
 *MOT:	doesn't look like that [= drawing] either ?
-%mor:	mod|do&3S~neg|not co|look co|like adv|that adv|either ?
-%gra:	1|6|AUX 2|1|NEG 3|6|COM 4|6|COM 5|6|JCT 6|0|INCROOT 7|6|PUNCT
+%mor:	mod|do&3S~neg|not v|look conj|like comp|that adv|either ?
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|JCT 7|3|PUNCT
 %spa:	$DRP:YQ
 *CHI:	0 . [+ trn]
 %spa:	$DRP:AN:IN
 %par:	CHI shakes head no
 *MOT:	what's it [= saw] look like ?
 %mor:	pro:int|what~cop|be&3S pro:per|it v|look conj|like ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|OM 6|2|PUNCT
+%gra:	1|2|SUBJ 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
 %spa:	$DRP:QN
 %gpx:	MOT looks at CHI
 *CHI:	what's this [= PCI box] ?
@@ -1926,7 +1926,7 @@
 %par:	CHI makes engine noises
 *CHI:	<see the people go out> [?] .
 %mor:	v|see det:art|the n|person&PL v|go adv|out .
-%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COMP 5|4|JCT 6|1|PUNCT
 %spa:	$NIA:RP
 %xpho:	i də bɩk gə wo
 %gpx:	<$=2> CHI starts to arrange and move toys in house

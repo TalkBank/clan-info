@@ -1,4 +1,5 @@
 @UTF8
+@Window:	398_1426_762_732_-1_-1_77359_0_77359_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Elana Target_Child , MOT Mother , INV Investigator
@@ -79,8 +80,8 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DHS:RT
 *MOT:	are you gonna play ?
-%mor:	cop|be&PRES pro:per|you part|go-PRESP~inf|to v|play ?
-%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|5|INF 5|3|COMP 6|1|PUNCT
+%mor:	cop|be&PRES pro:per|you part|go&PRESP~prep|to n|play ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
 %spa:	$NIA:RP
 *CHI:	yeah .
 %mor:	co|yeah .
@@ -154,8 +155,8 @@
 %spa:	$DJF:MK
 %act:	<bef> CHI puts her hands on the chair . CHI climbs up onto the seat of the chair
 *MOT:	gonna sit down ?
-%mor:	part|go-PRESP~inf|to v|sit adv|down ?
-%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|JCT 5|1|PUNCT
+%mor:	part|go&PRESP~inf|to v|sit adv|down ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|JCT 5|1|PUNCT
 %spa:	$DCA:YQ
 *CHI:	yeah .
 %mor:	co|yeah .
@@ -316,8 +317,8 @@
 %xpho:	ai du
 %gpx:	<aft> CHI looks at MOT
 *MOT:	like these eyes ?
-%mor:	v|like det:dem|these n|eye-PL ?
-%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%mor:	prep|like det:dem|these n|eye-PL ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
 %spa:	$DHS:YQ
 %act:	<3-4> MOT bounces her finger up and down on the clown's head
 *CHI:	yyy !
@@ -407,8 +408,8 @@
 %par:	whines
 %act:	<bef> CHI puts one hand on the cover of the box and turns the handle for approximately three seconds with the other hand . CHI stops turning the handle . <aft> CHI turns the jack+in+the+box to face MOT
 *MOT:	you want me to do it [= turn the handle] ?
-%mor:	pro:per|you v|want pro:obj|me inf|to v|do pro:per|it ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%mor:	pro:per|you v|want pro:obj|me prep|to mod|do pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|OBJ 7|2|PUNCT
 %spa:	$DCC:YQ
 %act:	<aft> MOT turns the handle of the jack+in+the+box
 *CHI:	yeah .
@@ -472,8 +473,8 @@
 *MOT:	there's other toys in the room you can play with .
 %mor:	pro:exist|there~cop|be&3S qn|other n|toy-PL prep|in det:art|the
 	n|room pro:per|you mod|can v|play prep|with .
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|10|JCT 5|4|NJCT 6|7|DET 7|5|POBJ
-	8|10|SUBJ 9|10|AUX 10|2|COMP 11|10|JCT 12|2|PUNCT
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|JCT 6|7|DET 7|5|POBJ 8|10|SUBJ
+	9|10|AUX 10|2|CJCT 11|10|JCT 12|2|PUNCT
 %spa:	$NIA:ST
 %gpx:	MOT looks at CHI
 *CHI:	&=whines . [+ trn]
@@ -542,11 +543,11 @@
 @Activities:	Forbidden Object
 *INV:	they say that and then it [= Forbidden Object task] turns out to be
 	easy after all .
-%mor:	pro:sub|they v|say adv|that coord|and adv:tem|then pro:per|it
+%mor:	pro:sub|they v|say comp|that coord|and adv:tem|then pro:per|it
 	v|turn-3S adv|out inf|to cop|be adj|ease&dn-Y prep|after
 	pro:indef|all .
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|LINK 5|7|JCT 6|7|SUBJ 7|2|CJCT 8|7|JCT
-	9|10|INF 10|8|CPOBJ 11|10|PRED 12|10|JCT 13|12|POBJ 14|2|PUNCT
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|2|COMP 8|7|JCT
+	9|10|INF 10|7|XJCT 11|10|PRED 12|10|JCT 13|12|POBJ 14|2|PUNCT
 %tim:	10:55:09
 %com:	throughout the entire task CHI has her hand on the slinky that is on the table
 *MOT:	xxx .
@@ -579,10 +580,10 @@
 *MOT:	she says this [= hi] a hundred times a day .
 %mor:	pro:sub|she v|say-3S det:dem|this det:art|a det:num|hundred
 	n|time-PL det:art|a n|day .
-%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|DET 5|6|QUANT 6|2|OBJ2 7|8|DET 8|2|JCT
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|DET 5|6|QUANT 6|2|JCT 7|8|DET 8|2|JCT
 	9|2|PUNCT
 *INV:	oh really ?
-%mor:	co|oh adv|really ?
+%mor:	co|oh adv|real&dadj-LY ?
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 *INV:	that's nice .
 %mor:	pro:dem|that~cop|be&3S adj|nice .
@@ -717,7 +718,7 @@
 *CHI:	0 [<] .
 %act:	CHI walks over to the chair at the table and starts to climb into the chair
 *MOT:	okay here !
-%mor:	co|okay adv|here !
+%mor:	co|okay n|here !
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 %spa:	$NIA:SS
 %gpx:	MOT watches CHI
@@ -809,8 +810,8 @@
 *CHI:	0 .
 %act:	CHI walks over and stands in front of the chair
 *MOT:	you want to play with the ball ?
-%mor:	pro:per|you v|want prep|to n|play prep|with det:art|the n|ball ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%mor:	pro:per|you v|want inf|to v|play prep|with det:art|the n|ball ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
 %spa:	$NIA:RQ
 %act:	MOT throws the ball up in front of her
 *CHI:	0 .
@@ -930,7 +931,7 @@
 %spa:	$NMA:RP
 *MOT:	play with the ball .
 %mor:	n|play prep|with det:art|the n|ball .
-%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
 %spa:	$NIA:RP
 %act:	MOT rolls the ball
 %gpx:	MOT watches CHI
@@ -1000,8 +1001,8 @@
 %spa:	$YYY:YY
 %gpx:	<$=1> CHI waves her arm back and forth and watches MOT
 *MOT:	you want to play with this ?
-%mor:	pro:per|you v|want prep|to n|play prep|with pro:dem|this ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+%mor:	pro:per|you v|want inf|to v|play prep|with pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
 %spa:	$NIA:RQ
 *MOT:	what's in here ?
 %mor:	pro:int|what~cop|be&3S prep|in n|here ?
@@ -1101,8 +1102,8 @@
 %spa:	$NIA:TO
 %act:	<$=1> MOT holds cloth out to CHI
 *MOT:	do you wanna do it [= play peekaboo+] ?
-%mor:	mod|do pro:per|you v|want~inf|to v|do pro:per|it ?
-%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%mor:	mod|do pro:per|you v|want~inf|to mod|do pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|INF 5|6|AUX 6|3|OBJ 7|3|PUNCT
 %spa:	$NIA:RQ
 *MOT:	do you want to ?
 %mor:	mod|do pro:per|you v|want prep|to ?
@@ -1282,12 +1283,12 @@
 *CHI:	0 .
 %gpx:	CHI smiles at MOT
 *MOT:	you do it [= play peek-a-boo] .
-%mor:	pro:per|you v|do pro:per|it .
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%mor:	pro:per|you mod|do pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
 %spa:	$NIA:RP
 *MOT:	you do it [= play peek-a-boo] .
-%mor:	pro:per|you v|do pro:per|it .
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%mor:	pro:per|you mod|do pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
 %spa:	$NIA:RP
 %act:	MOT puts the cloth on CHI
 *CHI:	uhuh .
@@ -1508,7 +1509,7 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DHA:RP
 *MOT:	we're gonna draw .
-%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|draw .
+%mor:	pro:sub|we~aux|be&PRES part|go&PRESP~inf|to v|draw .
 %gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
 %spa:	$NIA:SI
 %act:	MOT uncovers the box on the table
@@ -1543,7 +1544,7 @@
 %spa:	$NIA:MK
 %act:	<$=1> MOT pushes the piece of paper CHI was drawing on with her hand
 *MOT:	you gonna draw a picture ?
-%mor:	pro:per|you part|go-PRESP~inf|to v|draw det:art|a n|picture ?
+%mor:	pro:per|you part|go&PRESP~inf|to v|draw det:art|a n|picture ?
 %gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
 %spa:	$NIA:RP
 %act:	<aft> MOT picks up a crayon and holds it over the paper
@@ -1557,7 +1558,7 @@
 *CHI:	0 [>] .
 %act:	CHI colors on the pieces of paper close to MOT then goes back to color on the first piece of paper
 *MOT:	<<yeah look> [?]> [<] .
-%mor:	co|yeah co|look .
+%mor:	co|yeah n|look .
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 %spa:	$DHA:RP
 %act:	MOT starts coloring on the piece of paper near her
@@ -1590,8 +1591,8 @@
 %spa:	$NIA:RP:IN
 %act:	<bef> CHI reaches for MOT's crayon
 *MOT:	you want that one [= crayon] .
-%mor:	pro:per|you v|want adv|that pro:indef|one .
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%mor:	pro:per|you v|want det:dem|that pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
 %spa:	$DCC:ST
 *MOT:	okay .
 %mor:	co|okay .
@@ -1609,8 +1610,8 @@
 %tim:	11:03:00
 @Eg:	ten_minutes
 *MOT:	that <looks pretty> [>] .
-%mor:	pro:rel|that v|look-3S adv|pretty .
-%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%mor:	det:dem|that n|look-PL adv|pretty .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|2|PUNCT
 %spa:	$NIA:ST
 *CHI:	0 [>] .
 %act:	CHI reaches out and holds both crayons over the paper closest to MOT
@@ -1625,7 +1626,7 @@
 %spa:	$MRK:MK
 %act:	MOT takes one of CHI's crayons
 *MOT:	you gonna draw with that [= other crayon] ?
-%mor:	pro:per|you part|go-PRESP~inf|to v|draw prep|with pro:dem|that ?
+%mor:	pro:per|you part|go&PRESP~inf|to v|draw prep|with pro:dem|that ?
 %gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
 %spa:	$NIA:RP
 %gpx:	<1-3> MOT points to the other crayon CHI has in her hand
@@ -1686,7 +1687,7 @@
 %spa:	$OOO:OO
 %act:	MOT takes the crayon from CHI
 *MOT:	now .
-%mor:	adv|now .
+%mor:	adv:tem|now .
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$NIA:MK
 %act:	<$=1> MOT colors on the paper
@@ -1730,8 +1731,8 @@
 %par:	release of breath
 %gpx:	CHI looks at MOT and smiles
 *MOT:	you do it [= color] .
-%mor:	pro:per|you v|do pro:per|it .
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%mor:	pro:per|you mod|do pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
 %spa:	$NIA:RP
 %act:	MOT hands the crayon to CHI
 *CHI:	yyy .
@@ -1874,15 +1875,15 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
 %spa:	$NIA:ST
 *MOT:	draw some more .
-%mor:	v|draw qn|some pro:indef|more .
-%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%mor:	v|draw qn|some adv|more .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|JCT 4|1|PUNCT
 %spa:	$NIA:RP
 %gpx:	<1-2> MOT points to the paper . <aft> MOT puts her hands on the table
 *CHI:	0 .
 %gpx:	CHI looks at the paper
 %act:	CHI pushes the paper towards MOT
 *MOT:	you gonna draw another pretty picture ?
-%mor:	pro:per|you part|go-PRESP~inf|to v|draw qn|another adj|pretty
+%mor:	pro:per|you part|go&PRESP~inf|to v|draw qn|another adj|pretty
 	n|picture ?
 %gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|QUANT 6|7|MOD 7|4|OBJ 8|2|PUNCT
 %spa:	$NIA:RP
@@ -2102,7 +2103,7 @@
 %gpx:	<aft> MOT turns to face the desk
 *MOT:	and play with something else ?
 %mor:	coord|and n|play prep|with pro:indef|something post|else ?
-%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|4|PQ 6|1|PUNCT
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|4|PQ 6|1|PUNCT
 %spa:	$NIA:RQ
 %act:	MOT reaches over to the desk
 *CHI:	&=vocalizes . [+ trn]
@@ -2265,8 +2266,8 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DJF:CT
 *MOT:	what does a doggie say ?
-%mor:	pro:int|what v|do&3S det:art|a n|dog-DIM co|say ?
-%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|COM 6|2|PUNCT
+%mor:	pro:int|what mod|do&3S det:art|a n|dog-DIM co|say ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|COM 6|4|PUNCT
 %spa:	$DRP:EA
 *CHI:	arf@o .
 %mor:	on|arf .
@@ -2344,9 +2345,9 @@
 %mor:	co|no pro:dem|that~cop|be&3S det:art|a n|calf coord|and det:art|a
 	n|baby n|donkey aux|be&PRES part|grow-PRESP adv|up prep|on det:art|a
 	n|farm .
-%gra:	1|2|COM 2|3|SUBJ 3|11|SUBJ 4|5|DET 5|3|PRED 6|5|CONJ 7|9|DET 8|9|MOD
-	9|6|COORD 10|11|AUX 11|0|ROOT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
-	16|11|PUNCT
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|11|SUBJ 6|5|CONJ 7|9|DET 8|9|MOD
+	9|6|COORD 10|11|AUX 11|3|CPRED 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
 %spa:	$DJF:DW $TXT:TX
 *CHI:	&=vocalizes . [+ trn]
 %spa:	$DHA:YY:IN
@@ -2559,8 +2560,8 @@
 %gpx:	CHI looks to see what MOT is pointing at
 %sit:	CHI is still pointing to the other page
 *MOT:	what does a pig say ?
-%mor:	pro:int|what v|do&3S det:art|a n|pig v|say ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+%mor:	pro:int|what mod|do&3S det:art|a n|pig v|say ?
+%gra:	1|5|SUBJ 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
 %spa:	$DRP:EA
 *MOT:	oink_oink@o .
 %mor:	on|oink_oink .

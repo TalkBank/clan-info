@@ -1,9 +1,9 @@
 @UTF8
 @Begin
 @Languages:	eng
-@Participants:	TOM Tom Father, SLP Clinician Investigator
-@ID:	eng|FluencyBank|TOM||male|||Father|||
-@ID:	eng|FluencyBank|SLP||female|||Investigator|||
+@Participants:	TOM Tom Father, SLP Clinician
+@ID:	eng|change_corpus_later|TOM||male|||Father|||
+@ID:	eng|change_corpus_later|SLP||female|||Clinician|||
 @Transcriber:	Jenna_Poland
 @Media:	Tom, video
 *SLP:	do you think that intensive programs like the Hollins's program

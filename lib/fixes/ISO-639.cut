@@ -1,9 +1,13 @@
 @UTF8
-@Window:	542_949_603_684_1422_1_1442_0_1442_0
 # Format is as follows:
 # List one language code separated by tab,
 # at the end followed by Capitalized language name.
 # Language name can have spaces in it, for example: Manado Malay
+mon	Mongolian
+slk	Slovak
+gcr	Guianese Creole French
+tel	Telugu
+dcc	Deccan
 ltz	Luxembourgish
 jam	Jamaican Creole
 mar	Marathi
