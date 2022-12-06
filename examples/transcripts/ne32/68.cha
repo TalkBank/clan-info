@@ -1,4 +1,5 @@
 @UTF8
+@Window:	398_1426_762_732_-1_-1_53281_0_53281_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Laura Target_Child , MOT Mother , INV Investigator
@@ -12,11 +13,11 @@
 *INV:	www .
 %exp:	INV briefly explains four boxes to MOT then leaves room
 *MOT:	we're going to play with whatever it is in these boxes .
-%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|play prep|with
-	pro:int|whatever pro:per|it cop|be&3S prep|in det:dem|these n|box-PL
-	.
-%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|LINK 8|9|SUBJ
-	9|6|CPOBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP prep|to n|play prep|with
+	pro:indef|whatever pro:per|it cop|be&3S prep|in det:dem|these
+	n|box-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|POBJ 8|9|SUBJ
+	9|3|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
 %spa:	$NIA:ST
 %sit:	MOT is out of camera range . CHI stands in the middle of the room looking up
 *CHI:	what's the [//] <in these boxes> [>] ?
@@ -35,7 +36,7 @@
 %spa:	$NMA:AC
 %gpx:	CHI turns around following MOT to the middle of the room .
 *MOT:	come on over here .
-%mor:	v|come adv|on prep|over adv|here .
+%mor:	v|come adv|on prep|over n|here .
 %gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|3|POBJ 5|1|PUNCT
 %spa:	$NMA:RP
 %gpx:	MOT sits down on the floor with the box in front of her
@@ -85,8 +86,8 @@
 %spa:	$DJF:ST
 %gpx:	CHI holds the book up . CHI looks at the book then at MOT
 *MOT:	we know that book don't we ?
-%mor:	pro:sub|we v|know comp|that n|book mod|do~neg|not pro:sub|we ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|COMP 8|2|PUNCT
+%mor:	pro:sub|we v|know det:dem|that n|book mod|do~neg|not pro:sub|we ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|COMP 8|2|PUNCT
 %spa:	$DJF:ST $DJF:YQ
 *CHI:	yeah (.) let's read it [= box] .
 %mor:	co|yeah v|let~pro:obj|us v|read&ZERO pro:per|it .
@@ -109,7 +110,7 @@
 %gpx:	CHI crawls over to MOT placing her hand on MOT lap
 *MOT:	that's exactly like yours .
 %mor:	pro:dem|that~cop|be&3S adv|exact&dadj-LY v|like pro:poss|yours .
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|OBJ 6|2|PUNCT
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|CPRED 5|4|OBJ 6|2|PUNCT
 %spa:	$DRP:AP
 %act:	MOT opens the book
 *MOT:	<I'm a little bunny (.) my name is> [>] +...
@@ -152,10 +153,10 @@
 %spa:	$TXT:TX
 *MOT:	we're gonna read this fast so we can play with the other stuff too
 	.
-%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|read&ZERO
-	pro:dem|this adv|fast conj|so pro:sub|we mod|can v|play prep|with
+%mor:	pro:sub|we~aux|be&PRES part|go&PRESP~inf|to v|read&ZERO
+	det:dem|this n|fast conj|so pro:sub|we mod|can v|play prep|with
 	det:art|the qn|other n|stuff adv|too .
-%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|11|LINK
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|11|LINK
 	9|11|SUBJ 10|11|AUX 11|3|CJCT 12|11|JCT 13|15|DET 14|15|QUANT 15|12|POBJ
 	16|11|JCT 17|3|PUNCT
 %spa:	$NIA:SI $NIA:GR
@@ -203,9 +204,9 @@
 @Bg:	ten_minutes
 *MOT:	this book is in a little bit better shape than yours .
 %mor:	det:dem|this n|book cop|be&3S prep|in det:art|a adj|little n|bit
-	adj|good&CP n|shape prep|than pro:poss|yours .
-%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|8|JCT 8|9|MOD
-	9|4|POBJ 10|9|NJCT 11|10|POBJ 12|3|PUNCT
+	v|better n|shape prep|than pro:poss|yours .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|8|SUBJ 8|4|POBJ
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|3|PUNCT
 %spa:	$DRP:ST
 %tim:	00:01:00
 %act:	MOT turns the page
@@ -227,7 +228,7 @@
 %mor:	coord|and n:prop|Daddy v|read-3S pro:obj|us det:art|a n|story
 	conj|before pro:sub|we v|go prep|to n|bed .
 %gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|9|LINK 8|9|SUBJ
-	9|6|CMOD 10|9|JCT 11|10|POBJ 12|3|PUNCT
+	9|3|CJCT 10|9|JCT 11|10|POBJ 12|3|PUNCT
 %spa:	$TXT:TX
 %int:	MOT speaks softly
 %act:	MOT closes the book
@@ -312,7 +313,7 @@
 %spa:	$NIA:TO
 %gpx:	CHI reaches into the box for the other puppet . CHI holds puppet out to MOT
 *MOT:	which one ?
-%mor:	pro:rel|which pro:indef|one ?
+%mor:	pro:int|which pro:indef|one ?
 %gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
 %spa:	$DCC:QN
 *MOT:	this one [= puppet] I get ?
@@ -362,7 +363,7 @@
 *CHI:	xxx [<] (.) my name is Cookie_Monster and I eat cookies .
 %mor:	det:poss|my n|name cop|be&3S n:prop|Cookie_Monster coord|and
 	pro:sub|I v|eat n|cookie-PL .
-%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|OBJ
 	9|3|PUNCT
 %spa:	$DHA:ST:FSF
 %gpx:	CHI looks at her puppet then holds it up in front of her
@@ -383,18 +384,18 @@
 *MOT:	well that's good (.) that's good .
 %mor:	co|well pro:dem|that~cop|be&3S adj|good pro:dem|that~cop|be&3S
 	adj|good .
-%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|4|CMOD 7|6|PRED 8|3|PUNCT
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|3|CJCT 7|6|PRED 8|3|PUNCT
 %spa:	$DJF:ST:FSF
 %tim:	00:02:00
 %act:	MOT plays puppet
 %com:	MOT uses a different voice when using the puppet
 *MOT:	I don't care if you eat cookies (.) but I don't want you to eat me
 	.
-%mor:	pro:sub|I mod|do~neg|not v|care conj|if pro:per|you v|eat
+%mor:	pro:sub|I mod|do~neg|not v|care comp|if pro:per|you v|eat
 	n|cookie-PL conj|but pro:sub|I mod|do~neg|not v|want pro:per|you
 	inf|to v|eat pro:obj|me .
-%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|OBJ
-	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|7|CJCT 14|16|SUBJ 15|16|INF
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CJCT 14|16|SUBJ 15|16|INF
 	16|13|COMP 17|16|OBJ 18|4|PUNCT
 %spa:	$DSS:ST:FSF
 %gpx:	MOT moves her puppet back
@@ -419,8 +420,8 @@
 %spa:	$DJF:ST
 %gpx:	MOT holds her puppet upright next to her as she watches CHI
 *CHI:	yeah (.) (ex)cept they go up and down .
-%mor:	co|yeah conj|except pro:sub|they v|go adv|up coord|and adv|down .
-%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|4|PUNCT
+%mor:	co|yeah prep|except pro:sub|they v|go adv|up coord|and adv|down .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|4|PUNCT
 %spa:	$DJF:AP $DJF:ST
 %act:	CHI moves her puppets eyes around
 *CHI:	&hm: .
@@ -434,8 +435,8 @@
 %spa:	$DJF:ST
 *MOT:	xxx (.) you have very strange eyes little fellow .
 %mor:	pro:per|you v|have adv|very adj|strange n|eye-PL adj|little
-	n|fellow .
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|7|MOD 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+	adj|fellow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|OBJ 6|7|MOD 7|5|PRED 8|2|PUNCT
 %spa:	$DJF:ST:FSF
 %gpx:	MOT moves her puppet closer to CHI
 %act:	MOT plays puppet
@@ -537,7 +538,7 @@
 %spa:	$NIA:RP
 %gpx:	CHI kneels down in front of MOT then reaches into the box with paper in it
 *MOT:	okay (.) here .
-%mor:	co|okay adv|here .
+%mor:	co|okay n|here .
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 %spa:	$NIA:AD $NIA:MK
 *MOT:	I'll tell you what (.) let's make it [= box] like a desk +...
@@ -563,8 +564,8 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$NIA:MK
 *MOT:	what colors ?
-%mor:	pro:int|what n|color-PL ?
-%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%mor:	det:int|what n|color-PL ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
 %spa:	$NIA:QN
 %com:	MOT refers to crayons CHI is holding in her hand but are not visible to the camera
 *MOT:	what do we got ?
@@ -576,7 +577,7 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
 %spa:	$DJF:SA
 *MOT:	come on over here .
-%mor:	v|come adv|on prep|over adv|here .
+%mor:	v|come adv|on prep|over n|here .
 %gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|3|POBJ 5|1|PUNCT
 %spa:	$NMA:RP
 %act:	<bef> MOT moves half of the box away to make room for CHI
@@ -593,7 +594,7 @@
 %act:	<bef> MOT moves the box with the paper on it to the space in front of her
 %gpx:	MOT pats the floor next to her to direct CHI . MOT reaches for the paper CHI is holding then puts it inside the empty half of the box beside her
 *MOT:	orange (.) which one [= crayon] is orange ?
-%mor:	adj|orange pro:rel|which pro:indef|one cop|be&3S adj|orange ?
+%mor:	adj|orange pro:int|which pro:indef|one cop|be&3S adj|orange ?
 %gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|PRED 6|1|PUNCT
 %spa:	$DHA:QN
 *CHI:	0 . [+ trn]
@@ -610,7 +611,7 @@
 %com:	CHI is now visible sideview to the camera
 *MOT:	orange (.) what other colors ?
 %mor:	adj|orange pro:int|what qn|other n|color-PL ?
-%gra:	1|4|MOD 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%gra:	1|4|MOD 2|4|DET 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
 %spa:	$DJF:ST $DHA:QN
 *CHI:	0 .
 %gpx:	CHI looks up at MOT holding up a crayon
@@ -655,7 +656,7 @@
 *CHI:	that could be the lady had the xxx on ?
 %mor:	pro:dem|that mod|could cop|be det:art|the n|lady v|have&PAST
 	det:art|the adv|on ?
-%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|PRED 7|8|DET 8|6|JCT
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|CPRED 7|8|DET 8|6|JCT
 	9|3|PUNCT
 %spa:	$DJF:ST
 %tim:	00:04:00
@@ -676,9 +677,9 @@
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 %spa:	$DJF:AP
 *MOT:	that was a confusing picture wasn't that (.) on tv this morning ?
-%mor:	pro:dem|that cop|be&PAST&13S det:art|a n:gerund|confuse-PRESP
-	n|picture cop|be&PAST&13S~neg|not pro:dem|that prep|on n|tv
-	det:dem|this n|morning ?
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a part|confuse-PRESP n|picture
+	cop|be&PAST&13S~neg|not pro:dem|that prep|on n|tv det:dem|this
+	n|morning ?
 %gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|PRED 7|6|NEG 8|6|PRED
 	9|8|JCT 10|12|MOD 11|12|DET 12|9|POBJ 13|2|PUNCT
 %spa:	$DRP:YQ
@@ -719,9 +720,9 @@
 %gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
 %spa:	$NIA:RP
 *MOT:	remember (.) she [= drawing] was Chiquita Banana .
-%mor:	co|remember pro:sub|she cop|be&PAST&13S n:prop|Chiquita
+%mor:	v|remember pro:sub|she cop|be&PAST&13S n:prop|Chiquita
 	n:prop|Banana .
-%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|NAME 5|3|PRED 6|3|PUNCT
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|NAME 5|3|PRED 6|1|PUNCT
 %spa:	$DRP:ST
 *CHI:	0 .
 %gpx:	CHI looks down
@@ -737,8 +738,8 @@
 %spa:	$NIA:RP
 %gpx:	MOT moves the paper closer to CHI making a gesture with her crayon where the fruit would be drawn
 *MOT:	she [= drawing] had a big fancy [/] fancy fruit hat .
-%mor:	pro:sub|she v|have&PAST det:art|a adj|big n|fancy n|fruit n|hat .
-%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|5|MOD 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+%mor:	pro:sub|she v|have&PAST det:art|a adj|big adj|fancy n|fruit n|hat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|7|MOD 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
 %spa:	$DRP:ST
 %act:	MOT puts her crayon down on the floor beside her
 *CHI:	that big ?
@@ -766,7 +767,7 @@
 %spa:	$NIA:YQ
 %gpx:	CHI leans back then looks up at MOT
 *MOT:	hmhm: (.) and different colors too .
-%mor:	co|no coord|and adj|different n|color-PL adv|too .
+%mor:	co|no coord|and adj|different n|color-PL post|too .
 %gra:	1|5|COM 2|1|CONJ 3|4|MOD 4|2|COORD 5|0|ROOT 6|5|PUNCT
 %spa:	$NIA:AA $NIA:ST
 *CHI:	here's some blue .
@@ -780,8 +781,8 @@
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 %spa:	$NIA:AC
 *MOT:	some more (.) some more .
-%mor:	qn|some qn|more qn|some pro:indef|more .
-%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%mor:	qn|some adv|more qn|some adv|more .
+%gra:	1|3|QUANT 2|3|JCT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
 %spa:	$NIA:RP
 *CHI:	0 .
 %act:	CHI colors with one crayon then switches colors again
@@ -804,16 +805,17 @@
 %tim:	00:05:00
 %act:	CHI picks up another crayon . CHI colors
 *MOT:	that's more like it (.) yeah .
-%mor:	pro:dem|that~cop|be&3S adv|more prep|like pro:per|it co|yeah .
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|SUBJ 6|4|POBJ 7|2|PUNCT
+%mor:	pro:dem|that~cop|be&3S pro:indef|more prep|like pro:per|it co|yeah
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|4|POBJ 6|2|COM 7|2|PUNCT
 %spa:	$NIA:ST
 *MOT:	see (.) and she [= drawing] had such a big hat on that you could
 	almost not notice that she had a face .
 %mor:	v|see coord|and pro:sub|she v|have&PAST qn|such det:art|a adj|big
-	n|hat prep|on comp|that pro:per|you mod|could adv|almost neg|not
+	n|hat prep|on pro:dem|that pro:per|you mod|could adv|almost neg|not
 	v|notice comp|that pro:sub|she v|have&PAST det:art|a n|face .
 %gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|8|QUANT 6|8|DET 7|8|MOD 8|4|OBJ
-	9|4|JCT 10|15|LINK 11|15|SUBJ 12|15|AUX 13|15|JCT 14|13|NEG 15|9|CPOBJ
+	9|4|JCT 10|9|POBJ 11|15|SUBJ 12|15|AUX 13|15|JCT 14|13|NEG 15|4|CJCT
 	16|18|LINK 17|18|SUBJ 18|15|COMP 19|20|DET 20|18|OBJ 21|1|PUNCT
 %spa:	$DRP:ST
 %gpx:	MOT points then moves her finger around on the paper to outline the size of the hat
@@ -852,9 +854,9 @@
 *MOT:	0 [<] .
 %act:	MOT picks up another piece of paper then puts it back down on the floor
 *MOT:	this is her mouth (.) do you wanna give her some lips ?
-%mor:	pro:dem|this cop|be&3S det:poss|her n|mouth v|do pro:per|you
+%mor:	pro:dem|this cop|be&3S det:poss|her n|mouth mod|do pro:per|you
 	v|want~inf|to v|give pro:obj|her qn|some n|lip-PL ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|CPRED 6|7|SUBJ 7|5|COMP 8|9|INF
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|SUBJ 5|7|AUX 6|7|SUBJ 7|2|CPRED 8|9|INF
 	9|7|COMP 10|9|OBJ2 11|12|QUANT 12|9|OBJ 13|2|PUNCT
 %spa:	$DHA:ST $NIA:RQ
 %gpx:	MOT points
@@ -881,7 +883,7 @@
 %gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
 %spa:	$NIA:QN
 *CHI:	right here .
-%mor:	adv|right adv|here .
+%mor:	adv|right n|here .
 %gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
 %spa:	$NIA:SA
 %gpx:	CHI points as she picks up a crayon off the floor
@@ -892,7 +894,7 @@
 %par:	MOT laughs
 %gpx:	MOT reaches for a crayon on the floor in front of CHI
 *CHI:	<no right here> [>] .
-%mor:	co|no adv|right adv|here .
+%mor:	co|no adv|right n|here .
 %gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
 %spa:	$DCC:AN
 %gpx:	CHI starts to point with the crayon then ends up pointing with her other hand
@@ -927,7 +929,7 @@
 %gpx:	CHI sits back looking down at MOT coloring
 *MOT:	okay we'll make the lips open .
 %mor:	co|okay pro:sub|we~mod|will v|make det:art|the n|lip-PL adj|open .
-%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|POSTMOD 8|4|PUNCT
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
 %spa:	$NIA:SI
 %act:	MOT colors
 *CHI:	opened ?
@@ -956,8 +958,8 @@
 %spa:	$NIA:SA
 %gpx:	CHI nods head yes . CHI looks down
 *MOT:	now you draw something .
-%mor:	adv|now pro:per|you v|draw pro:indef|something .
-%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%mor:	adv:tem|now pro:per|you v|draw pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
 %spa:	$NIA:RP
 %gpx:	MOT holds crayon out towards CHI
 *MOT:	this was your lips .
@@ -1004,10 +1006,10 @@
 %spa:	$NIA:AD
 *CHI:	<I wanna make> [/] <I wanna make> [//] &uh I want to make that lady
 	she was singing on tv [>] .
-%mor:	pro:sub|I v|want inf|to v|make comp|that n|lady pro:sub|she
+%mor:	pro:sub|I v|want inf|to v|make det:dem|that n|lady pro:sub|she
 	aux|be&PAST&13S part|sing-PRESP prep|on n|tv .
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|9|LINK 6|9|JCT 7|9|SUBJ 8|9|AUX
-	9|4|COMP 10|9|JCT 11|10|POBJ 12|2|PUNCT
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|10|POBJ 12|2|PUNCT
 %spa:	$NIA:RP
 %gpx:	CHI looks around as she speaks
 %sit:	CHI scratches her leg
@@ -1038,19 +1040,19 @@
 %gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
 %spa:	$NIA:AD
 *MOT:	okay (.) you make your own now .
-%mor:	co|okay pro:per|you v|make det:poss|your adj|own adv|now .
+%mor:	co|okay pro:per|you v|make det:poss|your adj|own adv:tem|now .
 %gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PRED 6|5|JCT 7|3|PUNCT
 %spa:	$NIA:RP
 *MOT:	I did one [= drawing] now you do one .
-%mor:	pro:sub|I v|do&PAST det:num|one adv|now pro:per|you v|do
+%mor:	pro:sub|I v|do&PAST pro:indef|one adv:tem|now pro:per|you v|do
 	pro:indef|one .
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|SUBJ 6|2|COMP 7|6|OBJ 8|2|PUNCT
 %spa:	$DRE:ST $NIA:RP
 %gpx:	MOT gestures to herself then to CHI
 %com:	MOT head is not visible
 *CHI:	no you do it [= color] .
-%mor:	co|no pro:per|you v|do pro:per|it .
-%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%mor:	co|no pro:per|you mod|do pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
 %spa:	$NIA:RD $NIA:RP
 %gpx:	<bef> CHI looks down holding out a crayon in the direction of MOT
 *MOT:	no I did one [= drawing] .
@@ -1058,8 +1060,8 @@
 %gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
 %spa:	$NIA:RD $NIA:GR
 *CHI:	no you do it [= color] .
-%mor:	co|no pro:per|you v|do pro:per|it .
-%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%mor:	co|no pro:per|you mod|do pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
 %spa:	$NIA:RP
 %par:	CHI whines
 %act:	CHI picks up a crayon off the floor
@@ -1104,7 +1106,7 @@
 %spa:	$DHA:ST
 %gpx:	<bef> CHI runs across the room then reaches for another box . CHI turns with a new box in her hands then drops it on the floor
 *MOT:	(wh)oops_a_daisy (.) crash !
-%mor:	co|whoops_a_daisy adj|crash !
+%mor:	co|whoops_a_daisy n|crash !
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 %spa:	$MRK:MK
 %gpx:	MOT leans forward with her arms outstretched
@@ -1115,8 +1117,8 @@
 %spa:	$MRK:MK
 %tim:	00:06:49
 *MOT:	get it [= toy] out .
-%mor:	aux|get pro:per|it adv|out .
-%gra:	1|0|INCROOT 2|1|PRED 3|2|JCT 4|1|PUNCT
+%mor:	v|get pro:per|it adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
 %spa:	$NIA:RP
 %sit:	MOT finishes putting crayons and paper away
 *MOT:	open the box and get it [= toy] out .
@@ -1133,8 +1135,8 @@
 %gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|COM 7|4|PUNCT
 %spa:	$DJF:YQ
 *CHI:	that looks like mine too !
-%mor:	pro:rel|that v|look-3S prep|like n|mine adv|too !
-%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
+%mor:	pro:dem|that v|look-3S prep|like n|mine adv|too !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
 %spa:	$DRP:ST
 %tim:	00:07:00
 %act:	CHI pulls the play house out of the box
@@ -1205,7 +1207,7 @@
 %spa:	$DRP:ST
 *CHI:	who's home ?
 %mor:	pro:int|who~cop|be&3S n|home ?
-%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
 %spa:	$NIA:QN:FAN
 %act:	CHI gets up on her knees trying to open up the house
 *MOT:	yeah .
@@ -1236,7 +1238,7 @@
 %gpx:	MOT leans forward on both arms . MOT looks into the house
 *MOT:	<what else is different> [>] ?
 %mor:	pro:int|what post|else aux|be&3S adj|different ?
-%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|INCROOT 4|3|PRED 5|3|PUNCT
 %spa:	$DRP:QN
 %int:	MOT speaks softly
 *CHI:	0 [<] .
@@ -1255,8 +1257,8 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
 %spa:	$DNP:QN:FAN
 *CHI:	Maude's right here .
-%mor:	n:prop|Maude~cop|be&3S adv|right adv|here .
-%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%mor:	adj|Maude&dn-POSS adv|right n|here .
+%gra:	1|3|MOD 2|3|JCT 3|0|INCROOT 4|3|PUNCT
 %spa:	$DHA:SA:FAN
 %gpx:	CHI points
 *MOT:	well (.) get her out .
@@ -1271,7 +1273,7 @@
 %act:	CHI takes another toy person out of the house . CHI plays with toy people
 *MOT:	who else is in there [= house] ?
 %mor:	pro:int|who post|else aux|be&3S prep|in n|there ?
-%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%gra:	1|3|JCT 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
 %spa:	$DNP:QN:FAN
 %gpx:	<bef> MOT sits back
 %com:	MOT is still seated behind the house
@@ -1304,7 +1306,7 @@
 %act:	MOT moves the house a bit
 *CHI:	table table table table table .
 %mor:	n|table n|table n|table n|table n|table .
-%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
 %spa:	$PRO:PR
 %par:	CHI sings
 *CHI:	that's my seat .
@@ -1315,8 +1317,8 @@
 *CHI:	you guys (.) I want to sit in them .
 %mor:	pro:per|you n|guy-PL pro:sub|I v|want inf|to v|sit prep|in
 	pro:obj|them .
-%gra:	1|2|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
-	9|4|PUNCT
+%gra:	1|2|SUBJ 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|6|INF 6|4|COMP 7|6|JCT
+	8|7|POBJ 9|2|PUNCT
 %spa:	$DSS:ST:FSF
 %com:	CHI plays as if the toy people were speaking
 *CHI:	&=whines .
@@ -1348,7 +1350,7 @@
 *CHI:	&=whines .
 %gpx:	CHI looks around
 *MOT:	see if there's a chair in the garage .
-%mor:	v|see conj|if pro:exist|there~cop|be&3S det:art|a n|chair prep|in
+%mor:	v|see comp|if pro:exist|there~cop|be&3S det:art|a n|chair prep|in
 	det:art|the n|garage .
 %gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|6|DET 6|4|PRED 7|6|NJCT 8|9|DET
 	9|7|POBJ 10|1|PUNCT
@@ -1387,8 +1389,8 @@
 %gpx:	CHI looks around on the floor then up at MOT
 %com:	CHI seems to be talking to the toy people . CHI blocks the objects she is playing with from the camera
 *MOT:	well (.) there's room for two .
-%mor:	co|well pro:exist|there~cop|be&3S n|room prep|for det:num|two .
-%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+%mor:	co|well adj|there&dn-POSS n|room prep|for det:num|two .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
 %spa:	$DJF:ST:FAN
 %gpx:	MOT shrugs then gestures with one hand towards something on the floor
 *CHI:	&=whines .
@@ -1420,8 +1422,8 @@
 %gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|JCT 5|1|PUNCT
 %spa:	$NIA:YQ
 *CHI:	he's [= toy person] getting angry too .
-%mor:	pro:sub|he~aux|be&3S part|get-PRESP adj|angry post|too .
-%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|PQ 6|3|PUNCT
+%mor:	pro:sub|he~aux|be&3S part|get-PRESP adj|angry adv|too .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|JCT 6|3|PUNCT
 %spa:	$DHS:ST:FAN
 %act:	<bef> CHI puts the toy into the car seat
 *MOT:	oh .
@@ -1517,7 +1519,7 @@
 %spa:	$NIA:AC:FAN
 %gpx:	MOT sits back watching CHI play
 *MOT:	well what about Harold now ?
-%mor:	co|well pro:int|what prep|about n:prop|Harold adv|now ?
+%mor:	co|well pro:int|what prep|about n:prop|Harold adv:tem|now ?
 %gra:	1|5|COM 2|5|LINK 3|5|JCT 4|3|POBJ 5|0|ROOT 6|5|PUNCT
 %spa:	$NIA:QN:FAN
 *CHI:	0 [=! whining] .
@@ -1572,7 +1574,7 @@
 %com:	CHI speaks to the other toys through the toy she holds in her hand
 %act:	CHI moves the toy up and down
 *MOT:	what are you gonna do for him [= toy] ?
-%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP~inf|to v|do
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go&PRESP~inf|to v|do
 	prep|for pro:obj|him ?
 %gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
 	9|4|PUNCT
@@ -1653,7 +1655,7 @@
 %spa:	$DHS:ST:FAN
 %gpx:	CHI turns around in the direction of MOT . CHI looks over in direction of MOT then looks at the box
 *MOT:	he's [= toy] really upset .
-%mor:	pro:sub|he~cop|be&3S adv|really adj|upset .
+%mor:	pro:sub|he~cop|be&3S adv|real&dadj-LY adj|upset .
 %gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
 %spa:	$DHS:ST:FAN
 %com:	MOT is out of camera range . MOT continues pretend play situation with CHI
@@ -1709,8 +1711,8 @@
 *CHI:	0 .
 %gpx:	CHI looks
 *MOT:	here (.) I can't reach that far .
-%mor:	adv|here pro:sub|I mod|can~neg|not v|reach pro:dem|that adv|far .
-%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+%mor:	adv|here pro:sub|I mod|can~neg|not v|reach det:dem|that adv|far .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|JCT 8|5|PUNCT
 %spa:	$NIA:ST
 %gpx:	MOT leans back with the toy
 *MOT:	can you bring the box closer ?
@@ -1724,7 +1726,7 @@
 %spa:	$NIA:AD
 %act:	CHI moves the box
 *MOT:	come out now .
-%mor:	v|come adv|out adv|now .
+%mor:	v|come adv|out adv:tem|now .
 %gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
 %spa:	$NIA:RP:FSF
 %com:	MOT pretends her toy is speaking
@@ -1737,7 +1739,7 @@
 %spa:	$NIA:RP:FSF
 %gpx:	<aft> MOT holds toy up in the air over the box
 *MOT:	aren't you gonna let him out ?
-%mor:	aux|be&PRES~neg|not pro:per|you part|go-PRESP~inf|to v|let&ZERO
+%mor:	aux|be&PRES~neg|not pro:per|you part|go&PRESP~inf|to v|let&ZERO
 	pro:obj|him adv|out ?
 %gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
 	9|4|PUNCT

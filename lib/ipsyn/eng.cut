@@ -1,6 +1,5 @@
 @UTF8
 @Color words:	RULENAME: 7 65535 773 0 
-@Window:	542_949_603_684_3213_1_3213_1_3213_1
 % The following lines marked with % explain the interpretation of symbols in the rules
 
 % += means variable can match any number of times
@@ -62,68 +61,43 @@ DET = |det:dem
 ADV   = |adv,|adv:tem
 NP   = $N + $PRO + ($MOD ^ $N) + ($DET ^ $N) + ($ART ^ $N) + ($ART ^ $MOD ^ $N) + ($DET ^ $MOD ^ $N)
 
-RULENAME: N1
-ADD:	1 IF N7 = 1
-ADD:	2 IF N7 = 2
-if
-INCLUDE:	$N
-DIFFERENT_STEMS:		1
-
-RULENAME: N2
+RULENAME: N2 - Pronoun
 if
 INCLUDE:	$PRO
 DIFFERENT_STEMS:		1
 
-RULENAME: N3
-if
-INCLUDE:	$MOD
-EXCLUDE:	$b ^ $MOD ^ $e
-DIFFERENT_STEMS:		1
-
-RULENAME: N4
-ADD:	1 IF N6 = 1
-ADD:	2 IF N6 = 2
-ADD:	1 IF N8 = 1
-ADD:	2 IF N8 = 2
-ADD:	1 IF N9 = 1
-ADD:	2 IF N9 = 2
-if
-INCLUDE:	$MOD ^ $N
-DIFFERENT_STEMS:		>1
-
-RULENAME: N5
+RULENAME: N5 - Article before noun
 if
 INCLUDE:	($ART ^ $N) + ($ART ^ $MOD ^ $N)
 DIFFERENT_STEMS:		>1
 
-RULENAME: N6
+RULENAME: N6 - Two-word NP after verb or prep
 if
 INCLUDE:	($V ^ $MOD ^ $N) + (|prep ^ $MOD ^ $N)
 DIFFERENT_STEMS:		>2
 
-RULENAME: N7
+RULENAME: N7 - Plural suffix
 if
 INCLUDE:	$N,-PL
 DIFFERENT_STEMS:		1
 
-RULENAME: N8
+RULENAME: N8 - Two-word NP before verb
 if
 INCLUDE:	($MOD ^ $N ^ $V) + ($MOD ^ $N ^ |mod)
 DIFFERENT_STEMS:		>2
 
-RULENAME: N9
+RULENAME: N9 - Three-word NP
 if
 INCLUDE:	($MOD ^ $MOD ^ $N) + ($MOD ^ $MOD ^ $PRO)
 DIFFERENT_STEMS:		>2
 
-RULENAME: N10
+RULENAME: N10 - Adverb + head
 if
 INCLUDE:	(|adv ^ |adj) + (|adv ^ |n,;here) + (|adv ^ |n,;there) + (|adv ^ |part)
 EXCLUDE:	all ^ done
 DIFFERENT_STEMS_POS:	1
 
-
-RULENAME: N11
+RULENAME: N11 - Other bound morpheme, N or adj
 if
 INCLUDE:	|n,-* + |adj,-* + |n,#* + |adj,#* + |co,-*
 EXCLUDE:	-POSS + -PL + -Y
@@ -132,35 +106,19 @@ if
 POINT:	2
 INCLUDE:	|adj*,-Y
 
-RULENAME: V1
-ADD:	1 IF V4 = 1
-ADD:	2 IF V4 = 2
-ADD:	1 IF V7 = 1
-ADD:	2 IF V7 = 2
-ADD:	1 IF V10 = 1
-ADD:	2 IF V10 = 2
-ADD:	1 IF V12 = 1
-ADD:	2 IF V12 = 2
-ADD:	1 IF V16 = 1	% secondary
-ADD:	2 IF V16 = 2	% secondary
-if
-INCLUDE:	$V
-EXCLUDE:	look + stop
-DIFFERENT_STEMS:	1
-
-RULENAME: V2
+RULENAME: V2 - Preposition
 ADD:	1 IF V3 = 1
 ADD:	2 IF V3 = 2
 if
 INCLUDE:	|prep
 DIFFERENT_STEMS:	1
 
-RULENAME: V3
+RULENAME: V3 - Prep + N
 if
 INCLUDE:	|prep ^ $NP
 DIFFERENT_STEMS_POS:	1
 
-RULENAME: V4
+RULENAME: V4 - Copula linking two Ns
 ADD:	1 IF V151 = 1
 ADD:	2 IF V151 = 2
 ADD:	1 IF V16 = 1
@@ -173,22 +131,7 @@ if
 POINT:	2
 INCLUDE:	|*,~|cop
 
-RULENAME: V5
-ADD:	1 IF V6 = 1
-ADD:	2 IF V6 = 2
-ADD:	1 IF V9 = 1
-ADD:	2 IF V9 = 2
-ADD:	1 IF V11 = 1	% secondary 
-ADD:	2 IF V11 = 2	% secondary 
-ADD:	1 IF V13 = 1	% secondary 
-ADD:	2 IF V13 = 2	% secondary 
-ADD:	1 IF S8 = 1
-ADD:	2 IF S8 = 2
-if
-INCLUDE:	(|mod:aux ^ $V)
-DIFFERENT_STEMS:	>1
-
-RULENAME: V6
+RULENAME: V6 - Auxiliary BE, DO, HAVE
 ADD:	1 IF V13 = 1
 ADD:	2 IF V13 = 2
 ADD:	1 IF V152 = 1
@@ -200,12 +143,12 @@ if
 POINT:	2
 INCLUDE:	|mod,;do^~|neg
 
-RULENAME: V7
+RULENAME: V7 - Progressive -ing
 if
 INCLUDE:	|part,-PRESP
 DIFFERENT_STEMS:	1
 
-RULENAME: V8
+RULENAME: V8 - Adverb
 ADD:	1 IF N10 = 1
 ADD:	2 IF N10 = 2
 ADD:	1 IF V8 = 1
@@ -215,7 +158,7 @@ INCLUDE:	$ADV
 EXCLUDE:	(I ^ think ^ so) + here + there
 DIFFERENT_STEMS:	>1
 
-RULENAME: V9
+RULENAME: V9 - Modal + V
 ADD:	1 IF V11 = 1
 ADD:	2 IF V11 = 2
 ADD:	1 IF V153 = 1
@@ -225,109 +168,68 @@ INCLUDE:	|mod ^ $V
 EXCLUDE:	(I ^ think ^ so) + here + there
 DIFFERENT_STEMS:	1
 
-RULENAME: V10
+RULENAME: V10 - Third-person sing. pres.
 if
 INCLUDE:	|v,-3S 
 EXCLUDE:	does + says
 DIFFERENT_STEMS:	1
 
-RULENAME: V11
+RULENAME: V11 - Past tense modal
 if
 INCLUDE:	(|mod,;could + |mod,;might + |mod,;should + |mod,;will,&COND) ^ |*
 DIFFERENT_STEMS:	>1
 
-RULENAME: V12
+RULENAME: V12 - Regular past tense
 if
 INCLUDE:	|v,-PAST + |v,-PASTP
 DIFFERENT_STEMS:	1
 
-RULENAME: V13
+RULENAME: V13 - Past tense auxiliary
 if
 INCLUDE:	(|aux,-PAST) + (|aux,&PAST) + did + didn't
 EXCLUDE:	|aux,;get
 DIFFERENT_STEMS:	1
 
-RULENAME: V14
+RULENAME: V14 - Adverb + V
 if
 INCLUDE:	($ADV ^ $V) + ($ADV ^ |adj) + (right ^ (here + there)) + ($V ^ $ADV)
 EXCLUDE:	($b ^ $ADV) + ($ADV ^ $e) + (|adv,;all ^ |part,;do,&PASTP)
 DIFFERENT_STEMS_POS:	1
 
-RULENAME: V151    % copula
+RULENAME: V151 - Ellipsis with copula    % copula
 if
 INCLUDE:	($b ^ $NP ^ |cop ^ $e) + ($b ^ |* ^ $NP ^ |cop ^ $e)
 DIFFERENT_STEMS:	1
 
-RULENAME: V152    % auxiliary
+RULENAME: V152 - Ellipsis with auxiliary    % auxiliary
 if
 INCLUDE:	($b ^ $NP ^ |aux ^ $e) + ($b ^ |* ^ $NP ^ |aux ^ $e)
 DIFFERENT_STEMS:	1
 
-RULENAME: V153    % modal
+RULENAME: V153 - Ellipsis with modal    % modal
 if
 INCLUDE:	|mod ^ $e
 DIFFERENT_STEMS:	1
 
-RULENAME: V16
+RULENAME: V16 - Past tense copula
 if
 INCLUDE:	|cop,&PAST ^ *
 DIFFERENT_STEMS_POS:	2
 
-RULENAME: V17
+RULENAME: V17 - Other bound morpheme on V
 if
 INCLUDE:	#*,|v + -LY
 EXCLUDE:	hardly + really
 DIFFERENT_STEMS:	1
 
-RULENAME: Q1
-ADD:	1 IF Q4 = 1
-ADD:	2 IF Q4 = 2
-ADD:	1 IF Q8 = 1
-ADD:	2 IF Q8 = 2
-ADD:	1 IF Q9 = 1
-ADD:	2 IF Q9 = 2
-ADD:	1 IF Q10 = 1
-ADD:	2 IF Q10 = 2
-ADD:	1 IF Q6 = 1	% secondary
-ADD:	2 IF Q6 = 2	% secondary
-ADD:	1 IF Q11 = 1	% secondary
-ADD:	2 IF Q11 = 2	% secondary
-if
-% INCLUDE:	(* ^*^ ?)
-DIFFERENT_STEMS:	>1
-
-RULENAME: Q2
-ADD:	1 IF Q4 = 1
-ADD:	2 IF Q4 = 2
-ADD:	1 IF Q8 = 1
-ADD:	2 IF Q8 = 2
-ADD:	1 IF Q10 = 1
-ADD:	2 IF Q10 = 2
-ADD:	1 IF Q6 = 1	% secondary
-ADD:	2 IF Q6 = 2	% secondary
-ADD:	1 IF Q11 = 1	% secondary
-ADD:	2 IF Q11 = 2	% secondary
-if
-INCLUDE:	(why ^ ?) + (where ^*^ going ^ ?) + (what ^ this ^ ?) + (who ^ else ^ ?)
-DIFFERENT_STEMS:	>1
-
-RULENAME: Q3
+RULENAME: Q3 - Simple Negation
 ADD:	1 IF Q5 = 1
 ADD:	2 IF Q5 = 2
 if
 INCLUDE:	|neg,;not + |qn,;no
 DIFFERENT_STEMS:	>1
 
-RULENAME: Q4
-ADD:	1 IF Q6 = 1
-ADD:	2 IF Q6 = 2
-ADD:	1 IF Q11 = 1	% secondary
-ADD:	2 IF Q11 = 2	% secondary
-if
-INCLUDE:	$b ^ |pro:int ^*^ |v
-DIFFERENT_STEMS:	>1
-
-RULENAME: Q5
+RULENAME: Q5 - Neg. between subject + verb
 ADD:	1 IF Q7 = 1
 ADD:	2 IF Q7 = 2
 ADD:	1 IF Q11 = 1	% secondary
@@ -340,15 +242,7 @@ if
 POINT:	2
 INCLUDE:	I ^ don't ^ know
 
-RULENAME: Q6
-ADD:	1 IF Q11 = 1
-ADD:	2 IF Q11 = 2
-if
-INCLUDE:	(|pro:int ^ $AMC) + (|pro:int,~|*)
-EXCLUDE:	(how ^ are) + (what ^ is)
-DIFFERENT_STEMS:	>1
-
-RULENAME: Q7
+RULENAME: Q7 - Negation of aux/modal/copula
 ADD:	1 IF Q11 = 1
 ADD:	2 IF Q11 = 2
 if
@@ -359,50 +253,25 @@ if
 POINT:	2
 INCLUDE:	$NP ^ (don't + can't) ^ |v
 
-RULENAME: Q8
+RULENAME: Q8 - Yes/no Q w/ inverted aux/modal/copula
 ADD:	1 IF Q11 = 1
 ADD:	2 IF Q11 = 2
 if
 INCLUDE:	($b ^ $AMC ^ $NP) + ($b ^ |conj ^ $AMC ^ $NP) 
 DIFFERENT_STEMS:	>1
 
-RULENAME: Q9
+RULENAME: Q9 - Why, when, which, whose
 if
 INCLUDE:	$b ^ (|pro:int,;why + |pro:int,;when + |pro:int,;which + |pro:int,;whose)
 DIFFERENT_STEMS:	1
 
-RULENAME: Q10
-if
-INCLUDE:	|end,;end ^ *
-DIFFERENT_STEMS:	1
-
-RULENAME: Q11
+RULENAME: Q11 - Q w/ negation + inversion
 if
 INCLUDE:	(($b + ($b ^ |pro:int)) ^ $AMC ^ |neg ^ $N) + (($b + ($b ^ |pro:int)) ^ $AMC ^ ~|neg,;not ^ $NP)
 EXCLUDE:	|end,;end
 DIFFERENT_STEMS:	1
 
-RULENAME: S1
-ADD:	1 IF S2 = 1
-ADD:	2 IF S2 = 2
-ADD:	1 IF S3 = 1
-ADD:	2 IF S3 = 2
-ADD:	1 IF S6 = 1
-ADD:	2 IF S6 = 2
-ADD:	1 IF S7 = 1
-ADD:	2 IF S7 = 2
-if
-INCLUDE:	|* ^ |*
-DIFFERENT_STEMS:	1
-
-RULENAME: S2
-ADD:	1 IF S4 = 1
-ADD:	2 IF S4 = 2
-if
-INCLUDE:	0|SUBJ ^*^ |v
-DIFFERENT_STEMS:	1
-
-RULENAME: S3
+RULENAME: S3 - Verb-object
 ADD:	1 IF S4 = 1
 ADD:	2 IF S4 = 2
 ADD:	1 IF S14 = 1
@@ -411,12 +280,12 @@ if
 INCLUDE:	|v ^ $N
 DIFFERENT_STEMS:	1
 
-RULENAME: S4
+RULENAME: S4 - Subject-verb-object
 if
 INCLUDE:	$NP ^ |v ^ $NP
 DIFFERENT_STEMS:	1
 
-RULENAME: S5
+RULENAME: S5 - Conjunction (any)
 ADD:	1 IF S7 = 1
 ADD:	2 IF S7 = 2
 ADD:	1 IF S10 = 1
@@ -427,7 +296,7 @@ if
 INCLUDE:	|conj + |coord
 DIFFERENT_STEMS:	1
 
-RULENAME: S6
+RULENAME: S6 - Any two Vs
 ADD:	1 IF S8 = 1
 ADD:	2 IF S8 = 2
 ADD:	1 IF S9 = 1
@@ -450,26 +319,25 @@ if
 INCLUDE:	|v ^*^ |v
 DIFFERENT_STEMS:	1
 
-RULENAME: S7
+RULENAME: S7 - Conjoined phrases
 if
 INCLUDE:	|* ^ |coord ^ |*
 EXCLUDE:	$b ^ |coord ^ |*
 DIFFERENT_STEMS:	>1
 
-RULENAME: S8
+RULENAME: S8 - Infinitive
 ADD:	1 IF S17 = 1
 ADD:	2 IF S17 = 2
 if
 INCLUDE:	$V ^*^ |inf ^ |v
 EXCLUDE:	~|inf,;to
 
-
-RULENAME: S9
+RULENAME: S9 - Let/Make/Help/Watch
 if
 INCLUDE:	($b ^ (let + let's) ^*^ |v) + ($b ^ |adv:* ^ (let + let's) ^*^ |v) + ($b ^ (make + help + watch) ^ $NP)
 DIFFERENT_STEMS:	1
 
-RULENAME: S10
+RULENAME: S10 - Subordinating conj.
 ADD:	1 IF S13 = 1
 ADD:	2 IF S13 = 2
 if
@@ -477,25 +345,25 @@ INCLUDE:	|conj
 EXCLUDE:	$b ^ |conj
 DIFFERENT_STEMS:	>1
 
-RULENAME: S11
+RULENAME: S11 - Mental state V
 ADD:	1 IF S20 = 1
 ADD:	2 IF S20 = 2
 if
 INCLUDE:	($NP ^ (|v,;think + |v,;say) ^ that) + ($NP ^ (|v,;think + |v,;say) ^ $NP)
 DIFFERENT_STEMS:	1
 
-RULENAME: S12
+RULENAME: S12 - Conjoined clauses
 if
 INCLUDE:	0|CJCT
 DIFFERENT_STEMS:	1
 
-RULENAME: S13
+RULENAME: S13 - If or wh-clause
 if
 INCLUDE:	(if ^ $NP) + ($V ^ |pro:int)
 EXCLUDE:	($V ^ |pro:int,;what ^ $e)
 DIFFERENT_STEMS:	1
 
-RULENAME: S14
+RULENAME: S14 - Bitransitive predicate
 if
 INCLUDE:	0|OBJ2
 EXCLUDE:	|v,;give,~|pro:obj,;me
@@ -504,33 +372,33 @@ if
 POINT:	2	
 INCLUDE:	|v,;give,~|pro:obj,;me
 
-RULENAME: S15
+RULENAME: S15 - Three or more (nonaux) Vs
 if
 INCLUDE:	|v ^*^ |v ^*^ |v
 DIFFERENT_STEMS:	>1
 
-RULENAME: S16
+RULENAME: S16 - Relative clause
 if
 INCLUDE:	0|CMOD
 DIFFERENT_STEMS:	1
 
-RULENAME: S17
+RULENAME: S17 - Infinitive clause: new subject
 if
 INCLUDE:	($N + |pro:obj) ^ |inf ^ |v
 DIFFERENT_STEMS:	>1
 
-RULENAME: S18
+RULENAME: S18 - Gerund
 if
 INCLUDE:	|n:gerund
 DIFFERENT_STEMS:	1
 
-RULENAME: S19
+RULENAME: S19 - Fronted or center subord. clause
 if
 INCLUDE:	$b ^ |conj
 EXCLUDE:	$b ^ (|conj,;but + |conj,;because)
 DIFFERENT_STEMS:	1
 
-RULENAME: S20
+RULENAME: S20 - Passive
 if
 INCLUDE:	(|aux ^*^ |part,-PASTP ^*^ |prep,;by) + (|aux ^*^ |part,&PASTP ^*^ |prep,;by)
 DIFFERENT_STEMS:	1
