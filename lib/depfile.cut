@@ -1,4 +1,5 @@
 @UTF8
+@Window:	554_735_770_1024_-1_-1_1823_0_1823_0
 # Comments marker
 # Obligatory Headers
 @Begin
@@ -6,7 +7,7 @@
 @Participants:	Target\_Child Target\_Adult Child Mother Father Brother
 		Sister Sibling Grandfather Grandmother Relative
 		Participant Therapist Informant Subject Investigator Partner
-		Boy Girl Adult Teenager Male Female 
+		Boy Girl Adult Teenager Male Female
 		Visitor Friend Playmate Caretaker
 		Environment Group Unidentified Uncertain Other
 		Text Media PlayRole LENA
@@ -64,7 +65,7 @@
 	[# _*] [e]
 	[>*] [<*] [/] [//] [///] [/-] [/?] [^c] [^c _*]
 	&_* &{l=\% &}l=\% 0_* '_* /_* //_* ///_*
-	*@a *@b *@c *@d *@e *@f *@fp *@g *@i *@k *@l *@n *@nv *@o *@p
+	*@a *@b *@c *@d *@e *@f *@fp *@g *@i *@k *@l *@n *@o *@p
 	*@q *@s *@s:* *@s$* *@si *@sl *@sas *@t *@u *@wp *@x *@z:*
 	+@c +@f +@n +@s +@s:* +@si +@sl +@sas +@t +-_*
 
@@ -93,7 +94,7 @@
 %par:	* $* "*
 %pho:	* \** #* '* =* ^* <* > [/] [//] $* [\*] [+ *] /* @* &* |* [-UTD]
 %sin:	* $*
-%sit:	* $* "* '* - : = (* 
+%sit:	* $* "* '* - : = (*
 %spa:	* $*
 %tim:	@t<hh:mm:ss> @t<mm:ss> @t<hh:mm:ss-hh:mm:ss> @t<hh:mm-hh:mm> @t<ss>
 %trn:	* \** [UTD] +... +/. +!? +//. +/? +"/. +". +//? +..? +.
