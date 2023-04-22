@@ -1,4 +1,5 @@
 @UTF8
+@Window:	206_1430_867_1130_-1_-1_1750_0_1750_0
 # Comments marker
 # Obligatory Headers
 @Begin
@@ -12,7 +13,7 @@
 		Text Media PlayRole LENA
 		Justice Attorney Doctor Nurse Student Teacher
 		Host Guest Leader Member Narrator Speaker Audience
-@Options:	heritage IPA CA CA-Unicode multi bullets dummy
+@Options:	heritage IPA CA CA-Unicode multi bullets notarget dummy
 @ID:	@d<yy;> @d<yy;mm.> @d<yy;mm.dd>
 	@e<White> @e<Black> @e<Latino> @e<Asian> @e<Pacific> @e<Native> @e<Multiple>  @e<Unknown>
 	@s<WC> @s<UC> @s<MC> @s<LI>
@@ -63,7 +64,7 @@
 	[!] [!!] [=! _*] [= _*] [=? _*] [?] [: _*] [:: _*] [\*] [\* _*] [\% _*]
 	[# _*] [e]
 	[>*] [<*] [/] [//] [///] [/-] [/?] [^c] [^c _*]
-	&~* &+* &-* &\** &=* &{l=\% &}l=\% 0_* '_* /_* //_* ///_*
+	&{l=* &}l=* &{n=* &}n=* &~* &+* &-* &\** &=* &{l=\% &}l=\% 0_* '_* /_* //_* ///_*
 	*@a *@b *@c *@d *@e *@f *@fp *@g *@i *@k *@l *@lp *@n *@o *@p
 	*@q *@s *@s:* *@s$* *@si *@sl *@sas *@t *@u *@wp *@x *@z:*
 	+@c +@f +@n +@s +@s:* +@si +@sl +@sas +@t +-_*
