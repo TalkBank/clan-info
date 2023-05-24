@@ -9,7 +9,7 @@
 % $e means end of utterance, excluding utterance delimiter
 
 % The interpretation of the "^" operator inside a rule can be changed by
-% placing a single character in the first column of a line by itself before that rule.  
+% placing a single character in the first column of a line by itself before that rule.
 % For this function the ^ symbol means AND in any order
 % and the > symbol means AND in the specified order.
 % These declarations apply to all following rules until reversed.
@@ -36,14 +36,14 @@
 %     o$    erase preclitic element, if present
 
 %  postclitic AND preclitic use this particular syntax:
-%  find postclitics with specific morphosyntactic marker 
+%  find postclitics with specific morphosyntactic marker
 %  examples:    |*,~|*   (for any POS followed by clitic with any POS
-%  OR   ;*,~;*   (for any stem followed by clitic with any stem) 
+%  OR   ;*,~;*   (for any stem followed by clitic with any stem)
 %  find preclitic with specific morphosyntactic marker
 %  example:    |*,$|*   OR   ;*,$;*  (see above)
 
 % Each rule starts with "RULENAME". It may have one or more conditionals group designated with "if".
-% The "ADD" element is associated with "RULENAME" group only. 
+% The "ADD" element is associated with "RULENAME" group only.
 % All other elements are associated with conditional group "if" of each rule "RULENAME".
 % Conditional group can have only one "POINT", "INCLUDE", "EXCLUDE" or "DIFFERENT_STEMS".
 % Other elements can be listed once or more.  All listing on each of those elements are treated as an "AND".
@@ -98,7 +98,7 @@ DIFFERENT_STEMS:		>1
 RULENAME: N6 - Two-word NP after verb or prep
 if
 INCLUDE:	($V ^ $MOD ^ $N) + (|prep ^ $MOD ^ $N)
-DIFFERENT_STEMS:		>2
+DIFFERENT_STEMS:		>1
 
 RULENAME: N7 - Plural suffix
 if
@@ -108,12 +108,12 @@ DIFFERENT_STEMS:		1
 RULENAME: N8 - Two-word NP before verb
 if
 INCLUDE:	($MOD ^ $N ^ $V) + ($MOD ^ $N ^ |mod)
-DIFFERENT_STEMS:		>2
+DIFFERENT_STEMS:		>1
 
 RULENAME: N9 - Three-word NP
 if
 INCLUDE:	($MOD ^ $MOD ^ $N) + ($MOD ^ $MOD ^ $PRO)
-DIFFERENT_STEMS:		>2
+DIFFERENT_STEMS:		>1
 
 RULENAME: N10 - Adverb + head
 if
@@ -165,7 +165,7 @@ ADD:	1 IF V16 = 1
 ADD:	2 IF V16 = 2
 if
 INCLUDE:	($NP + |pro:dem) ^ |cop ^ ($NP + $MOD)
-EXCLUDE:	how ^ are ^ you ^ ?
+EXCLUDE:	(how ^ are ^ you ^ ?) + (|*,~|cop)
 DIFFERENT_STEMS:	>1
 if
 POINT:	2
@@ -176,10 +176,10 @@ ADD:	1 IF V6 = 1
 ADD:	2 IF V6 = 2
 ADD:	1 IF V9 = 1
 ADD:	2 IF V9 = 2
-ADD:	1 IF V11 = 1	% secondary 
-ADD:	2 IF V11 = 2	% secondary 
-ADD:	1 IF V13 = 1	% secondary 
-ADD:	2 IF V13 = 2	% secondary 
+ADD:	1 IF V11 = 1	% secondary
+ADD:	2 IF V11 = 2	% secondary
+ADD:	1 IF V13 = 1	% secondary
+ADD:	2 IF V13 = 2	% secondary
 ADD:	1 IF S8 = 1
 ADD:	2 IF S8 = 2
 if
@@ -225,7 +225,7 @@ DIFFERENT_STEMS:	1
 
 RULENAME: V10 - Third-person sing. pres.
 if
-INCLUDE:	|v,-3S 
+INCLUDE:	|v,-3S
 EXCLUDE:	does + says
 DIFFERENT_STEMS:	1
 
@@ -361,7 +361,7 @@ RULENAME: Q8 - Yes/no Q w/ inverted aux/modal/copula
 ADD:	1 IF Q11 = 1
 ADD:	2 IF Q11 = 2
 if
-INCLUDE:	($b ^ $AMC ^ $NP) + ($b ^ |conj ^ $AMC ^ $NP) 
+INCLUDE:	($b ^ $AMC ^ $NP) + ($b ^ |conj ^ $AMC ^ $NP)
 DIFFERENT_STEMS:	>1
 
 RULENAME: Q9 - Why, when, which, whose
@@ -406,12 +406,12 @@ ADD:	2 IF S4 = 2
 ADD:	1 IF S14 = 1
 ADD:	2 IF S14 = 2
 if
-INCLUDE:	|v ^ $N
+INCLUDE:	(|v ^ $NP) + (|aux^|part^$NP)
 DIFFERENT_STEMS:	1
 
 RULENAME: S4 - Subject-verb-object
 if
-INCLUDE:	$NP ^ |v ^ $NP
+INCLUDE:	($NP ^ |v ^ $NP) + (|aux^|part^$NP)
 DIFFERENT_STEMS:	1
 
 RULENAME: S5 - Conjunction (any)
@@ -498,7 +498,7 @@ INCLUDE:	0|OBJ2
 EXCLUDE:	|v,;give,~|pro:obj,;me
 DIFFERENT_STEMS:	1
 if
-POINT:	2	
+POINT:	2
 INCLUDE:	|v,;give,~|pro:obj,;me
 
 RULENAME: S15 - Three or more (nonaux) Vs
