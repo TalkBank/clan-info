@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="samples"
+      >
+  <Participants>
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+
+    />
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="eng"
+
+    />
+  </Participants>
+  <u who="MOT" uID="u0">
+    <w>what's<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>what</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor-post></mor></w>
+    <w>that<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="3" head="2" relation="PRED"/></mor></w>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="4" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u1">
+    <w>hat<mor type="mor"><mw><pos><c>n</c></pos><stem>hat</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="MOT" uID="u2">
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="1" head="2" relation="DET"/></mor></w>
+    <w>hat<mor type="mor"><mw><pos><c>n</c></pos><stem>hat</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w>
+    <t type="e"><mor type="mor"><mt type="e"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u3">
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="1" head="2" relation="DET"/></mor></w>
+    <w>hat<mor type="mor"><mw><pos><c>n</c></pos><stem>hat</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="MOT" uID="u4">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="3" relation="LINK"/></mor></w>
+    <w>what's<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>what</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor-post></mor></w>
+    <w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="4" head="3" relation="PRED"/></mor></w>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u5">
+    <w>that<mor type="mor"><mw><pos><c>pro</c><s>rel</s></pos><stem>that</stem></mw><gra type="gra" index="1" head="3" relation="LINK"/></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="2" head="3" relation="DET"/></mor></w>
+    <w>hat<mor type="mor"><mw><pos><c>n</c></pos><stem>hat</stem></mw><gra type="gra" index="3" head="0" relation="INCROOT"/></mor></w>
+    <t type="e"><mor type="mor"><mt type="e"/><gra type="gra" index="4" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="MOT" uID="u6">
+    <w>yes<mor type="mor"><mw><pos><c>co</c></pos><stem>yes</stem></mw><gra type="gra" index="1" head="3" relation="COM"/></mor></w>
+    <w>that's<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor-post></mor></w>
+    <w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="4" head="5" relation="DET"/></mor></w>
+    <w>hat<mor type="mor"><mw><pos><c>n</c></pos><stem>hat</stem></mw><gra type="gra" index="5" head="3" relation="PRED"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+</CHAT>

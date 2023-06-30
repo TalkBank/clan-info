@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="clip" Mediatypes="audio"
+      Window="224_1384_986_1048_-1_-1_543_0_543_0"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="samples"
+      >
+  <Participants>
+    <participant
+      id="MAR"
+    name="Mark"
+      role="Target_Child"
+      language="eng"
+
+    />
+    <participant
+      id="ROS"
+    name="Ross"
+      role="Target_Child"
+      language="eng"
+
+    />
+    <participant
+      id="MOT"
+    name="Mary"
+      role="Mother"
+      language="eng"
+
+    />
+    <participant
+      id="FAT"
+    name="Brian"
+      role="Father"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Situation">Breakfast table</comment>
+  <u who="FAT" uID="u0">
+    <w>and</w>
+    <g><w>what</w>
+    <w>do</w>
+    <w>you</w>
+    <w>mean</w><k type="retracing with correction"/></g>
+    <w>what</w>
+    <w>is</w>
+    <g><w>it</w><k type="retracing with correction"/></g>
+    <w>what</w>
+    <w>are</w>
+    <w>you</w>
+    <w>asking</w>
+    <w>for</w>
+    <t type="q"></t>
+    <media
+      start="0.000"
+      end="2.312"
+      unit="s"
+    />
+  </u>
+  <u who="ROS" uID="u1">
+    <g><w>alert</w><k type="stressing"/></g>
+    <w>alert</w>
+    <t type="e"></t>
+    <media
+      start="2.312"
+      end="3.715"
+      unit="s"
+    />
+  </u>
+  <u who="FAT" uID="u2">
+    <w>alert</w>
+    <w>means</w>
+    <w>like</w>
+    <w>it's</w>
+    <w>time</w>
+    <w>for</w>
+    <w>a</w>
+    <w>fire</w>
+    <w>alert</w>
+    <t type="p"></t>
+    <media
+      start="3.715"
+      end="6.937"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u3">
+    <w>well</w>
+    <g><w>let</w><k type="retracing"/></g>
+    <w>let</w>
+    <w>but</w>
+    <w>wait</w>
+    <w>let</w>
+    <w type="filler">uh</w>
+    <t type="p"></t>
+    <media
+      start="6.937"
+      end="8.218"
+      unit="s"
+    />
+  </u>
+  <u who="ROS" uID="u4">
+    <g><w>yeah</w><ga type="explanation">yes</ga></g>
+    <t type="p"></t>
+    <media
+      start="8.218"
+      end="8.773"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u5">
+    <w>Ross's</w>
+    <w>song</w>
+    <t type="p"></t>
+    <media
+      start="8.773"
+      end="9.538"
+      unit="s"
+    />
+  </u>
+  <u who="MAR" uID="u6">
+    <w>no</w>
+    <w>I</w>
+    <w>want</w>
+    <w>you</w>
+    <t type="trail off"></t>
+    <media
+      start="9.538"
+      end="10.242"
+      unit="s"
+    />
+  </u>
+</CHAT>

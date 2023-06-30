@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="mytheory" Mediatypes="video"
+      PID="11312/t-00001784-1"
+      Window="224_1384_986_1048_-1_-1_2189_0_2189_0"
+      Version="2.20.0"
+      Lang="eng"
+      Options="CA"
+      Corpus="CogInst"
+      >
+  <Participants>
+    <participant
+      id="BET"
+    name="Betty"
+      role="Student"
+      language="eng"
+
+    />
+    <participant
+      id="NOR"
+    name="Norman"
+      role="Student"
+      language="eng"
+
+    />
+    <participant
+      id="COA"
+    name="Coach"
+      role="Teacher"
+      language="eng"
+
+    />
+    <participant
+      id="MAR"
+    name="Maria"
+      role="Student"
+      language="eng"
+
+    />
+    <participant
+      id="LIL"
+    name="Lill"
+      role="Student"
+      language="eng"
+
+    />
+    <participant
+      id="UNK"
+      role="Unidentified"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Transcriber">Tim Koschmann</comment>
+  <comment type="Generic">6 minute fragment of tutor-group discssion</comment>
+  <u who="BET" uID="u0">
+    <w>See</w>
+    <w>what</w>
+    <w>it</w>
+    <w>said</w>
+    <w>in</w>
+    <w>here</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <underline type="begin"/>
+    <w>my<underline type="end"/></w>
+    <w>theory</w>
+    <w>hhh</w>
+    <s type="level"/>
+    <internal-media
+      start="0.000"
+      end="2.925"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.4"/>
+    <internal-media
+      start="2.925"
+      end="3.657"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="UNK" uID="u1">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <underline type="begin"/>
+    <w>khu<underline type="end"/></w>
+    <w><ca-element type="inhalation"/>hhh</w>
+    <s type="level"/>
+    <internal-media
+      start="3.657"
+      end="4.105"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="BET" uID="u2">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>about</w>
+    <w>this</w>
+    <w>amnesic</w>
+    <pause symbolic-length="simple"/>
+    <w>dysnomic</w>
+    <w>aphasia</w>
+    <tagMarker type="comma"></tagMarker>
+    <internal-media
+      start="3.657"
+      end="6.312"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.3"/>
+    <internal-media
+      start="6.312"
+      end="7.070"
+      unit="s"
+    />
+    <w>u<p type="drawl"/>hm</w>
+    <w><shortening>it</shortening></w>
+    <w>says</w>
+    <w>the</w>
+    <w>c<underline type="begin"/>au<underline type="end"/>se</w>
+    <w>of</w>
+    <w>lesion</w>
+    <w>is</w>
+    <w>usually</w>
+    <w>deep</w>
+    <w>in</w>
+    <internal-media
+      start="7.070"
+      end="9.147"
+      unit="s"
+    />
+    <w>temporal</w>
+    <w>lobe</w>
+    <w>just</w>
+    <w>like</w>
+    <w>Kathy</w>
+    <w>was</w>
+    <w>saying</w>
+    <w><ca-element type="pitch up"/>presumably</w>
+    <internal-media
+      start="9.147"
+      end="10.682"
+      unit="s"
+    />
+    <w>interrupting</w>
+    <w>connections</w>
+    <w>of</w>
+    <w>s<underline type="begin"/>e<underline type="end"/>nsory</w>
+    <w>speech</w>
+    <w>areas</w>
+    <w>with</w>
+    <w>the</w>
+    <internal-media
+      start="10.682"
+      end="13.565"
+      unit="s"
+    />
+    <w>h<underline type="begin"/>i<underline type="end"/>ppocampal</w>
+    <w>and</w>
+    <underline type="begin"/>
+    <w>par<underline type="end"/>ahippocampal</w>
+    <w>regions</w>
+    <s type="level"/>
+    <internal-media
+      start="13.565"
+      end="15.487"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.6"/>
+    <internal-media
+      start="15.487"
+      end="16.167"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="BET" uID="u3">
+    <w>and</w>
+    <w>I</w>
+    <w>th<underline type="begin"/>ink<underline type="end"/></w>
+    <w>the</w>
+    <underline type="begin"/>
+    <w>hip<underline type="end"/>pocampus</w>
+    <w>is</w>
+    <w>like</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>more</w>
+    <underline type="begin"/>
+    <w>me<underline type="end"/>dial</w>
+    <w>so</w>
+    <w>if</w>
+    <internal-media
+      start="16.167"
+      end="19.230"
+      unit="s"
+    />
+    <w>it</w>
+    <w>was</w>
+    <w>affecting</w>
+    <w>th<underline type="begin"/>at<underline type="end"/></w>
+    <w>area</w>
+    <w><shortening>it</shortening></w>
+    <w>m<underline type="begin"/>i<underline type="end"/>ght</w>
+    <w>be</w>
+    <w>the</w>
+    <internal-media
+      start="19.230"
+      end="21.205"
+      unit="s"
+    />
+    <w>ant<overlap-point start-end="start" top-bottom="top"/>erior</w>
+    <w>cerebral</w>
+    <w>circulation</w>
+    <s type="level"/>
+    <internal-media
+      start="21.205"
+      end="22.867"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="NOR" uID="u4">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>Anterior</w>
+    <s type="level"/>
+    <internal-media
+      start="21.367"
+      end="22.012"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="COA" uID="u5">
+    <w>Where</w>
+    <underline type="begin"/>
+    <w>is<underline type="end"/></w>
+    <w>the</w>
+    <w>hippocampus</w>
+    <s type="level"/>
+    <internal-media
+      start="23.212"
+      end="24.462"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.5"/>
+    <internal-media
+      start="24.462"
+      end="24.987"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="BET" uID="u6">
+    <w>I</w>
+    <w>don<shortening>t</shortening></w>
+    <w>do</w>
+    <w>we</w>
+    <w>have</w>
+    <w>a</w>
+    <w>picture</w>
+    <w>up</w>
+    <w>there</w>
+    <s type="level"/>
+    <internal-media
+      start="24.987"
+      end="26.522"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="BET" uID="u7">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>on</w>
+    <w>the</w>
+    <s type="level"/>
+    <internal-media
+      start="26.522"
+      end="27.113"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="NOR" uID="u8">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>It's</w>
+    <w>right</w>
+    <w><ca-element type="pitch down"/>down</w>
+    <w>there</w>
+    <s type="level"/>
+    <internal-media
+      start="26.522"
+      end="27.200"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+    <a type="gesture">pointing with hand toward atlas from seat.</a>
+  </u>
+  <u who="NOR" uID="u9">
+    <w>it's</w>
+    <w>the</w>
+    <w>bottom</w>
+    <w>of</w>
+    <w>th<underline type="begin"/>is<underline type="end"/></w>
+    <w>thing</w>
+    <s type="level"/>
+    <internal-media
+      start="27.598"
+      end="29.107"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="2.4"/>
+    <internal-media
+      start="29.107"
+      end="30.993"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+    <a type="gesture">rises from chair and moves toward flipchart <media
+      start="29.107"
+      end="31.093"
+      unit="s"
+    /></a>
+  </u>
+  <u who="NOR" uID="u10">
+    <w>'ts</w>
+    <w>right</w>
+    <w>in</w>
+    <w>h<underline type="begin"/>e<underline type="end"/>re</w>
+    <t type="p"></t>
+    <media
+      start="31.273"
+      end="31.316"
+      unit="s"
+    />
+    <a type="gesture">Places forefinger of R hand on chart and twice traces the lower edge of a structure in the sagital section,</a>
+  </u>
+  <u who="NOR" uID="u11">
+    <w>rightmost</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>second</w>
+    <w>row</w>
+    <s type="level"/>
+    <internal-media
+      start="31.306"
+      end="32.925"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.8"/>
+    <internal-media
+      start="32.925"
+      end="33.663"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="UNK" uID="u12">
+    <w>Its</w>
+    <w>un<overlap-point start-end="start" top-bottom="top"/>der</w>
+    <s type="level"/>
+    <internal-media
+      start="33.663"
+      end="35.653"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="MAR" uID="u13">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>think</w>
+    <w>it's</w>
+    <underline type="begin"/>
+    <w>un<underline type="end"/><p type="drawl"/>der</w>
+    <t type="p"></t>
+    <media
+      start="33.663"
+      end="35.653"
+      unit="s"
+    />
+    <a type="gesture">Norman returns to seat</a>
+  </u>
+  <u who="NOR" uID="u14">
+    <w>It's</w>
+    <w>under</w>
+    <w>that<ca-element type="pitch down"/></w>
+    <internal-media
+      start="34.663"
+      end="35.765"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="MAR" uID="u15">
+    <linker type="other completion"/>
+    <w>I</w>
+    <underline type="begin"/>
+    <w>think<underline type="end"/></w>
+    <w>it's</w>
+    <w>on</w>
+    <w>the</w>
+    <underline type="begin"/>
+    <w>in<underline type="end"/>side</w>
+    <s type="level"/>
+    <internal-media
+      start="35.765"
+      end="37.228"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="COA" uID="u16">
+    <w>It's</w>
+    <w>on</w>
+    <w>the</w>
+    <w>m<underline type="begin"/>i<underline type="end"/>ddle</w>
+    <tagMarker type="comma"></tagMarker>
+    <internal-media
+      start="37.228"
+      end="38.360"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.3"/>
+    <internal-media
+      start="38.360"
+      end="39.091"
+      unit="s"
+    />
+    <w>m<underline type="begin"/>i<underline type="end"/>ddle</w>
+    <w>t<underline type="begin"/>o<underline type="end"/>p</w>
+    <s type="level"/>
+    <internal-media
+      start="39.091"
+      end="39.275"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.4"/>
+    <internal-media
+      start="39.275"
+      end="39.776"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="MAR" uID="u17">
+    <w type="fragment">sts</w>
+    <w type="fragment">lk</w>
+    <s type="level"/>
+    <internal-media
+      start="39.776"
+      end="40.455"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="MAR" uID="u18">
+    <w>if</w>
+    <w>you</w>
+    <w>lift</w>
+    <w>up</w>
+    <t type="interruption"></t>
+    <media
+      start="40.455"
+      end="40.738"
+      unit="s"
+    />
+    <a type="gesture">brings R hand in front of face with palm down and fingersloosely cletched</a>
+  </u>
+  <u who="MAR" uID="u19">
+    <w>that</w>
+    <w>little</w>
+    <w>temporal</w>
+    <w>lobe</w>
+    <t type="interruption"></t>
+    <media
+      start="40.738"
+      end="42.551"
+      unit="s"
+    />
+    <a type="gesture">lifts R hand above head while executing a pinching movement with thumb and forefinger.</a>
+  </u>
+  <u who="MAR" uID="u20">
+    <w>it's</w>
+    <w>on</w>
+    <w>the</w>
+    <s type="level"/>
+    <internal-media
+      start="42.551"
+      end="43.300"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+    <a type="gesture">lowers hand away from head.</a>
+  </u>
+  <u who="MAR" uID="u21">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>inside</w>
+    <s type="level"/>
+    <internal-media
+      start="43.300"
+      end="43.715"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="COA" uID="u22">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>You</w>
+    <w>can</w>
+    <w>you</w>
+    <w>can</w>
+    <w>point</w>
+    <w>to</w>
+    <w>it</w>
+    <w><ca-element type="inhalation"/>on</w>
+    <w>the</w>
+    <w>middle</w>
+    <w>t<underline type="begin"/>o<underline type="end"/>p</w>
+    <t type="p"></t>
+    <media
+      start="43.400"
+      end="44.913"
+      unit="s"
+    />
+    <a type="gesture">Points with R hand from seat toward transverse section, (middle view, top row).</a>
+  </u>
+  <u who="MAR" uID="u23">
+    <pause symbolic-length="simple" length="0.9"/>
+    <s type="level"/>
+    <internal-media
+      start="44.900"
+      end="45.200"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="MAR" uID="u24">
+    <w>Middle</w>
+    <w>top</w>
+    <s type="rising to mid"/>
+    <internal-media
+      start="45.200"
+      end="46.613"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="LIL" uID="u25">
+    <e><action/></e>
+    <internal-media
+      start="45.500"
+      end="46.500"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+    <a type="gesture">Lill points toward top of chart from her chair and withdraws point.</a>
+  </u>
+  <u who="MAR" uID="u26">
+    <e><action/></e>
+    <internal-media
+      start="48.800"
+      end="53.000"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+    <a type="gesture">Maria points to chart</a>
+  </u>
+  <u who="LIL" uID="u27">
+    <e><action/></e>
+    <internal-media
+      start="50.600"
+      end="56.613"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+    <a type="gesture">Lill reaches to the chart and runs forefinger of R hand three times along a structure (7.0)</a>
+  </u>
+  <u who="COA" uID="u28">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>That's</w>
+    <w>it</w>
+    <s type="level"/>
+    <internal-media
+      start="53.053"
+      end="53.723"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="NOR" uID="u29">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>Yeah</w>
+    <s type="level"/>
+    <internal-media
+      start="53.053"
+      end="53.723"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="MAR" uID="u30">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>ye<p type="drawl"/>a<p type="drawl"/>h</w>
+    <s type="level"/>
+    <internal-media
+      start="54.123"
+      end="54.248"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="COA" uID="u31">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <underline type="begin"/>
+    <w>tha<underline type="end"/><p type="drawl"/>t's</w>
+    <w>the</w>
+    <w>hippoc<underline type="begin"/>a<underline type="end"/>mpus</w>
+    <s type="level"/>
+    <internal-media
+      start="54.123"
+      end="55.381"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.8"/>
+    <internal-media
+      start="55.381"
+      end="56.313"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+  <u who="COA" uID="u32">
+    <w>then</w>
+    <w>you</w>
+    <w>go</w>
+    <w>over</w>
+    <w>one</w>
+    <w>more</w>
+    <w>g<underline type="begin"/>y<underline type="end"/>rus</w>
+    <internal-media
+      start="56.313"
+      end="57.128"
+      unit="s"
+    />
+    <w>and</w>
+    <w>then</w>
+    <w>you're</w>
+    <w>in</w>
+    <w>the</w>
+    <underline type="begin"/>
+    <w>tem<underline type="end"/>poral</w>
+    <w>lobe</w>
+    <s type="level"/>
+    <internal-media
+      start="57.128"
+      end="58.220"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="0.4"/>
+    <internal-media
+      start="58.220"
+      end="58.553"
+      unit="s"
+    />
+    <t type="missing CA terminator"></t>
+
+  </u>
+</CHAT>

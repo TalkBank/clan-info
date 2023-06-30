@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="Eval"
+      Date="2012-07-10"
+      >
+  <Participants>
+    <participant
+      id="PAR"
+    name="eval_demo02b"
+      role="Participant"
+      language="eng"
+      age="P65Y11M"
+      sex="male"
+      group="Anomic"
+
+    />
+    <participant
+      id="INV"
+      role="Investigator"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Date">10-JUL-2012</comment>
+  <lazy-gem label="Umbrella"/>
+  <comment type="Time Duration">00:00:46</comment>
+  <u who="PAR" uID="u0">
+    <w>well<mor type="mor"><mw><pos><c>co</c></pos><stem>well</stem></mw><gra type="gra" index="1" head="5" relation="COM"/></mor></w>
+    <g><w>the</w>
+    <w>boy</w>
+    <w>is</w>
+    <w>having</w>
+    <w>some</w><k type="retracing with correction"/></g>
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="2" head="5" relation="SUBJ"/></mor></w>
+    <w>doesn't<mor type="mor"><mw><pos><c>mod</c></pos><stem>do</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="3" head="5" relation="AUX"/><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw><gra type="gra" index="4" head="3" relation="NEG"/></mor-post></mor></w>
+    <w>think<mor type="mor"><mw><pos><c>v</c></pos><stem>think</stem></mw><gra type="gra" index="5" head="0" relation="ROOT"/></mor></w>
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="6" head="7" relation="SUBJ"/></mor></w>
+    <w>needs<mor type="mor"><mw><pos><c>v</c></pos><stem>need</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="7" head="5" relation="COMP"/></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="8" head="9" relation="DET"/></mor></w>
+    <w>umbrella<mor type="mor"><mw><pos><c>n</c></pos><stem>umbrella</stem></mw><gra type="gra" index="9" head="7" relation="OBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="10" head="5" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u1">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="4" relation="LINK"/></mor></w>
+    <g><w>her</w><error/><k type="retracing with correction"/></g>
+    <w>his<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>his</stem></mw><gra type="gra" index="2" head="3" relation="MOD"/></mor></w>
+    <w>mom<mor type="mor"><mw><pos><c>n</c></pos><stem>mom</stem></mw><gra type="gra" index="3" head="4" relation="SUBJ"/></mor></w>
+    <w>thinks<mor type="mor"><mw><pos><c>v</c></pos><stem>think</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="4" head="0" relation="ROOT"/></mor></w>
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="5" head="6" relation="SUBJ"/></mor></w>
+    <w>does<mor type="mor"><mw><pos><c>v</c></pos><stem>do</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="6" head="4" relation="COMP"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="7" head="4" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u2">
+    <w>but<mor type="mor"><mw><pos><c>conj</c></pos><stem>but</stem></mw><gra type="gra" index="1" head="4" relation="LINK"/></mor></w>
+    <g><w>he's</w>
+    <w>going</w>
+    <w>to</w>
+    <w>take</w>
+    <w>on</w><k type="retracing with correction"/></g>
+    <g><w>take</w><k type="retracing with correction"/></g>
+    <w>he's<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="2" head="4" relation="SUBJ"/><mor-post><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="3" head="4" relation="AUX"/></mor-post></mor></w>
+    <w>going<mor type="mor"><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfx">PRESP</mk></mw><gra type="gra" index="4" head="0" relation="ROOT"/></mor></w>
+    <w>to<mor type="mor"><mw><pos><c>inf</c></pos><stem>to</stem></mw><gra type="gra" index="5" head="6" relation="INF"/></mor></w>
+    <w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="6" head="4" relation="XCOMP"/></mor></w>
+    <w>outside<mor type="mor"><mw><pos><c>adv</c></pos><stem>outside</stem></mw><gra type="gra" index="7" head="6" relation="JCT"/></mor></w>
+    <g><w>and</w><k type="retracing with correction"/></g>
+    <w>without<mor type="mor"><mw><pos><c>prep</c></pos><stem>without</stem></mw><gra type="gra" index="8" head="6" relation="JCT"/></mor></w>
+    <w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="9" head="10" relation="DET"/></mor></w>
+    <w>umbrella<mor type="mor"><mw><pos><c>n</c></pos><stem>umbrella</stem></mw><gra type="gra" index="10" head="8" relation="POBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="11" head="4" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u3">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="3" relation="LINK"/></mor></w>
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/></mor></w>
+    <w>goes<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <w>outside<mor type="mor"><mw><pos><c>adv</c></pos><stem>outside</stem></mw><gra type="gra" index="4" head="3" relation="JCT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u4">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="3" relation="LINK"/></mor></w>
+    <w>it's<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor-post></mor></w>
+    <w>rain<mor type="mor"><mw><pos><c>n</c></pos><stem>rain</stem></mw><gra type="gra" index="4" head="3" relation="PRED"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+    <postcode>*</postcode>
+
+  </u>
+  <u who="PAR" uID="u5">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="4" relation="LINK"/></mor></w>
+    <w>it's<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="2" head="4" relation="SUBJ"/><mor-post><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="3" head="4" relation="AUX"/></mor-post></mor></w>
+    <w>raining<mor type="mor"><mw><pos><c>part</c></pos><stem>rain</stem><mk type="sfx">PRESP</mk></mw><gra type="gra" index="4" head="0" relation="ROOT"/></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="5" head="7" relation="DET"/></mor></w>
+    <w>little<mor type="mor"><mw><pos><c>adj</c></pos><stem>little</stem></mw><gra type="gra" index="6" head="7" relation="MOD"/></mor></w>
+    <w>bit<mor type="mor"><mw><pos><c>n</c></pos><stem>bit</stem></mw><gra type="gra" index="7" head="4" relation="OBJ"/></mor></w>
+    <w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="8" head="7" relation="OBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="9" head="4" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u6">
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w>
+    <w>goes<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w>
+    <w>back<mor type="mor"><mw><pos><c>adv</c></pos><stem>back</stem></mw><gra type="gra" index="3" head="2" relation="JCT"/></mor></w>
+    <w>inside<mor type="mor"><mw><pos><c>adv</c></pos><stem>inside</stem></mw><gra type="gra" index="4" head="2" relation="JCT"/></mor></w>
+    <w>to<mor type="mor"><mw><pos><c>prep</c></pos><stem>to</stem></mw><gra type="gra" index="5" head="2" relation="JCT"/></mor></w>
+    <w>his<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>his</stem></mw><gra type="gra" index="6" head="7" relation="MOD"/></mor></w>
+    <w>mom<mor type="mor"><mw><pos><c>n</c></pos><stem>mom</stem></mw><gra type="gra" index="7" head="5" relation="POBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="8" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u7">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="3" relation="LINK"/></mor></w>
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/></mor></w>
+    <w>knows<mor type="mor"><mw><pos><c>v</c></pos><stem>know</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <g><w>he</w>
+    <w>doesn't</w><k type="retracing with correction"/></g>
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="4" head="7" relation="SUBJ"/></mor></w>
+    <w>didn't<mor type="mor"><mw><pos><c>mod</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw><gra type="gra" index="5" head="7" relation="AUX"/><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw><gra type="gra" index="6" head="5" relation="NEG"/></mor-post></mor></w>
+    <w>have<mor type="mor"><mw><pos><c>v</c></pos><stem>have</stem></mw><gra type="gra" index="7" head="3" relation="COMP"/></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="8" head="9" relation="DET"/></mor></w>
+    <g><w formType="neologism">burla<mor type="mor"><mw><pos><c>neo</c></pos><stem>burla</stem></mw><gra type="gra" index="9" head="7" relation="OBJ"/></mor></w><error/></g>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="10" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u8">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="5" relation="LINK"/></mor></w>
+    <w>so<mor type="mor"><mw><pos><c>co</c></pos><stem>so</stem></mw><gra type="gra" index="2" head="5" relation="COM"/></mor></w>
+    <g><w>his</w><k type="retracing"/></g>
+    <w>his<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>his</stem></mw><gra type="gra" index="3" head="4" relation="MOD"/></mor></w>
+    <w>mom<mor type="mor"><mw><pos><c>n</c></pos><stem>mom</stem></mw><gra type="gra" index="4" head="5" relation="SUBJ"/></mor></w>
+    <w>hands<mor type="mor"><mw><pos><c>v</c></pos><stem>hand</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="5" head="0" relation="ROOT"/></mor></w>
+    <w>him<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>him</stem></mw><gra type="gra" index="6" head="5" relation="OBJ"/></mor></w>
+    <w>one<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>one</stem></mw><gra type="gra" index="7" head="5" relation="OBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="8" head="5" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u9">
+    <w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="4" relation="LINK"/></mor></w>
+    <w>then<mor type="mor"><mw><pos><c>adv</c><s>tem</s></pos><stem>then</stem></mw><gra type="gra" index="2" head="4" relation="JCT"/></mor></w>
+    <w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="3" head="4" relation="SUBJ"/></mor></w>
+    <w>goes<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="4" head="0" relation="ROOT"/></mor></w>
+    <w>outside<mor type="mor"><mw><pos><c>adv</c></pos><stem>outside</stem></mw><gra type="gra" index="5" head="4" relation="JCT"/></mor></w>
+    <w>with<mor type="mor"><mw><pos><c>prep</c></pos><stem>with</stem></mw><gra type="gra" index="6" head="4" relation="JCT"/></mor></w>
+    <w>his<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>his</stem></mw><gra type="gra" index="7" head="8" relation="MOD"/></mor></w>
+    <w>umbrella<mor type="mor"><mw><pos><c>n</c></pos><stem>umbrella</stem></mw><gra type="gra" index="8" head="6" relation="POBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="9" head="4" relation="PUNCT"/></mor></t>
+
+  </u>
+</CHAT>

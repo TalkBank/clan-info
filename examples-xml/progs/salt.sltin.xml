@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Window="224_1384_986_1048_-1_-1_2293_0_2293_0"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="change_me_later"
+      Date="1985-06-05"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="eng"
+      age="P7Y10M"
+
+      birthday="1977-07-15"
+
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Date">05-JUN-1985</comment>
+  <comment type="Generic">ID=LD121</comment>
+  <comment type="Generic">Environment is child's home</comment>
+  <comment type="Time Start">00:00</comment>
+  <u who="CHI" uID="u0">
+    <w>what</w>
+    <w>are</w>
+    <w>we</w>
+    <w>gonna</w>
+    <w>do</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="MOT" uID="u1">
+    <w>you</w>
+    <w>can</w>
+    <w>play</w>
+    <w>with</w>
+    <w>any</w>
+    <w>toy</w>
+    <w>you</w>
+    <w>want</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u2">
+    <w>I</w>
+    <w>want</w>
+    <w>the</w>
+    <w>truck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u3">
+    <w>I</w>
+    <w>want</w>
+    <w>the</w>
+    <w>red</w>
+    <w>truck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u4">
+    <w>push</w>
+    <w>the</w>
+    <w>truck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u5">
+    <w>uhoh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>truck</w>
+    <w>turned</w>
+    <w>over</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u6">
+    <w>I</w>
+    <w>want</w>
+    <w>a</w>
+    <w>drink</w>
+    <t type="p"></t>
+
+    <a type="comments">Mother and child leave the room to get a drink</a>
+  </u>
+  <u who="MOT" uID="u7">
+    <w>are</w>
+    <w>you</w>
+    <w>done</w>
+    <w>with</w>
+    <w>the</w>
+    <w>truck</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u8">
+    <g><w>yeah</w><ga type="comments">response</ga></g>
+    <t type="p"></t>
+
+    <a type="comments">Child's response to a question</a>
+    <a type="SALT">response</a>
+  </u>
+  <comment type="Generic">little brother cries</comment>
+  <u who="MOT" uID="u9">
+    <w>wait</w>
+    <w>nickey</w>
+    <w>hold</w>
+    <w>on</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u10">
+    <pause symbolic-length="simple" length="63"/>
+    <w>sorry</w>
+    <w>about</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u11">
+    <w>we</w>
+    <w>drive</w>
+    <w>a</w>
+    <w>car</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u12">
+    <pause symbolic-length="simple" length="8"/>
+    <w>we</w>
+    <w>don't</w>
+    <w>play</w>
+    <w>with</w>
+    <w>those</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u13">
+    <w>nickey</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>movie</w>
+    <w>did</w>
+    <w>you</w>
+    <w>go</w>
+    <w>see</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u14">
+    <w>it</w>
+    <w>was</w>
+    <w>called</w>
+    <g><w type="filler">um</w>
+    <pause symbolic-length="simple" length="5"/><k type="retracing unclear"/></g>
+    <w>ghost</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="CHI" uID="u15">
+    <w>called</w>
+    <g><w type="filler">um</w>
+    <pause symbolic-length="simple" length="0.5"/><k type="retracing unclear"/></g>
+    <w>ghostbusters</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u16">
+    <w>it</w>
+    <w>was</w>
+    <w>called</w>
+    <g><w type="filler">um</w>
+    <pause symbolic-length="simple"/><k type="retracing unclear"/></g>
+    <w>ghostbusters</w>
+    <t type="p"></t>
+
+    <a type="comments">Mother looking out the window, Mother picks up the trucks, Mother looks at the books</a>
+  </u>
+  <u who="MOT" uID="u17">
+    <w>show</w>
+    <w>me</w>
+    <w>the</w>
+    <w>book</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u18">
+    <g><w>there</w><ga type="comments">pointing to the tv</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u19">
+    <w>that's</w>
+    <w>a</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="trail off"></t>
+
+    <a type="comments">abandoned utterance</a>
+  </u>
+  <u who="CHI" uID="u20">
+    <w>it</w>
+    <w>was</w>
+    <w>a</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="interruption"></t>
+
+    <a type="comments">interrupted utterance</a>
+  </u>
+  <u who="MOT" uID="u21">
+    <w>what</w>
+    <w>is</w>
+    <w>it</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u22">
+    <w>me</w>
+    <g><w>go</w><ga type="comments">ev</ga></g>
+    <g><w>up</w><ga type="comments">op-sp</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">EV = Early aquired verb, OP-SP = Object pronoun used for subject</comment>
+  <u who="CHI" uID="u23">
+    <g><w>I</w>
+    <w>want</w><k type="retracing unclear"/></g>
+    <w>I</w>
+    <w>want</w>
+    <w>a</w>
+    <w type="filler">um</w>
+    <w>that</w>
+    <w>one</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u24">
+    <w>no</w>
+    <w>the</w>
+    <g><w><ca-delimiter type="begin" label="repeated-segment"/>gre<ca-delimiter type="end" label="repeated-segment"/>gre<shortening>en</shortening></w><k type="retracing"/></g>
+    <w>red</w>
+    <w>one</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="MOT" uID="u25">
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <g><w>the</w>
+    <w>red</w>
+    <w>truck</w><overlap type="overlap follows"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u26">
+    <g><w>no</w><overlap type="overlap precedes"/></g>
+    <w>I</w>
+    <w>want</w>
+    <w>that</w>
+    <w>one</w>
+    <t type="e"></t>
+
+  </u>
+  <u who="CHI" uID="u27">
+    <w>that</w>
+    <w>is</w>
+    <w>like</w>
+    <w>dad's</w>
+    <w>and</w>
+    <w>the</w>
+    <w>yours</w>
+    <t type="p"></t>
+
+    <a type="comments">pointing to the truck</a>
+  </u>
+  <u who="CHI" uID="u28">
+    <w>those</w>
+    <w>are</w>
+    <w>the</w>
+    <w>babies</w>
+    <w>and</w>
+    <w>the</w>
+    <w>houses</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u29">
+    <w>but</w>
+    <w>those</w>
+    <w>are</w>
+    <w>the</w>
+    <w>babies'z</w>
+    <w>toys</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u30">
+    <w>so</w>
+    <w>the</w>
+    <w>bird</w>
+    <w>goes</w>
+    <w>and</w>
+    <w>tells</w>
+    <w>the</w>
+    <w>cat</w>
+    <w>to</w>
+    <w>go</w>
+    <w>home</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u31">
+    <w>the</w>
+    <w>cat</w>
+    <w>loved</w>
+    <w>the</w>
+    <w>bird</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u32">
+    <w>but</w>
+    <w>the</w>
+    <w>bird</w>
+    <g><w>went</w><ga type="comments">goed</ga></g>
+    <w>because</w>
+    <w>man</w>
+    <w>was</w>
+    <w>leaving</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u33">
+    <w>I'm</w>
+    <w>tired</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u34">
+    <w>you're</w>
+    <w>tired</w>
+    <w>because</w>
+    <w>it's</w>
+    <w>late</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u35">
+    <w>you'll</w>
+    <w>have</w>
+    <w>to</w>
+    <w>go</w>
+    <w>because</w>
+    <w>they've</w>
+    <w>maked</w>
+    <w>dinner</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u36">
+    <w>they're</w>
+    <w>really</w>
+    <w>nice</w>
+    <w>because</w>
+    <w>they</w>
+    <g><w>goed</w><ga type="comments">went</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u37">
+    <w>the</w>
+    <w>cat</w>
+    <w>doesn't</w>
+    <w>like</w>
+    <w>the</w>
+    <w>food</w>
+    <w>so</w>
+    <w>it</w>
+    <g><w>won't</w><ga type="comments">willn't</ga></g>
+    <w>eat</w>
+    <w>but</w>
+    <w>it</w>
+    <w>can't</w>
+    <w>go</w>
+    <w>hungry</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u38">
+    <w>where's</w>
+    <w>he</w>
+    <w>going</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u39">
+    <w>he</w>
+    <w type="omission">is</w>
+    <w>going</w>
+    <w>home</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u40">
+    <w>where</w>
+    <w>does</w>
+    <w>the</w>
+    <w>boy</w>
+    <w>go</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u41">
+    <w>boy</w>
+    <w>goes</w>
+    <w>here</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="MOT" uID="u42">
+    <w>do</w>
+    <w>you</w>
+    <w>want</w>
+    <w>some</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="CHI" uID="u43">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="actions">nods yes .</a>
+  </u>
+  <u who="CHI" uID="u44">
+    <w>see</w>
+    <w>my</w>
+    <w formType="child-invented">vrrrm</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u45">
+    <w>I</w>
+    <w>want</w>
+    <w type="filler">th</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="CHI" uID="u46">
+    <w>I</w>
+    <w>need</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">The following are test words</comment>
+  <u who="CHI" uID="u47">
+    <w>kittens</w>
+    <w>dad's</w>
+    <w>mary's</w>
+    <w>loved</w>
+    <w>goes</w>
+    <w>tells</w>
+    <w>can't</w>
+    <w>doesn't</w>
+    <w>he's</w>
+    <w>we're</w>
+    <w>I'm</w>
+    <w>I'll</w>
+    <w>I'd</w>
+    <w>we've</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u48">
+    <w>monies</w>
+    <w>plays</w>
+    <w>babies</w>
+    <w>baby's</w>
+    <w>babies'z</w>
+    <w>cries</w>
+    <w>cried</w>
+    <w>cries</w>
+    <w>crying</w>
+    <w>skies</w>
+    <w>dishes</w>
+    <w>bosses</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u49">
+    <w>pages</w>
+    <w>cups</w>
+    <w>pens</w>
+    <w>catches</w>
+    <w>runs</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u50">
+    <w>stopped</w>
+    <w>stopping</w>
+    <w>died</w>
+    <w>dying</w>
+    <w>dropped</w>
+    <w>dropping</w>
+    <w>bagged</w>
+    <w>bagging</w>
+    <w>pitted</w>
+    <w>pitting</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u51">
+    <w>padded</w>
+    <w>padding</w>
+    <w>hummed</w>
+    <w>humming</w>
+    <w>pinned</w>
+    <w>pinning</w>
+    <w>cooked</w>
+    <w>cooking</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u52">
+    <w>running</w>
+    <w>buzzing</w>
+    <w>regretting</w>
+    <w>putting</w>
+    <w>admitting</w>
+    <w>jumping</w>
+    <w>sewing</w>
+    <w>going</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u53">
+    <w>he</w>
+    <w><shortening>ha</shortening>s</w>
+    <w>what</w>
+    <w><shortening>doe</shortening>s</w>
+    <w>why</w>
+    <w><shortening>di</shortening>d</w>
+    <w>let's</w>
+    <t type="p"></t>
+
+  </u>
+</CHAT>

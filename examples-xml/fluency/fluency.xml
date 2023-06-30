@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="test"
+      >
+  <Participants>
+    <participant
+      id="PAR"
+      role="Participant"
+      language="eng"
+      age="P4Y11M03D"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Generic">flucalc +t*PAR fluency.cha</comment>
+  <u who="PAR" uID="u0">
+    <w><ca-delimiter type="begin" label="repeated-segment"/>r-r<ca-delimiter type="end" label="repeated-segment"/>rabbit<mor type="mor"><mw><pos><c>n</c></pos><stem>rabbit</stem></mw><gra type="gra" index="1" head="3" relation="SUBJ"/></mor></w>
+    <g><w>is</w><k type="retracing with correction"/></g>
+    <w>was<mor type="mor"><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><gra type="gra" index="2" head="3" relation="AUX"/></mor></w>
+    <w>jumping<mor type="mor"><mw><pos><c>part</c></pos><stem>jump</stem><mk type="sfx">PRESP</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u1">
+    <w><ca-delimiter type="begin" label="repeated-segment"/>b-bo-b<ca-delimiter type="end" label="repeated-segment"/>boy<mor type="mor"><mw><pos><c>n</c></pos><stem>boy</stem></mw><gra type="gra" index="1" head="3" relation="SUBJ"/></mor></w>
+    <w>has<mor type="mor"><mw><pos><c>aux</c></pos><stem>have</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="3" relation="AUX"/></mor></w>
+    <w>spoken<mor type="mor"><mw><pos><c>part</c></pos><stem>speak</stem><mk type="sfxf">PASTP</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u2">
+    <w><ca-delimiter type="begin" label="repeated-segment"/>b-b-b<ca-delimiter type="end" label="repeated-segment"/>boy<mor type="mor"><mw><pos><c>n</c></pos><stem>boy</stem></mw><gra type="gra" index="1" head="3" relation="SUBJ"/></mor></w>
+    <w>is<mor type="mor"><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="3" relation="AUX"/></mor></w>
+    <w>walking<mor type="mor"><mw><pos><c>part</c></pos><stem>walk</stem><mk type="sfx">PRESP</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u3">
+    <w><ca-delimiter type="begin" label="repeated-segment"/>bo-bo-bo<ca-delimiter type="end" label="repeated-segment"/>boy<mor type="mor"><mw><pos><c>n</c></pos><stem>boy</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w>
+    <w>is<mor type="mor"><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w>
+    <w>home<mor type="mor"><mw><pos><c>n</c></pos><stem>home</stem></mw><gra type="gra" index="3" head="2" relation="JCT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u4">
+    <w>he<ca-delimiter type="begin" label="repeated-segment"/>e-e<ca-delimiter type="end" label="repeated-segment"/><mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w>
+    <w>is<mor type="mor"><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w>
+    <w>ra<ca-delimiter type="begin" label="repeated-segment"/>b<ca-delimiter type="end" label="repeated-segment"/>bbit<ca-delimiter type="begin" label="repeated-segment"/>it<ca-delimiter type="end" label="repeated-segment"/><mor type="mor"><mw><pos><c>n</c></pos><stem>rabbit</stem></mw><gra type="gra" index="4" head="2" relation="PRED"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u5">
+    <w>wa<p type="pause"/>nt<mor type="mor"><mw><pos><c>v</c></pos><stem>want</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>to<mor type="mor"><mw><pos><c>prep</c></pos><stem>to</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u6">
+    <w>here<p type="drawl"/><mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="1" head="2" relation="JCT"/></mor></w>
+    <w>is<mor type="mor"><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w>
+    <w>some<p type="drawl"/><p type="drawl"/>thing<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>something</stem></mw><gra type="gra" index="3" head="2" relation="SUBJ"/></mor></w>
+    <w>bad<mor type="mor"><mw><pos><c>adj</c></pos><stem>bad</stem></mw><gra type="gra" index="4" head="2" relation="PRED"/></mor></w>
+    <t type="trail off"><mor type="mor"><mt type="trail off"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u7">
+    <w><ca-element type="blocked segments"/>row<mor type="mor"><mw><pos><c>n</c></pos><stem>row</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w>
+    <w type="filler">um</w>
+    <w>you_know<mor type="mor"><mw><pos><c>co</c></pos><stem>you_know</stem></mw><gra type="gra" index="2" head="3" relation="COM"/></mor></w>
+    <pause symbolic-length="simple"/>
+    <w type="filler">u<p type="drawl"/>m</w>
+    <w>that<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="PAR" uID="u8">
+    <w>here<mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="1" head="2" relation="JCT"/></mor></w>
+    <w>is<mor type="mor"><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w>
+    <g><w>dog</w><k type="retracing with correction"/></g>
+    <g><w>cow</w><k type="retracing unclear"/></g>
+    <g><w>dog</w><k type="retracing"/></g>
+    <w>dog<mor type="mor"><mw><pos><c>n</c></pos><stem>dog</stem></mw><gra type="gra" index="4" head="2" relation="PRED"/></mor></w>
+    <pause symbolic-length="simple" length="2.0"/>
+    <w>running<mor type="mor"><mw><pos><c>part</c></pos><stem>run</stem><mk type="sfx">PRESP</mk></mw><gra type="gra" index="5" head="4" relation="XMOD"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="2" relation="PUNCT"/></mor></t>
+
+  </u>
+</CHAT>
