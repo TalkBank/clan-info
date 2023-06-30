@@ -1,8 +1,0 @@
-@UTF8
-;"Praat Speaker tag"	"Chat Speaker"	"Role"
-utt			*SPK:		Speaker
-
-;"Praat Dep. Tier tag"	"Chat tier"	"Associated with tag"
-Comment			%com		*SPK:
-AAE_feature		%xaae		*SPK:
-
