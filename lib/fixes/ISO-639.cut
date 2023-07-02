@@ -3,6 +3,7 @@
 # List one language code separated by tab,
 # at the end followed by Capitalized language name.
 # Language name can have spaces in it, for example: Manado Malay
+kat	Georgian
 tsn	Tswana
 mon	Mongolian
 slk	Slovak
