@@ -1,6 +1,5 @@
 @UTF8
 @Color words:	RULENAME: 7 65535 773 0 
-@Window:	224_1384_986_1048_-1_-1_0_0_0_0
 % The following lines marked with % explain the interpretation of symbols in the rules
 
 % += means variable can match any number of times
