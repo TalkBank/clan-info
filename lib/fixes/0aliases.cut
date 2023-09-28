@@ -15,4 +15,18 @@ trim	kwal +t* +t@ +t% +d +f
 %argument-needed
 # chat2text creates a simple text file for use in programs like AntConc
 # for example:  chat2text *.cha
-chat2text flo +cr +t* 
+chat2text flo +cr +t*
+
+%argument-needed
+%add_command_usage
+%pull-down-command
+# dsseng = dss +leng +t*CHI
+# automatically analysis English *CHI speakers
+dsseng dss +leng +t*CHI
+
+%argument-needed
+%add_command_usage
+%pull-down-command
+# ipsyneng = ipsyn +leng +t*CHI
+# automatically analysis English *CHI speakers
+ipsyneng ipsyn +leng +t*CHI
