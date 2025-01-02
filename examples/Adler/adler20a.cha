@@ -439,7 +439,7 @@
 %gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|6|ENUM 8|7|JCT
 	9|10|DET 10|8|POBJ 11|4|PUNCT
 %wor:	so 334895_335085 ‡ I [/] I do very good ruz@u [: x@n] [* n:uk] 335485_336655 with 336795_337025 &-uh 337025_337035 this 337035_337225 job 337225_338035 . [+ jar]
-*PAR:	thank [/] thank god I have <her to [/] to [/] to > [//] &+s somebody to help &=ges:help me . 338890_342530
+*PAR:	thank [/] thank god I have <her to [/] to [/] to> [//] &+s somebody to help &=ges:help me . 338890_342530
 %mor:	v|thank n|god pro:sub|I v|have pro:indef|somebody inf|to v|help
 	pro:obj|me .
 %gra:	1|4|JCT 2|1|OBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XMOD 8|7|OBJ

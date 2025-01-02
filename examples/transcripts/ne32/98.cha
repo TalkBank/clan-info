@@ -1635,7 +1635,7 @@
 %spa:	$MRK:MK:IN
 %gpx:	MOT looks at puppet then back at CHI
 %act:	MOT turns puppet towards self then back towards CHI
-*CHI:	<&=laughs > [>] .
+*CHI:	<&=laughs> [>] .
 %tim:	00:08:00
 %gpx:	CHI looks at MOT then back at MOTs puppet
 *CHI:	0 .
@@ -1645,7 +1645,7 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DSS:EM:FSF
 %act:	MOT shakes her puppet
-*CHI:	<&=laughs > [<] .
+*CHI:	<&=laughs> [<] .
 %act:	CHI pulls puppet back
 %gpx:	CHI looks at MOTs puppet
 *MOT:	0 .
@@ -1657,7 +1657,7 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DSS:EM:FSF
 %act:	MOT pulls her puppet away
-*CHI:	<&=laughs > [<] .
+*CHI:	<&=laughs> [<] .
 %gpx:	CHI looks at MOTs puppet
 *CHI:	0 [>] .
 %act:	CHI reaches towards MOTs puppet with her own
@@ -1711,12 +1711,12 @@
 %act:	CHI bites MOTs puppet with her own
 *MOT:	0 [>] .
 %act:	MOT chases CHIs puppet with hers then tickles her with puppet
-*CHI:	<&=laughs > [<] .
+*CHI:	<&=laughs> [<] .
 %act:	CHI pulls her puppet away from MOTs
 %gpx:	<aft> CHI looks at MOTs puppet
 *MOT:	<0 [=! hums]> [>] .
 %act:	MOT slowly moves her puppet towards CHI
-*CHI:	<&=laughs > [<] .
+*CHI:	<&=laughs> [<] .
 %act:	CHI crawls away from MOT
 *MOT:	0 [>] .
 %act:	MOT touches CHI with puppet
@@ -2017,7 +2017,7 @@
 %spa:	$NIA:PF:FTI
 %gpx:	CHI looks at MOT
 %act:	CHI leans forward on knees and holds up puppet
-*MOT:	<&=laughs > [<] .
+*MOT:	<&=laughs> [<] .
 %gpx:	MOT looks at her puppet
 *MOT:	you don't want Cookie_Monster to take a little bite [>] ?
 %mor:	pro:per|you mod|do~neg|not v|want n:prop|Cookie_Monster inf|to

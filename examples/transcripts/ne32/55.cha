@@ -424,7 +424,7 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DJF:ST
 %gpx:	CHI looks at the book
-*MOT:	yeah and <he's got > [//] oh looks like he's gonna have toast .
+*MOT:	yeah and <he's got> [//] oh looks like he's gonna have toast .
 %mor:	co|yeah coord|and co|oh v|look-3S conj|like pro:sub|he~aux|be&3S
 	part|go&PRESP~inf|to v|have n|toast .
 %gra:	1|0|INCROOT 2|1|CONJ 3|4|COM 4|2|COORD 5|8|LINK 6|8|SUBJ 7|8|AUX
@@ -753,7 +753,7 @@
 %spa:	$DJF:SA:FAN
 *CHI:	0 [>] .
 %gpx:	CHI repeatedly hits MOT's puppet with his
-*MOT:	<your bird eats Cookie_Monster > [<] ?
+*MOT:	<your bird eats Cookie_Monster> [<] ?
 %mor:	det:poss|your n|bird v|eat-3S n:prop|Cookie_Monster ?
 %gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
 %spa:	$DCC:YQ

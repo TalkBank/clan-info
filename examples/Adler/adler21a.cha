@@ -723,7 +723,7 @@
 %gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|CONJ 7|8|JCT 8|10|AUX
 	9|10|INF 10|6|COORD 11|3|PUNCT
 %wor:	and 995146_995646 he [: she] [* s:r:gc:pro-ret] [//] 996146_996226 she 996226_996346 is 996346_996516 very 996516_996666 sweet 996796_997256 but 997256_997676 very 998146_998626 &-um 998916_998976 hasta 998976_999266 work 1002696_1003226 . [+ gram]
-*PAR:	and <twin [: two] [* s:r-ret] brother [: sister] [* s:r-ret] > [//] two sister [* m:0s:a] is <very cruel but very> [//] &-um very cruel and very &-uh cold . [+ gram] 1003993_1027133
+*PAR:	and <twin [: two] [* s:r-ret] brother [: sister] [* s:r-ret]> [//] two sister [* m:0s:a] is <very cruel but very> [//] &-um very cruel and very &-uh cold . [+ gram] 1003993_1027133
 %mor:	coord|and det:num|two n|sister cop|be&3S adv|very adj|cruel
 	coord|and adv|very adv|cold .
 %gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|CONJ 8|9|JCT
@@ -804,10 +804,10 @@
 %mor:	coord|and det:num|three n|mouse&PL cop|be&3S v|switch adv|around .
 %gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
 %wor:	and 1163012_1163602 three [//] 1163892_1164162 <one 1164162_1164232 two 1164462_1164562 three 1164712_1164982> [//] &=fingers:count three mouse [: mice] [* m:base:s:a] 1164982_1166532 is 1166532_1167042 switch 1167872_1168182 around 1168182_1168542 . [+ gram]
-*PAR:	and very [//] men [//] &+w &-uh <men is [* m:vsg:a-rep]> [/] &+m men is [* m:vsg:a] very nice .[+ gram] 1168593_1177963
+*PAR:	and very [//] men [//] &+w &-uh <men is [* m:vsg:a-rep]> [/] &+m men is [* m:vsg:a] very nice . [+ gram] 1168593_1177963
 %mor:	coord|and n|man&PL cop|be&3S adv|very adj|nice .
 %gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
-%wor:	and 1168593_1169043 very [//] 1169493_1170023 men [//] 1172663_1173113 &+w &-uh 1173473_1173583 <men 1173583_1174203 is [* m:vsg:a-rep]> [/] 1174323_1175023 &+m men 1175173_1175953 is [* m:vsg:a] 1175953_1176553 very 1177083_1177413 nice 1177443_1177963 .[+ gram]
+%wor:	and 1168593_1169043 very [//] 1169493_1170023 men [//] 1172663_1173113 &+w &-uh 1173473_1173583 <men 1173583_1174203 is [* m:vsg:a-rep]> [/] 1174323_1175023 &+m men 1175173_1175953 is [* m:vsg:a] 1175953_1176553 very 1177083_1177413 nice 1177443_1177963 . [+ gram]
 *PAR:	and he [: she] [* s:r:gc:pro-ret] [//] she is also very [/] very [/] very &-um very [/] &+gla very [/] &+s &=sighs very oh_god [//] &-uh (.) beautiful . 1179210_1190560
 %mor:	coord|and pro:sub|she cop|be&3S adv|also adv|very adv|very
 	adj|beautiful .
@@ -850,7 +850,7 @@
 %mor:	pro:sub|I~cop|be&1S adv|so adj|sorry conj|but co|say co|goodbye .
 %gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|CONJ 6|7|COM 7|5|COORD 8|2|PUNCT
 %wor:	+" I'm 1275228_1275378 so 1275378_1275608 sorry 1275608_1276008 &+s &-uh 1276008_1276018 but 1276268_1277158 say 1278198_1278468 goodbye 1278468_1278998 &=ges:leave .
-*PAR:	and she &=ges:run <running to> [/] &-uh running to <the ball [: carriage] [* s:r-ret] > [//] <the building [: carriage] [* s:ur-ret] > [//] the &-um &+p &-um horse and buggy and stuff like that and running away . [+ gram] 1279100_1301120
+*PAR:	and she &=ges:run <running to> [/] &-uh running to <the ball [: carriage] [* s:r-ret]> [//] <the building [: carriage] [* s:ur-ret]> [//] the &-um &+p &-um horse and buggy and stuff like that and running away . [+ gram] 1279100_1301120
 %mor:	coord|and pro:sub|she part|run-PRESP prep|to det:art|the n|horse
 	coord|and n|buggy coord|and n|stuff prep|like pro:dem|that coord|and
 	part|run-PRESP adv|away .

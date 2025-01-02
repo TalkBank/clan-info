@@ -1,5 +1,5 @@
 @UTF8
-@Window:	224_1384_986_1048_-1_-1_83118_0_83118_0
+@Window:	224_1384_986_1048_-1_-1_60066_0_60066_0
 @Begin
 @Languages:	eng
 @Participants:	CHI David Target_Child, MOT Mother, INV Investigator
@@ -1182,7 +1182,7 @@
 	empty box and looks in the empty box, then starts to put the box back
 	down
 %sit:	CHI continues to hold the ball
-*MOT:	is that [=  ball] all that's in the box[>] ?
+*MOT:	is that [=  ball] all that's in the box [>] ?
 %mor:	cop|be&3S comp|that qn|all pro:rel|that~cop|be&3S prep|in
 	det:art|the n|box ?
 %gra:	1|0|ROOT 2|1|PRED 3|4|QUANT 4|5|LINK 5|2|CMOD 6|5|JCT 7|8|DET 8|6|POBJ
@@ -1848,14 +1848,14 @@
 %mor:	n:prop|Mommy~aux|be&3S part|color-PRESP .
 %gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
 %spa:	$NIA:ST
-*MOT:	you want Mommy to color with two[!] hands ?
+*MOT:	you want Mommy to color with two [!] hands ?
 %mor:	pro:per|you v|want n:prop|Mommy inf|to v|color prep|with
 	det:num|two n|hand-PL ?
 %gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|JCT 7|8|QUANT 8|6|POBJ
 	9|2|PUNCT
 %spa:	$NIA:RQ
 %gpx:	MOT holds up both of her hands
-*MOT:	see Mommy color with two[!] hands ?
+*MOT:	see Mommy color with two [!] hands ?
 %mor:	v|see n:prop|Mommy n|color prep|with det:num|two n|hand-PL ?
 %gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|1|PUNCT
 %spa:	$DJF:YQ
@@ -2117,7 +2117,7 @@
 %spa:	$DCC:YQ
 *CHI:	0 .
 %act:	CHI draws briefly and then holds onto the edge of the box
-*MOT:	I don't think Bubi would be too thrilled <that I said > [//] that
+*MOT:	I don't think Bubi would be too thrilled <that I said> [//] that
 	this is what I said she looked like .
 %mor:	pro:sub|I mod|do~neg|not v|think n:prop|Bubi mod|will&COND cop|be
 	adv|too part|thrill-PASTP comp|that pro:dem|this cop|be&3S

@@ -1,5 +1,5 @@
 @UTF8
-@Window:	224_1384_986_1048_-1_-1_41512_0_41512_0
+@Window:	224_1384_986_1048_-1_-1_26678_0_26678_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Christopher Target_Child, MOT Mother, INV Investigator
@@ -294,7 +294,7 @@
 %spa:	$DJF:QN
 *CHI:	0 .
 %gpx:	CHI looks at the toys on the floor
-*MOT:	what else is <in here > [>] ?
+*MOT:	what else is <in here> [>] ?
 %mor:	pro:int|what post|else aux|be&3S prep|in n|here ?
 %gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
 %spa:	$DJF:QN
@@ -502,7 +502,7 @@
 *CHI:	0 .
 %act:	CHI takes the football and puts it in his mouth as he walks over to
 	the chair
-*MOT:	can you <throw that [= football] > [>] ?
+*MOT:	can you <throw that [= football]> [>] ?
 %mor:	mod|can pro:per|you v|throw pro:dem|that ?
 %gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
 %spa:	$NIA:RP
@@ -859,7 +859,7 @@
 %gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|INF 8|6|COMP
 	9|8|OBJ 10|8|JCT 11|10|POBJ 12|3|PUNCT
 %add:	INV
-*CHI:	0[<] .
+*CHI:	0 [<] .
 %gpx:	CHI reaches out for the toys INV has in her hands and then touches
 	the object
 %com:	end of Forbidden Object Activity

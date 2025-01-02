@@ -2110,7 +2110,7 @@
 %spa:	$NIA:QN
 *CHI:	0 [<] .
 %act:	CHI pushes the car the rest of the way into the garage
-*CHI:	<said > [?] close this door .
+*CHI:	<said> [?] close this door .
 %mor:	v|say&PAST adj|close det:dem|this n|door .
 %gra:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|OBJ 5|1|PUNCT
 %spa:	$NIA:RP

@@ -1,6 +1,6 @@
 @UTF8
 @PID:	11312/t-00017849-1
-@Window:	129_731_927_847_-1_-1_219_0_219_0
+@Window:	129_731_927_847_-1_-1_79592_0_79592_0
 @Begin
 @Languages:	eng
 @Participants:	PAR adler23a Participant, INV Investigator
@@ -1103,11 +1103,11 @@
 	pro:indef|something co|oh .
 %gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|COM 8|5|PUNCT
 %wor:	&=points:cat <even 548590_549000 the 549000_549030 cat 549030_549150> [//] even the cat's gettin(g) somethin(g) oh . [+ es] 549150_551620
-*PAR:	&=laughs yeah ‡ and &=points:girl &=points:girl she [/] <she kind_of>[/] she kind_of likes it . 553455_557045
+*PAR:	&=laughs yeah ‡ and &=points:girl &=points:girl she [/] <she kind_of> [/] she kind_of likes it . 553455_557045
 %mor:	co|yeah beg|beg coord|and pro:sub|she adv|kind_of v|like-3S
 	pro:per|it .
 %gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|OBJ 8|6|PUNCT
-%wor:	&=laughs yeah 553455_553615 ‡ and 553615_554345 &=points:girl &=points:girl she [/] 554675_554695 <she kind_of>[/] 554695_555715 she kind_of 556245_556685 likes 556685_557045 it .
+%wor:	&=laughs yeah 553455_553615 ‡ and 553615_554345 &=points:girl &=points:girl she [/] 554675_554695 <she kind_of> [/] 554695_555715 she kind_of 556245_556685 likes 556685_557045 it .
 *PAR:	she does oh: . 557417_558647
 %mor:	pro:sub|she v|do&3S co|oh .
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT

@@ -887,7 +887,7 @@
 *PAR:	+< yeah &=points:belt &=points:girl . [+ exc] 793855_795910
 %mor:	co|yeah .
 %gra:	1|0|INCROOT 2|1|PUNCT
-*PAR:	yeah &=head:yes &=points:belt &=points:girl yeah &=ges:pull .[+ exc] 797855_803556
+*PAR:	yeah &=head:yes &=points:belt &=points:girl yeah &=ges:pull . [+ exc] 797855_803556
 %mor:	co|yeah co|yeah .
 %gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
 *INV:	+< how &+d +/? 800000_801000
@@ -898,7 +898,7 @@
 	part|go&PRESP~inf|to v|get pro:obj|her adv|out ?
 %gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|INF 8|6|COMP
 	9|8|OBJ 10|8|JCT 11|3|PUNCT
-*PAR:	yeah &=head:yes &=points:man .[+ exc] 805103_806724
+*PAR:	yeah &=head:yes &=points:man . [+ exc] 805103_806724
 %mor:	co|yeah .
 %gra:	1|0|INCROOT 2|1|PUNCT
 *INV:	okay [/] okay . 806724_808104

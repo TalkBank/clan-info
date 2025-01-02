@@ -808,11 +808,11 @@
 %mor:	co|huh ?
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DJF:EQ
-*CHI:	&=vocalizes .[+ trn]
+*CHI:	&=vocalizes . [+ trn]
 %spa:	$YYY:YY:IN
 %act:	<bef> CHI bends over . CHI stretches both legs out and spreads them
 	apart
-*MOT:	<&=vocalizes> [>] .[+ trn]
+*MOT:	<&=vocalizes> [>] . [+ trn]
 %spa:	$YYY:RT:IN
 %com:	MOT imitates CHI
 *CHI:	0 [<] . [+ trn]
@@ -921,7 +921,7 @@
 %act:	CHI crawls backwards out from under the desk with football in her
 	arm
 @Eg:	10mins
-*CHI:	yyy .[+ trn]
+*CHI:	yyy . [+ trn]
 %pho:	dis
 %spa:	$YYY:YY:IN
 %gpx:	<bef> CHI turns around and sits on the floor . <aft> CHI looks up at
@@ -930,7 +930,7 @@
 %mor:	pro:int|what ?
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$DCC:RR
-*CHI:	&=vocalizes .[+ trn]
+*CHI:	&=vocalizes . [+ trn]
 %spa:	$YYY:YY:IN
 %act:	CHI holds football up in the air with one arm
 *MOT:	oh can you throw it [= football] to me ?
@@ -1052,7 +1052,7 @@
 %add:	INV
 %gpx:	MOT looks at CHI then kisses CHI on the cheek
 *MOT:	<&=laughs> [>] .
-*INV:	<yeah> [<][>] .
+*INV:	<yeah> [<] [>] .
 %mor:	co|yeah .
 %gra:	1|0|INCROOT 2|1|PUNCT
 *CHI:	0 [<] .
@@ -1144,7 +1144,7 @@
 %mor:	co|no .
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$NIA:PF
-*MOT:	<no: > [>] .
+*MOT:	<no:> [>] .
 %mor:	co|no .
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$NIA:PF
@@ -1243,10 +1243,10 @@
 *CHI:	0 .
 %act:	CHI is still drinking her bottle
 %gpx:	CHI looks at MOT
-*MOT:	&=gasps .[+ trn]
+*MOT:	&=gasps . [+ trn]
 %spa:	$DHA:MK:IN
 %act:	<bef> MOT takes something from desk . MOT turns around
-*CHI:	&=vocalizes .[+ trn]
+*CHI:	&=vocalizes . [+ trn]
 %spa:	$YYY:YY:IN
 *MOT:	&=gasps . [+ trn]
 %spa:	$DHA:MK:IN
@@ -1274,7 +1274,7 @@
 *CHI:	0 [<] .
 %act:	CHI takes bottle out of her mouth and puts it down on floor then
 	starts to crawl towards box
-*MOT:	<&=gasps> [>] .[+ trn]
+*MOT:	<&=gasps> [>] . [+ trn]
 %spa:	$DHA:MK:IN
 %gpx:	MOT looks down in box
 %act:	MOT hold box up in one end
@@ -1609,7 +1609,7 @@
 %mor:	v|throw pro:per|it prep|to n:prop|Mommy .
 %gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
 %spa:	$NIA:RP
-*CHI:	<yyy > [<] .
+*CHI:	<yyy> [<] .
 %pho:	es
 %spa:	$YYY:YY
 *MOT:	wanna [: want to] throw it [= the ball] to me ?
@@ -1737,7 +1737,7 @@
 %gpx:	MOT looks at box
 *CHI:	0 [<] .
 %gpx:	CHI looks at towel then at MOT
-*MOT:	<lemme [: let me] see > [>] .
+*MOT:	<lemme [: let me] see> [>] .
 %mor:	v|let&ZERO pro:obj|me v|see .
 %gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
 %spa:	$NIA:RP
@@ -1805,7 +1805,7 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
 %spa:	$PRO:QN
 %par:	sing song voice
-*MOT:	<peekaboo > [>] .
+*MOT:	<peekaboo> [>] .
 %mor:	co|peekaboo .
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$PRO:PR

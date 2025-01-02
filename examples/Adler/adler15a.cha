@@ -631,12 +631,12 @@
 	9|3|CJCT 10|9|JCT 11|12|JCT 12|13|QUANT 13|10|POBJ 14|3|CONJ 15|14|COORD
 	16|15|JCT 17|18|JCT 18|15|JCT 19|3|PUNCT
 %wor:	and 321402_321542 I 321542_321632 go 321632_321832 with 321832_321922 FirstnameD 321922_322292 and 322872_323092 he'd 323092_323242 sit 323242_323502 for 323502_323672 about 323672_323942 two 323942_324122 hours 324122_324552 and 324552_324672 sit 324672_324972 here 325132_325392 too 325392_325882 besides 325972_326462 .
-*PAR:	&-uh you_know ‡ one of the dancers good [/] good friends .[+ gram] 326509_328629
+*PAR:	&-uh you_know ‡ one of the dancers good [/] good friends . [+ gram] 326509_328629
 %mor:	co|you_know beg|beg det:num|one prep|of det:art|the
 	n|dance&dv-AGT-PL adj|good n|friend-PL .
 %gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|JCT 5|6|DET 6|8|MOD 7|8|MOD 8|4|POBJ
 	9|3|PUNCT
-%wor:	&-uh 326509_326519 you_know 326519_326899 ‡ one 326899_327079 of 327079_327339 the 327339_327349 dancers 327349_327849 good [/] 327879_328139 good 328139_328349 friends 328349_328629 .[+ gram]
+%wor:	&-uh 326509_326519 you_know 326519_326899 ‡ one 326899_327079 of 327079_327339 the 327339_327349 dancers 327349_327849 good [/] 327879_328139 good 328139_328349 friends 328349_328629 . [+ gram]
 *PAR:	we [/] we have lots of good &+s friends . 329016_330236
 %mor:	pro:sub|we v|have n|lot-PL prep|of adj|good n|friend-PL .
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
@@ -1451,7 +1451,7 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|AUX 6|2|XJCT 7|6|JCT 8|7|POBJ
 	9|10|ENDP 10|2|END 11|2|PUNCT
 %wor:	+< it 804678_804738 sounds 804738_804888 like 804888_805068 you're 805068_805278 &=coughs getting 806048_806378 along 806378_806738 well 806738_807068 „ huh 807068_807318 ?
-*PAR:	<yeah I'm [/] I'm [/] I'm > [//] yeah ‡ thank people my friends and stuff like that . [+ gram] 808156_811666
+*PAR:	<yeah I'm [/] I'm [/] I'm> [//] yeah ‡ thank people my friends and stuff like that . [+ gram] 808156_811666
 %mor:	co|yeah beg|beg v|thank n|person&PL det:poss|my n|friend-PL
 	coord|and n|stuff prep|like pro:dem|that .
 %gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|OBJ 7|6|CONJ 8|7|COORD
@@ -1988,14 +1988,14 @@
 	15|10|CJCT 16|15|JCT 17|16|POBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|15|CJCT
 	22|21|JCT 23|3|PUNCT
 %wor:	&-uh 1341876_1342106 the 1342106_1342286 other 1342286_1342466 girls 1342466_1342816 and 1342816_1342916 they [//] 1342916_1343006 she 1343006_1343156 had 1343156_1343556 two 1343556_1343906 but 1343906_1344256 they 1344256_1344386 were 1344386_1344666 kind_of 1344926_1345136 like 1345136_1345546 a little 1345636_1346156 upset 1346246_1346756 with 1346756_1346906 her because 1347656_1347896 she 1347896_1347976 was 1347976_1348216 dressed 1348216_1348556 too 1348556_1348926 . [+ gram]
-*PAR:	however ‡ they &=head:no weren't too good with him and so they left him with him .[+ es] 1349371_1352381
+*PAR:	however ‡ they &=head:no weren't too good with him and so they left him with him . [+ es] 1349371_1352381
 %mor:	co|however beg|beg pro:sub|they cop|be&PAST~neg|not adv|too
 	adj|good prep|with pro:obj|him coord|and co|so pro:sub|they
 	v|leave&PAST pro:obj|him prep|with pro:obj|him .
 %gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|4|PRED 8|7|JCT
 	9|8|POBJ 10|4|CONJ 11|13|COM 12|13|SUBJ 13|10|COORD 14|13|OBJ 15|13|JCT
 	16|15|POBJ 17|4|PUNCT
-%wor:	however 1349371_1349681 ‡ they 1349681_1350031 &=head:no weren't 1350171_1350441 too 1350441_1350541 good 1350541_1350821 with 1350821_1351011 him and 1351231_1351491 so 1351491_1351651 they 1351651_1351781 left 1351781_1352081 him with 1352211_1352381 him .[+ es]
+%wor:	however 1349371_1349681 ‡ they 1349681_1350031 &=head:no weren't 1350171_1350441 too 1350441_1350541 good 1350541_1350821 with 1350821_1351011 him and 1351231_1351491 so 1351491_1351651 they 1351651_1351781 left 1351781_1352081 him with 1352211_1352381 him . [+ es]
 *PAR:	and then the &-uh fairy girl <with the> [//] found her with the [//] &-uh a carriage &=ges:carriage and everything . [+ gram] 1352668_1360378
 %mor:	coord|and adv:tem|then det:art|the n|fairy n|girl v|find&PAST
 	pro:obj|her prep|with det:art|a n|carriage coord|and

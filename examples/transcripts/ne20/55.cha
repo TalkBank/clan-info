@@ -1,5 +1,5 @@
 @UTF8
-@Window:	224_1384_986_1048_-1_-1_18539_0_18539_0
+@Window:	224_1384_986_1048_-1_-1_3322_0_3322_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Nathan Target_Child , MOT Mother , INV Investigator
@@ -113,7 +113,7 @@
 %gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
 %spa:	$DJF:AP
 %gpx:	MOT looks at CHI who is holding up the football
-*MOT:	<nice ball and a > [>] +/.
+*MOT:	<nice ball and a> [>] +/.
 %mor:	adj|nice n|ball coord|and det:art|a +/.
 %gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
 %spa:	$DJF:ST

@@ -1,5 +1,5 @@
 @UTF8
-@Window:	224_1384_986_1048_-1_-1_92286_0_92286_0
+@Window:	224_1384_986_1048_-1_-1_66933_0_66933_0
 @Begin
 @Languages:	eng
 @Participants:	CHI Laura Target_Child , MOT Mother , INV Investigator
@@ -956,7 +956,7 @@
 *CHI:	0 [<] .
 %act:	CHI throws ball to MOT
 @Bg:	ten_minutes
-*CHI:	<that's [= ball]> [?] <red: > [>] .
+*CHI:	<that's [= ball]> [?] <red:> [>] .
 %mor:	pro:dem|that~cop|be&3S adj|red .
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
 %spa:	$DJF:SA
@@ -1103,7 +1103,7 @@
 %act:	<1> MOT catches ball then rolls it to herself . <2-3> MOT rolls ball to CHI
 *CHI:	0 [<] .
 %gpx:	CHI looks towards boxes on the desk
-*MOT:	+" she rolls: it [= ball] <back: to me: > [>] .
+*MOT:	+" she rolls: it [= ball] <back: to me:> [>] .
 %mor:	pro:sub|she v|roll-3S pro:per|it adv|back prep|to pro:obj|me .
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|2|PUNCT
 %spa:	$PRO:PR
@@ -1265,7 +1265,7 @@
 %act:	<bef> CHI places towel on box bottom . CHI scrunches the towel into a ball inside the box bottom and pats it down
 *CHI:	0 [>] .
 %gpx:	CHI looks at box cover
-*MOT:	<yea:h > [<] .
+*MOT:	<yea:h> [<] .
 %mor:	co|yeah .
 %gra:	1|0|INCROOT 2|1|PUNCT
 %spa:	$NIA:AC
@@ -1978,7 +1978,7 @@
 %act:	CHI picks up a piece of paper
 *CHI:	0 [>] .
 %act:	CHI places piece of paper inside the open box cover
-*MOT:	<oh look> [<] what somebody <else drew > [>] !
+*MOT:	<oh look> [<] what somebody <else drew> [>] !
 %mor:	co|oh v|look pro:int|what pro:indef|somebody post|else v|draw&PAST
 	!
 %gra:	1|2|COM 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|4|PQ 6|2|COMP 7|2|PUNCT
