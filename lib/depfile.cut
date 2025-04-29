@@ -12,7 +12,7 @@
 		Text Media PlayRole LENA
 		Justice Attorney Doctor Nurse Student Teacher
 		Host Guest Leader Member Narrator Speaker Audience
-@Options:	IPA CA CA-Unicode multi bullets dummy
+@Options:	CA CA-Unicode bullets dummy
 @ID:	@d<yy;> @d<yy;mm.> @d<yy;mm.dd>
 	@e<White> @e<Black> @e<Latino> @e<Asian> @e<Pacific> @e<Native> @e<Multiple>  @e<Unknown>
 	@s<WC> @s<UC> @s<MC> @s<LI>
