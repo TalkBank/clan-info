@@ -17,7 +17,6 @@
 	@e<White> @e<Black> @e<Latino> @e<Asian> @e<Pacific> @e<Native> @e<Multiple>  @e<Unknown>
 	@s<WC> @s<UC> @s<MC> @s<LI>
 @Media:	audio video missing unlinked notrans
-@Angles:	*
 @End
 
 # Optional Participant Headers
@@ -76,7 +75,7 @@
 %coh:	* $*
 %com:	* `* ~* !* @* #* $* %* ^* &* \** -* _* =* +* {*} [*] \* |* :* ;* "* '* <*> ,* .* ?* /*
 %def:	* $* =
-%eng:	* [_*] "_* +... +/. +!? +//. +/? +"/. +". +" +^ +< +, ++ +//? +..? # "
+%eng:	* [_*] "_* +... +/. +!? +//. +/? +"/. +". +" +^ +< +, ++ +//? +..? # " &*
 %err:	* [?] $_* $=_* = ; /* "_* '_* [_*]
 %exp:	* [_*] "* '* = $=*
 %fac:	*
