@@ -1,5 +1,4 @@
 @UTF8
-@Window:	607_3_802_642_-1_-1_1657_0_1657_0
 # Comments marker
 # Obligatory Headers
 @Begin
@@ -13,7 +12,7 @@
 		Text Media PlayRole LENA
 		Justice Attorney Doctor Nurse Student Teacher
 		Host Guest Leader Member Narrator Speaker Audience
-@Options:	CA dummy
+@Options:	CA dummy NoAlign
 @ID:	@d<yy;> @d<yy;mm.> @d<yy;mm.dd>
 	@e<White> @e<Black> @e<Latino> @e<Asian> @e<Pacific> @e<Native> @e<Multiple>  @e<Unknown>
 	@s<WC> @s<UC> @s<MC> @s<LI>
