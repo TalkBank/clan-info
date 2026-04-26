@@ -41,7 +41,7 @@ RULENAME: per-pns (B)
  FOCUS: pro:sub|we+pro:obj|us+det:poss|our+pro:poss|ours+pro:sub|they*+pro:obj|them+det:poss|their+pro:dem|these+pro:dem|those+*pro:obj|us+det:dem|these+det:dem|those
  POINTS: B3
  FOCUS: adj|own+pro:refl|oneself+pro:indef|wh*+(pro:int|whatever)+(pro:int|whichever)
- POINTS: B7 
+ POINTS: B7
  FOCUS: pro:refl|*
  POINTS: B5
  FOCUS: (adv:int|how^qn|much)+pro:rel|*
