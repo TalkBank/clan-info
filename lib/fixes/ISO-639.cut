@@ -3,28 +3,28 @@
 # List one language code separated by tab,
 # at the end followed by Capitalized language name.
 # Language name can have spaces in it, for example: Manado Malay
-asm Assamese
-ben Bengali
-brx Bodo (India)
-doi Dogri (macrolanguage)
-guj Gujarati
-hin Hindi
-kan Kannada
-kok Konkani (macrolanguage)
-kas Kashmiri
-mai Maithili
-mal Malayalam
-mni Manipuri
-mar Marathi
-nep Nepali (macrolanguage)
-ory Odia
-pan Punjabi (macro-language)
-san Sanskrit
-sat Santali
-snd Sindhi
-tam Tamil
-tel Telugu
-urd Urdu
+asm	Assamese
+ben	Bengali
+brx	Bodo (India)
+doi	Dogri (macrolanguage)
+guj	Gujarati
+hin	Hindi
+kan	Kannada
+kok	Konkani (macrolanguage)
+kas	Kashmiri
+mai	Maithili
+mal	Malayalam
+mni	Manipuri
+mar	Marathi
+nep	Nepali (macrolanguage)
+ory	Odia
+pan	Punjabi (macro-language)
+san	Sanskrit
+sat	Santali
+snd	Sindhi
+tam	Tamil
+tel	Telugu
+urd	Urdu
 kaz	Kazakh
 kal	Kalaallisut
 acf	Lesser Antilles Creole
